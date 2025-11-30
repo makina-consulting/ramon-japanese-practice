@@ -1,0 +1,1474 @@
+[
+  {
+    "hiragana": "いく",
+    "kanji": "行く",
+    "english": "to go (<i>destination</i> に/へ)",
+    "kanjiMeanings": "Go - く",
+    "lessonSection": "03",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "かえる",
+    "kanji": "帰る",
+    "english": "to go back; to return (<i>destination</i> に/へ)",
+    "kanjiMeanings": "Return - る",
+    "lessonSection": "03",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "きく",
+    "kanji": "聞く",
+    "english": "to listen; to hear (〜を); to ask (<i>person</i>&nbsp;に)",
+    "kanjiMeanings": "Hear - く",
+    "lessonSection": "03",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "のむ",
+    "kanji": "飲む",
+    "english": "to drink (〜を)",
+    "kanjiMeanings": "Drink - む",
+    "lessonSection": "03",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "はなす",
+    "kanji": "話す",
+    "english": "to speak; to talk (<i>language</i> を/で)",
+    "kanjiMeanings": "Talk - す",
+    "lessonSection": "03",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "よむ",
+    "kanji": "読む",
+    "english": "to read (〜を)",
+    "kanjiMeanings": "Read - む",
+    "lessonSection": "03",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "おきる",
+    "kanji": "起きる",
+    "english": "to get up",
+    "kanjiMeanings": "Wake Up - きる",
+    "lessonSection": "03",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "たべる",
+    "kanji": "食べる",
+    "english": "to eat (〜を)",
+    "kanjiMeanings": "Eat - べる",
+    "lessonSection": "03",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "ねる",
+    "kanji": "寝る",
+    "english": "to sleep; to go to sleep",
+    "kanjiMeanings": "Lie Down - る",
+    "lessonSection": "03",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "みる",
+    "kanji": "見る",
+    "english": "to see; to look at; to watch (〜を)",
+    "kanjiMeanings": "See - る",
+    "lessonSection": "03",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "くる",
+    "kanji": "来る",
+    "english": "to come (<i>destination</i> に/へ)",
+    "kanjiMeanings": "Come - る",
+    "lessonSection": "03",
+    "category": "Irregular Verbs"
+  },
+  {
+    "hiragana": "する",
+    "kanji": "",
+    "english": "to do (〜を)",
+    "kanjiMeanings": "",
+    "lessonSection": "03",
+    "category": "Irregular Verbs"
+  },
+  {
+    "hiragana": "べんきょうする",
+    "kanji": "勉強する",
+    "english": "to study (〜を)",
+    "kanjiMeanings": "Exertion - Strong - する",
+    "lessonSection": "03",
+    "category": "Irregular Verbs"
+  },
+  {
+    "hiragana": "いい",
+    "kanji": "",
+    "english": "good",
+    "kanjiMeanings": "",
+    "lessonSection": "03",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "はやい",
+    "kanji": "早い",
+    "english": "early",
+    "kanjiMeanings": "Early - い",
+    "lessonSection": "03",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "あう",
+    "kanji": "会う",
+    "english": "to meet; to see (a person) (<i>person</i>&nbsp;に)",
+    "kanjiMeanings": "Meet - う",
+    "lessonSection": "04",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "ある",
+    "kanji": "",
+    "english": "there is ... (<i>place</i>&nbsp;に <i>thing</i>&nbsp;が)",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "かう",
+    "kanji": "買う",
+    "english": "to buy (〜を)",
+    "kanjiMeanings": "Buy - う",
+    "lessonSection": "04",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "かく",
+    "kanji": "書く",
+    "english": "to write (<i>person</i>&nbsp;に <i>thing</i>&nbsp;を)",
+    "kanjiMeanings": "Write - く",
+    "lessonSection": "04",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "とる",
+    "kanji": "撮る",
+    "english": "to take (a picture) (〜を)",
+    "kanjiMeanings": "Photograph - る",
+    "lessonSection": "04",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "まつ",
+    "kanji": "待つ",
+    "english": "to wait (〜を)",
+    "kanjiMeanings": "Wait - つ",
+    "lessonSection": "04",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "わかる",
+    "kanji": "",
+    "english": "to understand (〜が)",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "いる",
+    "kanji": "",
+    "english": "(a person) is in ...; stays at ... (<i>place </i>に <i>person</i>&nbsp;が)",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "あたらしい",
+    "kanji": "新しい",
+    "english": "new",
+    "kanjiMeanings": "New - しい",
+    "lessonSection": "05",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "ふるい",
+    "kanji": "古い",
+    "english": "old (thing - not used for people)",
+    "kanjiMeanings": "Old - い",
+    "lessonSection": "05",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "あつい",
+    "kanji": "暑い (weather) 熱い (thing)",
+    "english": "hot",
+    "kanjiMeanings": "Hot - い (weather)  - Heat - い (thing)",
+    "lessonSection": "05",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "さむい",
+    "kanji": "寒い",
+    "english": "cold (weather - not used for things)",
+    "kanjiMeanings": "Cold - い",
+    "lessonSection": "05",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "いそがしい",
+    "kanji": "忙しい",
+    "english": "busy (people/days)",
+    "kanjiMeanings": "Busy - しい",
+    "lessonSection": "05",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "おおきい",
+    "kanji": "大きい",
+    "english": "large",
+    "kanjiMeanings": "Big - きい",
+    "lessonSection": "05",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "ちいさい",
+    "kanji": "小さい",
+    "english": "small",
+    "kanjiMeanings": "Small - さい",
+    "lessonSection": "05",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "おもしろい",
+    "kanji": "面白い",
+    "english": "interesting; funny",
+    "kanjiMeanings": "Face - White - い",
+    "lessonSection": "05",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "つまらない",
+    "kanji": "",
+    "english": "boring",
+    "kanjiMeanings": "",
+    "lessonSection": "05",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "やさしい",
+    "kanji": "",
+    "english": "easy (problem); kind (person)",
+    "kanjiMeanings": "",
+    "lessonSection": "05",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "むずかしい",
+    "kanji": "難しい",
+    "english": "difficult",
+    "kanjiMeanings": "Difficult - しい",
+    "lessonSection": "05",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "かっこいい",
+    "kanji": "",
+    "english": "good-looking (conjugates like いい)",
+    "kanjiMeanings": "",
+    "lessonSection": "05",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "こわい",
+    "kanji": "怖い",
+    "english": "frightening",
+    "kanjiMeanings": "Scary - い",
+    "lessonSection": "05",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "たのしい",
+    "kanji": "楽しい",
+    "english": "fun",
+    "kanjiMeanings": "Comfort - しい",
+    "lessonSection": "05",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "やすい",
+    "kanji": "安い",
+    "english": "inexpensive; cheap (thing)",
+    "kanjiMeanings": "Relax - い",
+    "lessonSection": "05",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "すき（な）",
+    "kanji": "好き",
+    "english": "fond of; to like (〜が)",
+    "kanjiMeanings": "Like - き",
+    "lessonSection": "05",
+    "category": "な-adjectives"
+  },
+  {
+    "hiragana": "きらい（な）",
+    "kanji": "嫌い",
+    "english": "disgusted with; to dislike (〜が)",
+    "kanjiMeanings": "Dislike - い",
+    "lessonSection": "05",
+    "category": "な-adjectives"
+  },
+  {
+    "hiragana": "だいすき（な）",
+    "kanji": "大好き",
+    "english": "very fond of; to love (〜が)",
+    "kanjiMeanings": "Big - Like - き",
+    "lessonSection": "05",
+    "category": "な-adjectives"
+  },
+  {
+    "hiragana": "だいきらい（な）",
+    "kanji": "大嫌い",
+    "english": "to hate (〜が)",
+    "kanjiMeanings": "Big - Dislike - い",
+    "lessonSection": "05",
+    "category": "な-adjectives"
+  },
+  {
+    "hiragana": "きれい（な）",
+    "kanji": "",
+    "english": "beautiful; clean",
+    "kanjiMeanings": "",
+    "lessonSection": "05",
+    "category": "な-adjectives"
+  },
+  {
+    "hiragana": "げんき（な）",
+    "kanji": "元気",
+    "english": "healthy; energetic",
+    "kanjiMeanings": "Origin - Energy",
+    "lessonSection": "05",
+    "category": "な-adjectives"
+  },
+  {
+    "hiragana": "しずか（な）",
+    "kanji": "静か",
+    "english": "quiet",
+    "kanjiMeanings": "Quiet - か",
+    "lessonSection": "05",
+    "category": "な-adjectives"
+  },
+  {
+    "hiragana": "にぎやか（な）",
+    "kanji": "",
+    "english": "lively",
+    "kanjiMeanings": "",
+    "lessonSection": "05",
+    "category": "な-adjectives"
+  },
+  {
+    "hiragana": "ひま（な）",
+    "kanji": "暇",
+    "english": "not busy; free (time)",
+    "kanjiMeanings": "Spare Time",
+    "lessonSection": "05",
+    "category": "な-adjectives"
+  },
+  {
+    "hiragana": "およぐ",
+    "kanji": "泳ぐ",
+    "english": "to swim",
+    "kanjiMeanings": "Swim - ぐ",
+    "lessonSection": "05",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "きく",
+    "kanji": "聞く",
+    "english": "to listen; to hear (〜を); to ask (<i>person</i>&nbsp;に)",
+    "kanjiMeanings": "Hear - く",
+    "lessonSection": "05",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "のる",
+    "kanji": "乗る",
+    "english": "to ride; to board (〜に)",
+    "kanjiMeanings": "Ride - る",
+    "lessonSection": "05",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "やる",
+    "kanji": "",
+    "english": "to do; to perform (〜を)",
+    "kanjiMeanings": "",
+    "lessonSection": "05",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "でかける",
+    "kanji": "出かける",
+    "english": "to go out",
+    "kanjiMeanings": "Exit - かける",
+    "lessonSection": "05",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "たいへん（な）",
+    "kanji": "大変",
+    "english": "tough (situation)",
+    "kanjiMeanings": "Big - Change",
+    "lessonSection": "06",
+    "category": "な-adjectives"
+  },
+  {
+    "hiragana": "あそぶ",
+    "kanji": "遊ぶ",
+    "english": "to play; to spend time pleasantly",
+    "kanjiMeanings": "Play - ぶ",
+    "lessonSection": "06",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "いそぐ",
+    "kanji": "急ぐ",
+    "english": "to hurry",
+    "kanjiMeanings": "Hurry - ぐ",
+    "lessonSection": "06",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "かえす",
+    "kanji": "返す",
+    "english": "to return (a thing) (<i>person</i>&nbsp;に <i>thing</i>&nbsp;を)",
+    "kanjiMeanings": "Return - す",
+    "lessonSection": "06",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "けす",
+    "kanji": "消す",
+    "english": "to turn off; to erase (〜を)",
+    "kanjiMeanings": "Extinguish - す",
+    "lessonSection": "06",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "しぬ",
+    "kanji": "死ぬ",
+    "english": "to die",
+    "kanjiMeanings": "Death - ぬ",
+    "lessonSection": "06",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "すわる",
+    "kanji": "座る",
+    "english": "to sit down (<i>seat</i>&nbsp;に)",
+    "kanjiMeanings": "Sit - る",
+    "lessonSection": "06",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "たつ",
+    "kanji": "立つ",
+    "english": "to stand up",
+    "kanjiMeanings": "Stand - つ",
+    "lessonSection": "06",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "たばこをすう",
+    "kanji": "たばこを吸う",
+    "english": "to smoke",
+    "kanjiMeanings": "たばこを - Suck - う",
+    "lessonSection": "06",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "つかう",
+    "kanji": "使う",
+    "english": "to use (〜を)",
+    "kanjiMeanings": "Use - う",
+    "lessonSection": "06",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "てつだう",
+    "kanji": "手伝う",
+    "english": "to help (<i>person</i>/<i>task</i>&nbsp;を)",
+    "kanjiMeanings": "Hand - Transmit - う",
+    "lessonSection": "06",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "はいる",
+    "kanji": "入る",
+    "english": "to enter (〜に)",
+    "kanjiMeanings": "Enter - る",
+    "lessonSection": "06",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "もつ",
+    "kanji": "持つ",
+    "english": "to carry; to hold (〜を)",
+    "kanjiMeanings": "Hold - つ",
+    "lessonSection": "06",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "やすむ",
+    "kanji": "休む",
+    "english": "(1) to be absent (from ...) (〜を)<div>(2) to rest</div>",
+    "kanjiMeanings": "Rest - む",
+    "lessonSection": "06",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "あける",
+    "kanji": "開ける",
+    "english": "to open (something) (〜を)",
+    "kanjiMeanings": "Open - ける",
+    "lessonSection": "06",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "しめる",
+    "kanji": "閉める",
+    "english": "to close (something) (〜を)",
+    "kanjiMeanings": "Closed - める",
+    "lessonSection": "06",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "おしえる",
+    "kanji": "教える",
+    "english": "to teach; to instruct (person に thing を)",
+    "kanjiMeanings": "Teach - える",
+    "lessonSection": "06",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "わすれる",
+    "kanji": "忘れる",
+    "english": "to forget; to leave behind (〜を)",
+    "kanjiMeanings": "Forget - れる",
+    "lessonSection": "06",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "おりる",
+    "kanji": "降りる",
+    "english": "to get off (〜を)",
+    "kanjiMeanings": "Descend - りる",
+    "lessonSection": "06",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "かりる",
+    "kanji": "借りる",
+    "english": "to borrow (person に thing を)",
+    "kanjiMeanings": "Borrow - りる",
+    "lessonSection": "06",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "シャワーをあびる",
+    "kanji": "シャワーを浴びる",
+    "english": "to take a shower",
+    "kanjiMeanings": "シャワーを - Bathe - びる",
+    "lessonSection": "06",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "つける",
+    "kanji": "",
+    "english": "to turn on (〜を)",
+    "kanjiMeanings": "",
+    "lessonSection": "06",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "でんわする",
+    "kanji": "電話する",
+    "english": "to call (〜に)",
+    "kanjiMeanings": "Electricity - Talk - する",
+    "lessonSection": "06",
+    "category": "Irregular Verbs"
+  },
+  {
+    "hiragana": "つれてくる",
+    "kanji": "連れてくる",
+    "english": "to bring (a person) (〜を)",
+    "kanjiMeanings": "Take Along - れてくる",
+    "lessonSection": "06",
+    "category": "Irregular Verbs"
+  },
+  {
+    "hiragana": "もってくる",
+    "kanji": "持ってくる",
+    "english": "to bring (a thing) (〜を)",
+    "kanjiMeanings": "Hold - ってくる",
+    "lessonSection": "06",
+    "category": "Irregular Verbs"
+  },
+  {
+    "hiragana": "ながい",
+    "kanji": "長い",
+    "english": "long",
+    "kanjiMeanings": "Long - い",
+    "lessonSection": "07",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "みじかい",
+    "kanji": "短い",
+    "english": "short (length)",
+    "kanjiMeanings": "Short - い",
+    "lessonSection": "07",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "はやい",
+    "kanji": "速い",
+    "english": "fast",
+    "kanjiMeanings": "Fast - い",
+    "lessonSection": "07",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "せがたかい",
+    "kanji": "背が高い",
+    "english": "tall (stature)",
+    "kanjiMeanings": "Back - が - Tall - い",
+    "lessonSection": "07",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "せがひくい",
+    "kanji": "背が低い",
+    "english": "short (stature)",
+    "kanjiMeanings": "Back - が - Low - い",
+    "lessonSection": "07",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "あたまがいい",
+    "kanji": "頭がいい",
+    "english": "bright; smart; clever (conjugates like いい)",
+    "kanjiMeanings": "Head - がいい",
+    "lessonSection": "07",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "かわいい",
+    "kanji": "",
+    "english": "cute",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "しんせつ（な）",
+    "kanji": "親切",
+    "english": "kind",
+    "kanjiMeanings": "Parent - Cut",
+    "lessonSection": "07",
+    "category": "な-adjectives"
+  },
+  {
+    "hiragana": "べんり（な）",
+    "kanji": "便利",
+    "english": "convenient",
+    "kanjiMeanings": "Convenience - Profit",
+    "lessonSection": "07",
+    "category": "な-adjectives"
+  },
+  {
+    "hiragana": "うたう",
+    "kanji": "歌う",
+    "english": "to sing (〜を)",
+    "kanjiMeanings": "Song - う",
+    "lessonSection": "07",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "かぶる",
+    "kanji": "",
+    "english": "to put on (a hat) (〜を)",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "はく",
+    "kanji": "",
+    "english": "to put on (items below your waist) (〜を)",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "しる",
+    "kanji": "知る",
+    "english": "to get to know (〜を)",
+    "kanjiMeanings": "Know - る",
+    "lessonSection": "07",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "しっています",
+    "kanji": "知っています",
+    "english": "I know",
+    "kanjiMeanings": "Know - っています",
+    "lessonSection": "07",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "しりません",
+    "kanji": "知りません",
+    "english": "I do not know",
+    "kanjiMeanings": "Know - りません",
+    "lessonSection": "07",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "すむ",
+    "kanji": "住む",
+    "english": "to live (〜にすんでいます)",
+    "kanjiMeanings": "Dwelling - む",
+    "lessonSection": "07",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "はたらく",
+    "kanji": "働く",
+    "english": "to work",
+    "kanjiMeanings": "Work - く",
+    "lessonSection": "07",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "ふとる",
+    "kanji": "太る",
+    "english": "to gain weight",
+    "kanjiMeanings": "Fat - る",
+    "lessonSection": "07",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "ふとっています",
+    "kanji": "太っています",
+    "english": "to be on the heavy side; overweight",
+    "kanjiMeanings": "Fat - っています",
+    "lessonSection": "07",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "（めがねを）かける",
+    "kanji": "",
+    "english": "to put on (glasses)",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "きる",
+    "kanji": "着る",
+    "english": "to put on (clothes above your waist) (〜を)",
+    "kanjiMeanings": "Wear - る",
+    "lessonSection": "07",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "やせる",
+    "kanji": "",
+    "english": "to lose weight",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "やせています",
+    "kanji": "",
+    "english": "to be thin",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "けっこんする",
+    "kanji": "結婚する",
+    "english": "to get married (〜と)",
+    "kanjiMeanings": "Bind - Marriage - する",
+    "lessonSection": "07",
+    "category": "Irregular Verbs"
+  },
+  {
+    "hiragana": "じょうず（な）",
+    "kanji": "上手",
+    "english": "skillful; good at ... (〜が)",
+    "kanjiMeanings": "Above - Hand",
+    "lessonSection": "08",
+    "category": "な-adjectives"
+  },
+  {
+    "hiragana": "へた（な）",
+    "kanji": "下手",
+    "english": "clumsy; poor at ... (〜が)",
+    "kanjiMeanings": "Below - Hand",
+    "lessonSection": "08",
+    "category": "な-adjectives"
+  },
+  {
+    "hiragana": "ゆうめい（な）",
+    "kanji": "有名",
+    "english": "famous",
+    "kanjiMeanings": "Have - Name",
+    "lessonSection": "08",
+    "category": "な-adjectives"
+  },
+  {
+    "hiragana": "あらう",
+    "kanji": "洗う",
+    "english": "to wash (〜を)",
+    "kanjiMeanings": "Wash - う",
+    "lessonSection": "08",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "いう",
+    "kanji": "言う",
+    "english": "to say",
+    "kanjiMeanings": "Say - う",
+    "lessonSection": "08",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "いる",
+    "kanji": "",
+    "english": "to need (〜が)",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "おそくなる",
+    "kanji": "遅くなる",
+    "english": "to be late",
+    "kanjiMeanings": "Slow - くなる",
+    "lessonSection": "08",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "おふろにはいる",
+    "kanji": "お風呂に入る",
+    "english": "to take a bath",
+    "kanjiMeanings": "お - Wind - Bath - に - Enter - る",
+    "lessonSection": "08",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "おもう",
+    "kanji": "思う",
+    "english": "to think",
+    "kanjiMeanings": "Think - う",
+    "lessonSection": "08",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "きる",
+    "kanji": "切る",
+    "english": "to cut (〜を)",
+    "kanjiMeanings": "Cut - る",
+    "lessonSection": "08",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "つくる",
+    "kanji": "作る",
+    "english": "to make (〜を)",
+    "kanjiMeanings": "Make - る",
+    "lessonSection": "08",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "（あめ／ゆきが）ふる",
+    "kanji": "（雨／雪が）降る",
+    "english": "(rain/snow) falls",
+    "kanjiMeanings": "（ - Rain - ／ - Snow - が） - Descend - る",
+    "lessonSection": "08",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "もっていく",
+    "kanji": "持っていく",
+    "english": "to take (a thing) (〜を)",
+    "kanjiMeanings": "Hold - っていく",
+    "lessonSection": "08",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "すてる",
+    "kanji": "捨てる",
+    "english": "to throw away (〜を)",
+    "kanjiMeanings": "Throw Away - てる",
+    "lessonSection": "08",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "はじめる",
+    "kanji": "始める",
+    "english": "to begin (〜を)",
+    "kanjiMeanings": "Begin - める",
+    "lessonSection": "08",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "うんてんする",
+    "kanji": "運転する",
+    "english": "to drive (〜を)",
+    "kanjiMeanings": "Carry - Revolve - する",
+    "lessonSection": "08",
+    "category": "Irregular Verbs"
+  },
+  {
+    "hiragana": "せんたくする",
+    "kanji": "洗濯する",
+    "english": "to do laundry (〜を)",
+    "kanjiMeanings": "Wash - Wash - する",
+    "lessonSection": "08",
+    "category": "Irregular Verbs"
+  },
+  {
+    "hiragana": "そうじする",
+    "kanji": "掃除する",
+    "english": "to clean (〜を)",
+    "kanjiMeanings": "Sweep - Exclude - する",
+    "lessonSection": "08",
+    "category": "Irregular Verbs"
+  },
+  {
+    "hiragana": "りょうりする",
+    "kanji": "料理する",
+    "english": "to cook",
+    "kanjiMeanings": "Fee - Reason - する",
+    "lessonSection": "08",
+    "category": "Irregular Verbs"
+  },
+  {
+    "hiragana": "あおい",
+    "kanji": "青い",
+    "english": "blue",
+    "kanjiMeanings": "Blue - い",
+    "lessonSection": "09",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "あかい",
+    "kanji": "赤い",
+    "english": "red",
+    "kanjiMeanings": "Red - い",
+    "lessonSection": "09",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "くろい",
+    "kanji": "黒い",
+    "english": "black",
+    "kanjiMeanings": "Black - い",
+    "lessonSection": "09",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "しろい",
+    "kanji": "白い",
+    "english": "white",
+    "kanjiMeanings": "White - い",
+    "lessonSection": "09",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "さびしい",
+    "kanji": "寂しい",
+    "english": "lonely",
+    "kanjiMeanings": "Lonely - しい",
+    "lessonSection": "09",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "わかい",
+    "kanji": "若い",
+    "english": "young",
+    "kanjiMeanings": "Young - い",
+    "lessonSection": "09",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "いじわる（な）",
+    "kanji": "意地悪",
+    "english": "mean-spirited",
+    "kanjiMeanings": "Idea - Earth - Bad",
+    "lessonSection": "09",
+    "category": "な-adjectives"
+  },
+  {
+    "hiragana": "おどる",
+    "kanji": "踊る",
+    "english": "to dance",
+    "kanjiMeanings": "Dance - る",
+    "lessonSection": "09",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "おわる",
+    "kanji": "終わる",
+    "english": "(something) ends (〜が)",
+    "kanjiMeanings": "End - わる",
+    "lessonSection": "09",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "くすりをのむ",
+    "kanji": "薬を飲む",
+    "english": "to take medicine",
+    "kanjiMeanings": "Medicine - を - Drink - む",
+    "lessonSection": "09",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "にんきがある",
+    "kanji": "人気がある",
+    "english": "to be popular",
+    "kanjiMeanings": "Person - Energy - がある",
+    "lessonSection": "09",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "はじまる",
+    "kanji": "始まる",
+    "english": "(something) begins (〜が)",
+    "kanjiMeanings": "Begin - まる",
+    "lessonSection": "09",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "ひく",
+    "kanji": "弾く",
+    "english": "to play (a string instrument or piano) (〜を)",
+    "kanjiMeanings": "Bullet - く",
+    "lessonSection": "09",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "もらう",
+    "kanji": "",
+    "english": "to get (from somebody) (<i>person</i> に <i>thing</i> を)",
+    "kanjiMeanings": "",
+    "lessonSection": "09",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "おぼえる",
+    "kanji": "覚える",
+    "english": "to memorize (〜を)",
+    "kanjiMeanings": "Memorize - える",
+    "lessonSection": "09",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "でる",
+    "kanji": "出る",
+    "english": "(1) to appear; to attend (〜に)<div>(2) to exit (〜を)</div>",
+    "kanjiMeanings": "Exit - る",
+    "lessonSection": "09",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "うんどうする",
+    "kanji": "運動する",
+    "english": "to exercise",
+    "kanjiMeanings": "Carry - Move - する",
+    "lessonSection": "09",
+    "category": "Irregular Verbs"
+  },
+  {
+    "hiragana": "さんぽする",
+    "kanji": "散歩する",
+    "english": "to take a walk",
+    "kanjiMeanings": "Scatter - Walk - する",
+    "lessonSection": "09",
+    "category": "Irregular Verbs"
+  },
+  {
+    "hiragana": "あたたかい",
+    "kanji": "暖かい",
+    "english": "warm",
+    "kanjiMeanings": "Warm - かい",
+    "lessonSection": "10",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "すずしい",
+    "kanji": "涼しい",
+    "english": "cool (weather - not used for things)",
+    "kanjiMeanings": "Cool - しい",
+    "lessonSection": "10",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "つめたい",
+    "kanji": "冷たい",
+    "english": "cold (things/people)",
+    "kanjiMeanings": "Cool - たい",
+    "lessonSection": "10",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "おそい",
+    "kanji": "遅い",
+    "english": "slow; late",
+    "kanjiMeanings": "Slow - い",
+    "lessonSection": "10",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "ねむい",
+    "kanji": "眠い",
+    "english": "sleepy",
+    "kanjiMeanings": "Sleep - い",
+    "lessonSection": "10",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "かんたん（な）",
+    "kanji": "簡単",
+    "english": "easy; simple",
+    "kanjiMeanings": "Simplicity - Simple",
+    "lessonSection": "10",
+    "category": "な-adjectives"
+  },
+  {
+    "hiragana": "かかる",
+    "kanji": "",
+    "english": "to take (amount of time/money) (<i>no particle</i>)",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "とまる",
+    "kanji": "泊まる",
+    "english": "to stay (at a hotel, etc.) (〜に)",
+    "kanjiMeanings": "Overnight - まる",
+    "lessonSection": "10",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "なる",
+    "kanji": "",
+    "english": "to become",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "きめる",
+    "kanji": "決める",
+    "english": "to decide (〜を)",
+    "kanjiMeanings": "Decide - める",
+    "lessonSection": "10",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "ごろごろする",
+    "kanji": "",
+    "english": "to chill out at home; to stay home and do nothing",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Irregular Verbs"
+  },
+  {
+    "hiragana": "りょこうする",
+    "kanji": "旅行する",
+    "english": "to travel",
+    "kanjiMeanings": "Trip - Go - する",
+    "lessonSection": "10",
+    "category": "Irregular Verbs"
+  },
+  {
+    "hiragana": "れんしゅうする",
+    "kanji": "練習する",
+    "english": "to practice (〜を)",
+    "kanjiMeanings": "Practice - Learn - する",
+    "lessonSection": "10",
+    "category": "Irregular Verbs"
+  },
+  {
+    "hiragana": "うそをつく",
+    "kanji": "",
+    "english": "to tell a lie",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "おなかがすく",
+    "kanji": "",
+    "english": "to become hungry",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "かう",
+    "kanji": "飼う",
+    "english": "to own (a pet) (〜を)",
+    "kanjiMeanings": "Domesticate - う",
+    "lessonSection": "11",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "サボる",
+    "kanji": "",
+    "english": "to cut (classes) (〜を)",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "とる",
+    "kanji": "取る",
+    "english": "to take (a class); to get (a grade) (〜を)",
+    "kanjiMeanings": "Take - る",
+    "lessonSection": "11",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "ならう",
+    "kanji": "習う",
+    "english": "to learn (〜を)",
+    "kanjiMeanings": "Learn - う",
+    "lessonSection": "11",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "のぼる",
+    "kanji": "登る",
+    "english": "to climb (<i>place</i>&nbsp;に)",
+    "kanjiMeanings": "Climb - る",
+    "lessonSection": "11",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "はしる",
+    "kanji": "走る",
+    "english": "to run",
+    "kanjiMeanings": "Run - る",
+    "lessonSection": "11",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "つかれる",
+    "kanji": "疲れる",
+    "english": "to get tired",
+    "kanjiMeanings": "Exhausted - れる",
+    "lessonSection": "11",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "やめる",
+    "kanji": "",
+    "english": "to quit (〜を)",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "けんかする",
+    "kanji": "",
+    "english": "to have a fight; to quarrel",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Irregular Verbs"
+  },
+  {
+    "hiragana": "しょうかいする",
+    "kanji": "紹介する",
+    "english": "to introduce (<i>person </i>に <i>person </i>を)",
+    "kanjiMeanings": "Introduce - Jammed In - する",
+    "lessonSection": "11",
+    "category": "Irregular Verbs"
+  },
+  {
+    "hiragana": "ダイエットする",
+    "kanji": "",
+    "english": "to go on a diet",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Irregular Verbs"
+  },
+  {
+    "hiragana": "ちこくする",
+    "kanji": "遅刻する",
+    "english": "to be late (for an appointment) (〜に)",
+    "kanjiMeanings": "Slow - Carve - する",
+    "lessonSection": "11",
+    "category": "Irregular Verbs"
+  },
+  {
+    "hiragana": "りゅうがくする",
+    "kanji": "留学する",
+    "english": "to study abroad (<i>place</i>&nbsp;に)",
+    "kanjiMeanings": "Detain - Study - する",
+    "lessonSection": "11",
+    "category": "Irregular Verbs"
+  },
+  {
+    "hiragana": "せまい",
+    "kanji": "狭い",
+    "english": "narrow; not spacious",
+    "kanjiMeanings": "Narrow - い",
+    "lessonSection": "12",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "ひろい",
+    "kanji": "広い",
+    "english": "wide; spacious",
+    "kanjiMeanings": "Wide - い",
+    "lessonSection": "12",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "わるい",
+    "kanji": "悪い",
+    "english": "bad",
+    "kanjiMeanings": "Bad - い",
+    "lessonSection": "12",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "いたい",
+    "kanji": "痛い",
+    "english": "hurt; painful",
+    "kanjiMeanings": "Pain - い",
+    "lessonSection": "12",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "あまい",
+    "kanji": "甘い",
+    "english": "sweet",
+    "kanjiMeanings": "Sweet - い",
+    "lessonSection": "12",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "おおい",
+    "kanji": "多い",
+    "english": "there are many ...",
+    "kanjiMeanings": "Many - い",
+    "lessonSection": "12",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "すてき（な）",
+    "kanji": "素敵",
+    "english": "nice",
+    "kanjiMeanings": "Element - Enemy",
+    "lessonSection": "12",
+    "category": "な-adjectives"
+  },
+  {
+    "hiragana": "あるく",
+    "kanji": "歩く",
+    "english": "to walk",
+    "kanjiMeanings": "Walk - く",
+    "lessonSection": "12",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "かぜをひく",
+    "kanji": "風邪をひく",
+    "english": "to catch a cold",
+    "kanjiMeanings": "Wind - Wicked - をひく",
+    "lessonSection": "12",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "ねつがある",
+    "kanji": "熱がある",
+    "english": "to have a fever",
+    "kanjiMeanings": "Heat - がある",
+    "lessonSection": "12",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "のどがかわく",
+    "kanji": "喉が渇く",
+    "english": "to become thirsty",
+    "kanjiMeanings": "喉が - Thirst - く",
+    "lessonSection": "12",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "はらう",
+    "kanji": "払う",
+    "english": "to pay (〜を)",
+    "kanjiMeanings": "Pay - う",
+    "lessonSection": "12",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "なくす",
+    "kanji": "",
+    "english": "to lose (〜を)",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "きょうみがある",
+    "kanji": "興味がある",
+    "english": "to be interested (in ...) (<i>topic </i>に)",
+    "kanjiMeanings": "Interest - Flavor - がある",
+    "lessonSection": "12",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "せきがでる",
+    "kanji": "せきが出る",
+    "english": "to cough",
+    "kanjiMeanings": "せきが - Exit - る",
+    "lessonSection": "12",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "わかれる",
+    "kanji": "別れる",
+    "english": "to break up; to separate (<i>person</i>&nbsp;と)",
+    "kanjiMeanings": "Separate - れる",
+    "lessonSection": "12",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "きんちょうする",
+    "kanji": "緊張する",
+    "english": "to get nervous",
+    "kanjiMeanings": "Tense - Stretch - する",
+    "lessonSection": "12",
+    "category": "Irregular Verbs"
+  },
+  {
+    "hiragana": "しんぱいする",
+    "kanji": "心配する",
+    "english": "to worry",
+    "kanjiMeanings": "Heart - Distribute - する",
+    "lessonSection": "12",
+    "category": "Irregular Verbs"
+  }
+]

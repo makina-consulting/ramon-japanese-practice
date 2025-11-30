@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Version Checker</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #1e1e2e;
+            color: #e0e0e0;
+        }
+        h1 { color: #4a9eff; }
+        .check { margin: 20px 0; padding: 15px; border-radius: 8px; }
+        .correct { background: rgba(76, 175, 80, 0.2); border: 2px solid #4CAF50; }
+        .wrong { background: rgba(244, 67, 54, 0.2); border: 2px solid #f44336; }
+        .version { font-family: monospace; color: #4a9eff; }
+        button {
+            background: #2196F3;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            margin: 10px 5px;
+        }
+        button:hover { background: #1976D2; }
+    </style>
+</head>
+<body>
+    <h1>📋 File Version Checker</h1>
+    <p>This will verify you're using the correct version of files.</p>
+    
+    <div id="results">Checking files...</div>
+    
+    <div style="margin-top: 30px;">
+        <button onclick="location.reload()">🔄 Recheck</button>
+        <button onclick="window.location.href='index.html'">🚀 Go to Quiz</button>
+    </div>
+
+    <script type="module">
+        async function checkVersions() {
+            const results = document.getElementById('results');
+            let html = '';
+            
+            // Check app.js
+            try {
+                const response = await fetch('app.js');
+                const text = await response.text();
+                const lines = text.split('\n').length;
+                const hasInit = text.includes('async function init()');
+                const hasOldFunctions = text.includes('initializeApp') || text.includes('loadQuizData');
+                
+                if (lines < 50 && hasInit && !hasOldFunctions) {
+                    html += `<div class="check correct">
+                        ✅ app.js: <span class="version">CORRECT (${lines} lines)</span><br>
+                        Uses new initialization system
+                    </div>`;
+                } else {
+                    html += `<div class="check wrong">
+                        ❌ app.js: <span class="version">OLD VERSION (${lines} lines)</span><br>
+                        ${hasOldFunctions ? 'Contains old function names' : ''}<br>
+                        <strong>Action needed: Replace with new app.js</strong>
+                    </div>`;
+                }
+            } catch (e) {
+                html += `<div class="check wrong">❌ app.js: Error loading - ${e.message}</div>`;
+            }
+            
+            // Check data-manager.js
+            try {
+                const response = await fetch('data-manager.js');
+                const text = await response.text();
+                const lines = text.split('\n').length;
+                const hasLoadVocabulary = text.includes('export async function loadVocabulary()');
+                const hasOldFunctions = text.includes('loadQuizData') || text.includes('processQuizData');
+                
+                if (lines < 100 && hasLoadVocabulary && !hasOldFunctions) {
+                    html += `<div class="check correct">
+                        ✅ data-manager.js: <span class="version">CORRECT (${lines} lines)</span><br>
+                        Uses new vocabulary loading system
+                    </div>`;
+                } else {
+                    html += `<div class="check wrong">
+                        ❌ data-manager.js: <span class="version">OLD VERSION (${lines} lines)</span><br>
+                        ${hasOldFunctions ? 'Contains old function names' : ''}<br>
+                        <strong>Action needed: Replace with new data-manager.js</strong>
+                    </div>`;
+                }
+            } catch (e) {
+                html += `<div class="check wrong">❌ data-manager.js: Error loading - ${e.message}</div>`;
+            }
+            
+            // Check vocab.json
+            try {
+                const response = await fetch('vocab.json');
+                const data = await response.json();
+                const hasNewStructure = data[0] && 'lessonSection' in data[0];
+                
+                if (data.length > 1000 && hasNewStructure) {
+                    html += `<div class="check correct">
+                        ✅ vocab.json: <span class="version">CORRECT (${data.length} entries)</span><br>
+                        New Genki vocabulary data loaded
+                    </div>`;
+                } else {
+                    html += `<div class="check wrong">
+                        ❌ vocab.json: <span class="version">OLD VERSION (${data.length} entries)</span><br>
+                        <strong>Action needed: Replace with new vocab.json</strong>
+                    </div>`;
+                }
+            } catch (e) {
+                html += `<div class="check wrong">❌ vocab.json: Error loading - ${e.message}</div>`;
+            }
+            
+            // Add cache warning
+            html += `<div class="check" style="background: rgba(255, 193, 7, 0.2); border: 2px solid #FFC107; margin-top: 20px;">
+                <strong>⚠️ If any files show as OLD VERSION:</strong><br>
+                1. Press Ctrl+Shift+R (Windows) or Cmd+Shift+R (Mac) to hard refresh<br>
+                2. Or clear your browser cache<br>
+                3. Make sure you're in the correct directory with the new files<br>
+                4. Check that http.server is running in the directory with the NEW files
+            </div>`;
+            
+            results.innerHTML = html;
+        }
+        
+        checkVersions();
+    </script>
+</body>
+</html>

@@ -1,0 +1,8610 @@
+[
+  {
+    "hiragana": "おはよう。",
+    "kanji": "",
+    "english": "Good morning.",
+    "kanjiMeanings": "",
+    "lessonSection": "00",
+    "category": "L1_Greetings"
+  },
+  {
+    "hiragana": "おはよう　ございます。",
+    "kanji": "",
+    "english": "Good morning. (polite)",
+    "kanjiMeanings": "",
+    "lessonSection": "00",
+    "category": "L1_Greetings"
+  },
+  {
+    "hiragana": "こんにちは。",
+    "kanji": "",
+    "english": "Good afternoon.",
+    "kanjiMeanings": "",
+    "lessonSection": "00",
+    "category": "L1_Greetings"
+  },
+  {
+    "hiragana": "こんばんは。",
+    "kanji": "",
+    "english": "Good evening.",
+    "kanjiMeanings": "",
+    "lessonSection": "00",
+    "category": "L1_Greetings"
+  },
+  {
+    "hiragana": "さようなら。",
+    "kanji": "",
+    "english": "Good-bye.",
+    "kanjiMeanings": "",
+    "lessonSection": "00",
+    "category": "L1_Greetings"
+  },
+  {
+    "hiragana": "おやすみ（なさい）。",
+    "kanji": "",
+    "english": "Good night.",
+    "kanjiMeanings": "",
+    "lessonSection": "00",
+    "category": "L1_Greetings"
+  },
+  {
+    "hiragana": "ありがとう。",
+    "kanji": "",
+    "english": "Thank you.",
+    "kanjiMeanings": "",
+    "lessonSection": "00",
+    "category": "L1_Greetings"
+  },
+  {
+    "hiragana": "ありがとう　ございます。",
+    "kanji": "",
+    "english": "Thank you. (polite)",
+    "kanjiMeanings": "",
+    "lessonSection": "00",
+    "category": "L1_Greetings"
+  },
+  {
+    "hiragana": "すみません。",
+    "kanji": "",
+    "english": "Excuse me.; I'm sorry.",
+    "kanjiMeanings": "",
+    "lessonSection": "00",
+    "category": "L1_Greetings"
+  },
+  {
+    "hiragana": "いいえ。",
+    "kanji": "",
+    "english": "No.; Not at all.",
+    "kanjiMeanings": "",
+    "lessonSection": "00",
+    "category": "L1_Greetings"
+  },
+  {
+    "hiragana": "いってきます。",
+    "kanji": "",
+    "english": "I'll go and come back.",
+    "kanjiMeanings": "",
+    "lessonSection": "00",
+    "category": "L1_Greetings"
+  },
+  {
+    "hiragana": "いってらっしゃい。",
+    "kanji": "",
+    "english": "Please go and come back.",
+    "kanjiMeanings": "",
+    "lessonSection": "00",
+    "category": "L1_Greetings"
+  },
+  {
+    "hiragana": "ただいま。",
+    "kanji": "",
+    "english": "I'm home.",
+    "kanjiMeanings": "",
+    "lessonSection": "00",
+    "category": "L1_Greetings"
+  },
+  {
+    "hiragana": "おかえり（なさい）。",
+    "kanji": "",
+    "english": "Welcome home.",
+    "kanjiMeanings": "",
+    "lessonSection": "00",
+    "category": "L1_Greetings"
+  },
+  {
+    "hiragana": "いただきます。",
+    "kanji": "",
+    "english": "Thank you for the meal. (before eating)",
+    "kanjiMeanings": "",
+    "lessonSection": "00",
+    "category": "L1_Greetings"
+  },
+  {
+    "hiragana": "ごちそうさま（でした）。",
+    "kanji": "",
+    "english": "Thank you for the meal. (after eating)",
+    "kanjiMeanings": "",
+    "lessonSection": "00",
+    "category": "L1_Greetings"
+  },
+  {
+    "hiragana": "はじめまして。",
+    "kanji": "",
+    "english": "How do you do?",
+    "kanjiMeanings": "",
+    "lessonSection": "00",
+    "category": "L1_Greetings"
+  },
+  {
+    "hiragana": "〜です。",
+    "kanji": "",
+    "english": "I am ...",
+    "kanjiMeanings": "",
+    "lessonSection": "00",
+    "category": "L1_Greetings"
+  },
+  {
+    "hiragana": "よろしく　おねがいします。",
+    "kanji": "",
+    "english": "Nice to meet you.",
+    "kanjiMeanings": "",
+    "lessonSection": "00",
+    "category": "L1_Greetings"
+  },
+  {
+    "hiragana": "ゼロ／れい",
+    "kanji": "",
+    "english": "0",
+    "kanjiMeanings": "",
+    "lessonSection": "00",
+    "category": "L1_Numbers"
+  },
+  {
+    "hiragana": "いち",
+    "kanji": "一",
+    "english": "1",
+    "kanjiMeanings": "One",
+    "lessonSection": "00",
+    "category": "L1_Numbers"
+  },
+  {
+    "hiragana": "に",
+    "kanji": "二",
+    "english": "2",
+    "kanjiMeanings": "Two",
+    "lessonSection": "00",
+    "category": "L1_Numbers"
+  },
+  {
+    "hiragana": "さん",
+    "kanji": "三",
+    "english": "3",
+    "kanjiMeanings": "Three",
+    "lessonSection": "00",
+    "category": "L1_Numbers"
+  },
+  {
+    "hiragana": "よん／し／（よ）",
+    "kanji": "四",
+    "english": "4",
+    "kanjiMeanings": "Four",
+    "lessonSection": "00",
+    "category": "L1_Numbers"
+  },
+  {
+    "hiragana": "ご",
+    "kanji": "五",
+    "english": "5",
+    "kanjiMeanings": "Five",
+    "lessonSection": "00",
+    "category": "L1_Numbers"
+  },
+  {
+    "hiragana": "ろく",
+    "kanji": "六",
+    "english": "6",
+    "kanjiMeanings": "Six",
+    "lessonSection": "00",
+    "category": "L1_Numbers"
+  },
+  {
+    "hiragana": "なな／しち",
+    "kanji": "七",
+    "english": "7",
+    "kanjiMeanings": "Seven",
+    "lessonSection": "00",
+    "category": "L1_Numbers"
+  },
+  {
+    "hiragana": "はち",
+    "kanji": "八",
+    "english": "8",
+    "kanjiMeanings": "Eight",
+    "lessonSection": "00",
+    "category": "L1_Numbers"
+  },
+  {
+    "hiragana": "きゅう／く",
+    "kanji": "九",
+    "english": "9",
+    "kanjiMeanings": "Nine",
+    "lessonSection": "00",
+    "category": "L1_Numbers"
+  },
+  {
+    "hiragana": "じゅう",
+    "kanji": "十",
+    "english": "10",
+    "kanjiMeanings": "Ten",
+    "lessonSection": "00",
+    "category": "L1_Numbers"
+  },
+  {
+    "hiragana": "じゅういち",
+    "kanji": "十一",
+    "english": "11",
+    "kanjiMeanings": "Ten - One",
+    "lessonSection": "00",
+    "category": "L1_Numbers"
+  },
+  {
+    "hiragana": "じゅうに",
+    "kanji": "十二",
+    "english": "12",
+    "kanjiMeanings": "Ten - Two",
+    "lessonSection": "00",
+    "category": "L1_Numbers"
+  },
+  {
+    "hiragana": "じゅうさん",
+    "kanji": "十三",
+    "english": "13",
+    "kanjiMeanings": "Ten - Three",
+    "lessonSection": "00",
+    "category": "L1_Numbers"
+  },
+  {
+    "hiragana": "じゅうよん／じゅうし",
+    "kanji": "十四",
+    "english": "14",
+    "kanjiMeanings": "Ten - Four",
+    "lessonSection": "00",
+    "category": "L1_Numbers"
+  },
+  {
+    "hiragana": "じゅうご",
+    "kanji": "十五",
+    "english": "15",
+    "kanjiMeanings": "Ten - Five",
+    "lessonSection": "00",
+    "category": "L1_Numbers"
+  },
+  {
+    "hiragana": "じゅうろく",
+    "kanji": "十六",
+    "english": "16",
+    "kanjiMeanings": "Ten - Six",
+    "lessonSection": "00",
+    "category": "L1_Numbers"
+  },
+  {
+    "hiragana": "じゅうなな／じゅうしち",
+    "kanji": "十七",
+    "english": "17",
+    "kanjiMeanings": "Ten - Seven",
+    "lessonSection": "00",
+    "category": "L1_Numbers"
+  },
+  {
+    "hiragana": "じゅうはち",
+    "kanji": "十八",
+    "english": "18",
+    "kanjiMeanings": "Ten - Eight",
+    "lessonSection": "00",
+    "category": "L1_Numbers"
+  },
+  {
+    "hiragana": "じゅうきゅう／じゅうく",
+    "kanji": "十九",
+    "english": "19",
+    "kanjiMeanings": "Ten - Nine",
+    "lessonSection": "00",
+    "category": "L1_Numbers"
+  },
+  {
+    "hiragana": "にじゅう",
+    "kanji": "二十",
+    "english": "20",
+    "kanjiMeanings": "Two - Ten",
+    "lessonSection": "00",
+    "category": "L1_Numbers"
+  },
+  {
+    "hiragana": "さんじゅう",
+    "kanji": "三十",
+    "english": "30",
+    "kanjiMeanings": "Three - Ten",
+    "lessonSection": "00",
+    "category": "L1_Numbers"
+  },
+  {
+    "hiragana": "よんじゅう",
+    "kanji": "四十",
+    "english": "40",
+    "kanjiMeanings": "Four - Ten",
+    "lessonSection": "00",
+    "category": "L1_Numbers"
+  },
+  {
+    "hiragana": "ごじゅう",
+    "kanji": "五十",
+    "english": "50",
+    "kanjiMeanings": "Five - Ten",
+    "lessonSection": "00",
+    "category": "L1_Numbers"
+  },
+  {
+    "hiragana": "ろくじゅう",
+    "kanji": "六十",
+    "english": "60",
+    "kanjiMeanings": "Six - Ten",
+    "lessonSection": "00",
+    "category": "L1_Numbers"
+  },
+  {
+    "hiragana": "ななじゅう",
+    "kanji": "七十",
+    "english": "70",
+    "kanjiMeanings": "Seven - Ten",
+    "lessonSection": "00",
+    "category": "L1_Numbers"
+  },
+  {
+    "hiragana": "はちじゅう",
+    "kanji": "八十",
+    "english": "80",
+    "kanjiMeanings": "Eight - Ten",
+    "lessonSection": "00",
+    "category": "L1_Numbers"
+  },
+  {
+    "hiragana": "きゅうじゅう",
+    "kanji": "九十",
+    "english": "90",
+    "kanjiMeanings": "Nine - Ten",
+    "lessonSection": "00",
+    "category": "L1_Numbers"
+  },
+  {
+    "hiragana": "ひゃく",
+    "kanji": "百",
+    "english": "100",
+    "kanjiMeanings": "Hundred",
+    "lessonSection": "00",
+    "category": "L1_Numbers"
+  },
+  {
+    "hiragana": "だいがく",
+    "kanji": "大学",
+    "english": "college; university",
+    "kanjiMeanings": "Big - Study",
+    "lessonSection": "01",
+    "category": "School"
+  },
+  {
+    "hiragana": "こうこう",
+    "kanji": "高校",
+    "english": "high school",
+    "kanjiMeanings": "Tall - School",
+    "lessonSection": "01",
+    "category": "School"
+  },
+  {
+    "hiragana": "がくせい",
+    "kanji": "学生",
+    "english": "student",
+    "kanjiMeanings": "Study - Life",
+    "lessonSection": "01",
+    "category": "School"
+  },
+  {
+    "hiragana": "だいがくせい",
+    "kanji": "大学生",
+    "english": "college student",
+    "kanjiMeanings": "Big - Study - Life",
+    "lessonSection": "01",
+    "category": "School"
+  },
+  {
+    "hiragana": "りゅうがくせい",
+    "kanji": "留学生",
+    "english": "international student",
+    "kanjiMeanings": "Detain - Study - Life",
+    "lessonSection": "01",
+    "category": "School"
+  },
+  {
+    "hiragana": "せんせい",
+    "kanji": "先生",
+    "english": "teacher; Professor ...",
+    "kanjiMeanings": "Previous - Life",
+    "lessonSection": "01",
+    "category": "School"
+  },
+  {
+    "hiragana": "〜ねんせい",
+    "kanji": "〜年生",
+    "english": "... year student",
+    "kanjiMeanings": "〜 - Year - Life",
+    "lessonSection": "01",
+    "category": "School"
+  },
+  {
+    "hiragana": "いちねんせい",
+    "kanji": "一年生",
+    "english": "first-year student",
+    "kanjiMeanings": "One - Year - Life",
+    "lessonSection": "01",
+    "category": "School"
+  },
+  {
+    "hiragana": "せんこう",
+    "kanji": "",
+    "english": "major",
+    "kanjiMeanings": "",
+    "lessonSection": "01",
+    "category": "School"
+  },
+  {
+    "hiragana": "わたし",
+    "kanji": "私",
+    "english": "I",
+    "kanjiMeanings": "I",
+    "lessonSection": "01",
+    "category": "Person"
+  },
+  {
+    "hiragana": "ともだち",
+    "kanji": "友達",
+    "english": "friend",
+    "kanjiMeanings": "Friend - Attain",
+    "lessonSection": "01",
+    "category": "Person"
+  },
+  {
+    "hiragana": "〜さん",
+    "kanji": "",
+    "english": "Mr./Ms. ...",
+    "kanjiMeanings": "",
+    "lessonSection": "01",
+    "category": "Person"
+  },
+  {
+    "hiragana": "〜じん",
+    "kanji": "人",
+    "english": "... people",
+    "kanjiMeanings": "Person",
+    "lessonSection": "01",
+    "category": "Person"
+  },
+  {
+    "hiragana": "にほんじん",
+    "kanji": "",
+    "english": "Japanese people",
+    "kanjiMeanings": "",
+    "lessonSection": "01",
+    "category": "Person"
+  },
+  {
+    "hiragana": "いま",
+    "kanji": "今",
+    "english": "now",
+    "kanjiMeanings": "Now",
+    "lessonSection": "01",
+    "category": "Time"
+  },
+  {
+    "hiragana": "ごぜん",
+    "kanji": "午前",
+    "english": "A.M.",
+    "kanjiMeanings": "Noon - Front",
+    "lessonSection": "01",
+    "category": "Time"
+  },
+  {
+    "hiragana": "ごご",
+    "kanji": "午後",
+    "english": "P.M.",
+    "kanjiMeanings": "Noon - Behind",
+    "lessonSection": "01",
+    "category": "Time"
+  },
+  {
+    "hiragana": "〜じ",
+    "kanji": "時",
+    "english": "o'clock",
+    "kanjiMeanings": "Time",
+    "lessonSection": "01",
+    "category": "Time"
+  },
+  {
+    "hiragana": "いちじ",
+    "kanji": "",
+    "english": "1 o'clock",
+    "kanjiMeanings": "",
+    "lessonSection": "01",
+    "category": "Time"
+  },
+  {
+    "hiragana": "はん",
+    "kanji": "半",
+    "english": "half",
+    "kanjiMeanings": "Half",
+    "lessonSection": "01",
+    "category": "Time"
+  },
+  {
+    "hiragana": "にじはん",
+    "kanji": "",
+    "english": "half past two",
+    "kanjiMeanings": "",
+    "lessonSection": "01",
+    "category": "Time"
+  },
+  {
+    "hiragana": "にほん",
+    "kanji": "日本",
+    "english": "Japan",
+    "kanjiMeanings": "Sun - Book",
+    "lessonSection": "01",
+    "category": "Others"
+  },
+  {
+    "hiragana": "アメリカ",
+    "kanji": "",
+    "english": "U.S.A.",
+    "kanjiMeanings": "",
+    "lessonSection": "01",
+    "category": "Others"
+  },
+  {
+    "hiragana": "〜ご",
+    "kanji": "語",
+    "english": "... language",
+    "kanjiMeanings": "Language",
+    "lessonSection": "01",
+    "category": "Others"
+  },
+  {
+    "hiragana": "にほんご",
+    "kanji": "",
+    "english": "Japanese language",
+    "kanjiMeanings": "",
+    "lessonSection": "01",
+    "category": "Others"
+  },
+  {
+    "hiragana": "〜さい",
+    "kanji": "歳",
+    "english": "... years old",
+    "kanjiMeanings": "Years Old",
+    "lessonSection": "01",
+    "category": "Others"
+  },
+  {
+    "hiragana": "でんわ",
+    "kanji": "電話",
+    "english": "telephone",
+    "kanjiMeanings": "Electricity - Talk",
+    "lessonSection": "01",
+    "category": "Others"
+  },
+  {
+    "hiragana": "〜ばん",
+    "kanji": "",
+    "english": "number ...",
+    "kanjiMeanings": "",
+    "lessonSection": "01",
+    "category": "Others"
+  },
+  {
+    "hiragana": "ばんごう",
+    "kanji": "番号",
+    "english": "number",
+    "kanjiMeanings": "Number In A Series - Number",
+    "lessonSection": "01",
+    "category": "Others"
+  },
+  {
+    "hiragana": "なまえ",
+    "kanji": "名前",
+    "english": "name",
+    "kanjiMeanings": "Name - Front",
+    "lessonSection": "01",
+    "category": "Others"
+  },
+  {
+    "hiragana": "なん／なに",
+    "kanji": "",
+    "english": "what",
+    "kanjiMeanings": "",
+    "lessonSection": "01",
+    "category": "Others"
+  },
+  {
+    "hiragana": "あのう",
+    "kanji": "",
+    "english": "um ...",
+    "kanjiMeanings": "",
+    "lessonSection": "01",
+    "category": "Expressions"
+  },
+  {
+    "hiragana": "はい",
+    "kanji": "",
+    "english": "yes",
+    "kanjiMeanings": "",
+    "lessonSection": "01",
+    "category": "Expressions"
+  },
+  {
+    "hiragana": "そうです",
+    "kanji": "",
+    "english": "That's right.",
+    "kanjiMeanings": "",
+    "lessonSection": "01",
+    "category": "Expressions"
+  },
+  {
+    "hiragana": "そうですか。",
+    "kanji": "",
+    "english": "I see.",
+    "kanjiMeanings": "",
+    "lessonSection": "01",
+    "category": "Expressions"
+  },
+  {
+    "hiragana": "そうですか？",
+    "kanji": "",
+    "english": "Is that so?",
+    "kanjiMeanings": "",
+    "lessonSection": "01",
+    "category": "Expressions"
+  },
+  {
+    "hiragana": "イギリス",
+    "kanji": "",
+    "english": "Britain",
+    "kanjiMeanings": "",
+    "lessonSection": "01",
+    "category": "Countries"
+  },
+  {
+    "hiragana": "オーストラリア",
+    "kanji": "",
+    "english": "Australia",
+    "kanjiMeanings": "",
+    "lessonSection": "01",
+    "category": "Countries"
+  },
+  {
+    "hiragana": "かんこく",
+    "kanji": "韓国",
+    "english": "Korea",
+    "kanjiMeanings": "Korea - Country",
+    "lessonSection": "01",
+    "category": "Countries"
+  },
+  {
+    "hiragana": "カナダ",
+    "kanji": "",
+    "english": "Canada",
+    "kanjiMeanings": "",
+    "lessonSection": "01",
+    "category": "Countries"
+  },
+  {
+    "hiragana": "ちゅうごく",
+    "kanji": "中国",
+    "english": "China",
+    "kanjiMeanings": "Middle - Country",
+    "lessonSection": "01",
+    "category": "Countries"
+  },
+  {
+    "hiragana": "インド",
+    "kanji": "",
+    "english": "India",
+    "kanjiMeanings": "",
+    "lessonSection": "01",
+    "category": "Countries"
+  },
+  {
+    "hiragana": "エジプト",
+    "kanji": "",
+    "english": "Egypt",
+    "kanjiMeanings": "",
+    "lessonSection": "01",
+    "category": "Countries"
+  },
+  {
+    "hiragana": "フィリピン",
+    "kanji": "",
+    "english": "Philippines",
+    "kanjiMeanings": "",
+    "lessonSection": "01",
+    "category": "Countries"
+  },
+  {
+    "hiragana": "アジアけんきゅう",
+    "kanji": "アジア研究",
+    "english": "Asian studies",
+    "kanjiMeanings": "アジア - Sharpen - Research",
+    "lessonSection": "01",
+    "category": "Majors"
+  },
+  {
+    "hiragana": "けいざい",
+    "kanji": "",
+    "english": "economics",
+    "kanjiMeanings": "",
+    "lessonSection": "01",
+    "category": "Majors"
+  },
+  {
+    "hiragana": "こうがく",
+    "kanji": "",
+    "english": "engineering",
+    "kanjiMeanings": "",
+    "lessonSection": "01",
+    "category": "Majors"
+  },
+  {
+    "hiragana": "こくさいかんけい",
+    "kanji": "国際関係",
+    "english": "international relations",
+    "kanjiMeanings": "Country - Occasion - Related - Connection",
+    "lessonSection": "01",
+    "category": "Majors"
+  },
+  {
+    "hiragana": "コンピューター",
+    "kanji": "",
+    "english": "computer",
+    "kanjiMeanings": "",
+    "lessonSection": "01",
+    "category": "Majors"
+  },
+  {
+    "hiragana": "せいじ",
+    "kanji": "政治",
+    "english": "politics",
+    "kanjiMeanings": "Politics - Cure",
+    "lessonSection": "01",
+    "category": "Majors"
+  },
+  {
+    "hiragana": "せいぶつがく",
+    "kanji": "",
+    "english": "biology",
+    "kanjiMeanings": "",
+    "lessonSection": "01",
+    "category": "Majors"
+  },
+  {
+    "hiragana": "ビジネス",
+    "kanji": "",
+    "english": "business",
+    "kanjiMeanings": "",
+    "lessonSection": "01",
+    "category": "Majors"
+  },
+  {
+    "hiragana": "ぶんがく",
+    "kanji": "文学",
+    "english": "literature",
+    "kanjiMeanings": "Writing - Study",
+    "lessonSection": "01",
+    "category": "Majors"
+  },
+  {
+    "hiragana": "れきし",
+    "kanji": "歴史",
+    "english": "history",
+    "kanjiMeanings": "Continuation - History",
+    "lessonSection": "01",
+    "category": "Majors"
+  },
+  {
+    "hiragana": "いしゃ",
+    "kanji": "医者",
+    "english": "doctor",
+    "kanjiMeanings": "Medicine - Someone",
+    "lessonSection": "01",
+    "category": "Occupations"
+  },
+  {
+    "hiragana": "かいしゃいん",
+    "kanji": "会社員",
+    "english": "office worker",
+    "kanjiMeanings": "Meet - Company - Member",
+    "lessonSection": "01",
+    "category": "Occupations"
+  },
+  {
+    "hiragana": "かんごし",
+    "kanji": "看護師",
+    "english": "nurse",
+    "kanjiMeanings": "Watch Over - Defend - Teacher",
+    "lessonSection": "01",
+    "category": "Occupations"
+  },
+  {
+    "hiragana": "こうこうせい",
+    "kanji": "高校生",
+    "english": "high school student",
+    "kanjiMeanings": "Tall - School - Life",
+    "lessonSection": "01",
+    "category": "Occupations"
+  },
+  {
+    "hiragana": "しゅふ",
+    "kanji": "主婦",
+    "english": "housewife",
+    "kanjiMeanings": "Master - Wife",
+    "lessonSection": "01",
+    "category": "Occupations"
+  },
+  {
+    "hiragana": "だいがくいんせい",
+    "kanji": "大学院生",
+    "english": "graduate student",
+    "kanjiMeanings": "Big - Study - Institution - Life",
+    "lessonSection": "01",
+    "category": "Occupations"
+  },
+  {
+    "hiragana": "べんごし",
+    "kanji": "弁護士",
+    "english": "lawyer",
+    "kanjiMeanings": "Dialect - Defend - Samurai",
+    "lessonSection": "01",
+    "category": "Occupations"
+  },
+  {
+    "hiragana": "おかあさん",
+    "kanji": "お母さん",
+    "english": "mother",
+    "kanjiMeanings": "お - Mother - さん",
+    "lessonSection": "01",
+    "category": "Family"
+  },
+  {
+    "hiragana": "おとうさん",
+    "kanji": "お父さん",
+    "english": "father",
+    "kanjiMeanings": "お - Father - さん",
+    "lessonSection": "01",
+    "category": "Family"
+  },
+  {
+    "hiragana": "おねえさん",
+    "kanji": "お姉さん",
+    "english": "older sister",
+    "kanjiMeanings": "お - Older Sister - さん",
+    "lessonSection": "01",
+    "category": "Family"
+  },
+  {
+    "hiragana": "おにいさん",
+    "kanji": "お兄さん",
+    "english": "older brother",
+    "kanjiMeanings": "お - Older Brother - さん",
+    "lessonSection": "01",
+    "category": "Family"
+  },
+  {
+    "hiragana": "いもうと",
+    "kanji": "妹",
+    "english": "younger sister",
+    "kanjiMeanings": "Younger Sister",
+    "lessonSection": "01",
+    "category": "Family"
+  },
+  {
+    "hiragana": "おとうと",
+    "kanji": "弟",
+    "english": "younger brother",
+    "kanjiMeanings": "Younger Brother",
+    "lessonSection": "01",
+    "category": "Family"
+  },
+  {
+    "hiragana": "いちねんせい",
+    "kanji": "一年生",
+    "english": "first-year student",
+    "kanjiMeanings": "One - Year - Life",
+    "lessonSection": "01",
+    "category": "year_student"
+  },
+  {
+    "hiragana": "にねんせい",
+    "kanji": "二年生",
+    "english": "second-year student",
+    "kanjiMeanings": "Two - Year - Life",
+    "lessonSection": "01",
+    "category": "year_student"
+  },
+  {
+    "hiragana": "さんねんせい",
+    "kanji": "三年生",
+    "english": "third-year student",
+    "kanjiMeanings": "Three - Year - Life",
+    "lessonSection": "01",
+    "category": "year_student"
+  },
+  {
+    "hiragana": "よねんせい*",
+    "kanji": "四年生",
+    "english": "fourth-year student",
+    "kanjiMeanings": "Four - Year - Life",
+    "lessonSection": "01",
+    "category": "year_student"
+  },
+  {
+    "hiragana": "ごねんせい",
+    "kanji": "五年生",
+    "english": "fifth-year student",
+    "kanjiMeanings": "Five - Year - Life",
+    "lessonSection": "01",
+    "category": "year_student"
+  },
+  {
+    "hiragana": "ろくねんせい",
+    "kanji": "六年生",
+    "english": "sixth-year student",
+    "kanjiMeanings": "Six - Year - Life",
+    "lessonSection": "01",
+    "category": "year_student"
+  },
+  {
+    "hiragana": "〜ねんせい",
+    "kanji": "〜年生",
+    "english": "... year student",
+    "kanjiMeanings": "〜 - Year - Life",
+    "lessonSection": "01",
+    "category": "year_student"
+  },
+  {
+    "hiragana": "いっさい*",
+    "kanji": "一才",
+    "english": "one year old",
+    "kanjiMeanings": "One - Genius",
+    "lessonSection": "01",
+    "category": "years_old"
+  },
+  {
+    "hiragana": "にさい",
+    "kanji": "二才",
+    "english": "two years old",
+    "kanjiMeanings": "Two - Genius",
+    "lessonSection": "01",
+    "category": "years_old"
+  },
+  {
+    "hiragana": "さんさい",
+    "kanji": "三才",
+    "english": "three years old",
+    "kanjiMeanings": "Three - Genius",
+    "lessonSection": "01",
+    "category": "years_old"
+  },
+  {
+    "hiragana": "よんさい",
+    "kanji": "四才",
+    "english": "four years old",
+    "kanjiMeanings": "Four - Genius",
+    "lessonSection": "01",
+    "category": "years_old"
+  },
+  {
+    "hiragana": "ごさい",
+    "kanji": "五才",
+    "english": "five years old",
+    "kanjiMeanings": "Five - Genius",
+    "lessonSection": "01",
+    "category": "years_old"
+  },
+  {
+    "hiragana": "ろくさい",
+    "kanji": "六才",
+    "english": "six years old",
+    "kanjiMeanings": "Six - Genius",
+    "lessonSection": "01",
+    "category": "years_old"
+  },
+  {
+    "hiragana": "ななさい",
+    "kanji": "七才",
+    "english": "seven years old",
+    "kanjiMeanings": "Seven - Genius",
+    "lessonSection": "01",
+    "category": "years_old"
+  },
+  {
+    "hiragana": "はっさい*",
+    "kanji": "八才",
+    "english": "eight years old",
+    "kanjiMeanings": "Eight - Genius",
+    "lessonSection": "01",
+    "category": "years_old"
+  },
+  {
+    "hiragana": "きゅうさい",
+    "kanji": "九才",
+    "english": "nine years old",
+    "kanjiMeanings": "Nine - Genius",
+    "lessonSection": "01",
+    "category": "years_old"
+  },
+  {
+    "hiragana": "じゅっさい*",
+    "kanji": "十才",
+    "english": "ten years old",
+    "kanjiMeanings": "Ten - Genius",
+    "lessonSection": "01",
+    "category": "years_old"
+  },
+  {
+    "hiragana": "じゅういっさい",
+    "kanji": "十一才",
+    "english": "eleven years old",
+    "kanjiMeanings": "Ten - One - Genius",
+    "lessonSection": "01",
+    "category": "years_old"
+  },
+  {
+    "hiragana": "はたち*",
+    "kanji": "二十才",
+    "english": "20 years old",
+    "kanjiMeanings": "Two - Ten - Genius",
+    "lessonSection": "01",
+    "category": "years_old"
+  },
+  {
+    "hiragana": "にじゅういっさい",
+    "kanji": "二十一才",
+    "english": "21 years old",
+    "kanjiMeanings": "Two - Ten - One - Genius",
+    "lessonSection": "01",
+    "category": "years_old"
+  },
+  {
+    "hiragana": "さんじゅうごさい",
+    "kanji": "三十五才",
+    "english": "35 years old",
+    "kanjiMeanings": "Three - Ten - Five - Genius",
+    "lessonSection": "01",
+    "category": "years_old"
+  },
+  {
+    "hiragana": "よんじゅっさい",
+    "kanji": "四十才",
+    "english": "40 years old",
+    "kanjiMeanings": "Four - Ten - Genius",
+    "lessonSection": "01",
+    "category": "years_old"
+  },
+  {
+    "hiragana": "〜さい",
+    "kanji": "〜才",
+    "english": "... years old",
+    "kanjiMeanings": "〜 - Genius",
+    "lessonSection": "01",
+    "category": "years_old"
+  },
+  {
+    "hiragana": "いちじ",
+    "kanji": "一時",
+    "english": "1 o'clock",
+    "kanjiMeanings": "One - Time",
+    "lessonSection": "01",
+    "category": "Hours"
+  },
+  {
+    "hiragana": "にじ",
+    "kanji": "二時",
+    "english": "2 o'clock",
+    "kanjiMeanings": "Two - Time",
+    "lessonSection": "01",
+    "category": "Hours"
+  },
+  {
+    "hiragana": "さんじ",
+    "kanji": "三時",
+    "english": "3 o'clock",
+    "kanjiMeanings": "Three - Time",
+    "lessonSection": "01",
+    "category": "Hours"
+  },
+  {
+    "hiragana": "よじ*",
+    "kanji": "四時",
+    "english": "4 o'clock",
+    "kanjiMeanings": "Four - Time",
+    "lessonSection": "01",
+    "category": "Hours"
+  },
+  {
+    "hiragana": "ごじ",
+    "kanji": "五時",
+    "english": "5 o'clock",
+    "kanjiMeanings": "Five - Time",
+    "lessonSection": "01",
+    "category": "Hours"
+  },
+  {
+    "hiragana": "ろくじ",
+    "kanji": "六時",
+    "english": "6 o'clock",
+    "kanjiMeanings": "Six - Time",
+    "lessonSection": "01",
+    "category": "Hours"
+  },
+  {
+    "hiragana": "しちじ*",
+    "kanji": "七時",
+    "english": "7 o'clock",
+    "kanjiMeanings": "Seven - Time",
+    "lessonSection": "01",
+    "category": "Hours"
+  },
+  {
+    "hiragana": "はちじ",
+    "kanji": "八時",
+    "english": "8 o'clock",
+    "kanjiMeanings": "Eight - Time",
+    "lessonSection": "01",
+    "category": "Hours"
+  },
+  {
+    "hiragana": "くじ*",
+    "kanji": "九時",
+    "english": "9 o'clock",
+    "kanjiMeanings": "Nine - Time",
+    "lessonSection": "01",
+    "category": "Hours"
+  },
+  {
+    "hiragana": "じゅうじ",
+    "kanji": "十時",
+    "english": "10 o'clock",
+    "kanjiMeanings": "Ten - Time",
+    "lessonSection": "01",
+    "category": "Hours"
+  },
+  {
+    "hiragana": "じゅういちじ",
+    "kanji": "十一時",
+    "english": "11 o'clock",
+    "kanjiMeanings": "Ten - One - Time",
+    "lessonSection": "01",
+    "category": "Hours"
+  },
+  {
+    "hiragana": "じゅうにじ",
+    "kanji": "十二時",
+    "english": "12 o'clock",
+    "kanjiMeanings": "Ten - Two - Time",
+    "lessonSection": "01",
+    "category": "Hours"
+  },
+  {
+    "hiragana": "いちじはん",
+    "kanji": "一時半",
+    "english": "1:30",
+    "kanjiMeanings": "One - Time - Half",
+    "lessonSection": "01",
+    "category": "Hours"
+  },
+  {
+    "hiragana": "いっぷん*",
+    "kanji": "一分",
+    "english": "1 minute",
+    "kanjiMeanings": "One - Part",
+    "lessonSection": "01",
+    "category": "Minutes"
+  },
+  {
+    "hiragana": "にふん",
+    "kanji": "二分",
+    "english": "2 minutes",
+    "kanjiMeanings": "Two - Part",
+    "lessonSection": "01",
+    "category": "Minutes"
+  },
+  {
+    "hiragana": "さんぷん*",
+    "kanji": "三分",
+    "english": "3 minutes",
+    "kanjiMeanings": "Three - Part",
+    "lessonSection": "01",
+    "category": "Minutes"
+  },
+  {
+    "hiragana": "よんぷん*",
+    "kanji": "四分",
+    "english": "4 minutes",
+    "kanjiMeanings": "Four - Part",
+    "lessonSection": "01",
+    "category": "Minutes"
+  },
+  {
+    "hiragana": "ごふん",
+    "kanji": "五分",
+    "english": "5 minutes",
+    "kanjiMeanings": "Five - Part",
+    "lessonSection": "01",
+    "category": "Minutes"
+  },
+  {
+    "hiragana": "ろっぷん*",
+    "kanji": "六分",
+    "english": "6 minutes",
+    "kanjiMeanings": "Six - Part",
+    "lessonSection": "01",
+    "category": "Minutes"
+  },
+  {
+    "hiragana": "ななふん",
+    "kanji": "七分",
+    "english": "7 minutes",
+    "kanjiMeanings": "Seven - Part",
+    "lessonSection": "01",
+    "category": "Minutes"
+  },
+  {
+    "hiragana": "はっぷん*",
+    "kanji": "八分",
+    "english": "8 minutes",
+    "kanjiMeanings": "Eight - Part",
+    "lessonSection": "01",
+    "category": "Minutes"
+  },
+  {
+    "hiragana": "きゅうふん",
+    "kanji": "九分",
+    "english": "9 minutes",
+    "kanjiMeanings": "Nine - Part",
+    "lessonSection": "01",
+    "category": "Minutes"
+  },
+  {
+    "hiragana": "じゅっぷん*",
+    "kanji": "十分",
+    "english": "10 minutes",
+    "kanjiMeanings": "Ten - Part",
+    "lessonSection": "01",
+    "category": "Minutes"
+  },
+  {
+    "hiragana": "じゅういっぷん",
+    "kanji": "十一分",
+    "english": "11 minutes",
+    "kanjiMeanings": "Ten - One - Part",
+    "lessonSection": "01",
+    "category": "Minutes"
+  },
+  {
+    "hiragana": "じゅうにふん",
+    "kanji": "十二分",
+    "english": "12 minutes",
+    "kanjiMeanings": "Ten - Two - Part",
+    "lessonSection": "01",
+    "category": "Minutes"
+  },
+  {
+    "hiragana": "じゅうさんぷん",
+    "kanji": "十三分",
+    "english": "13 minutes",
+    "kanjiMeanings": "Ten - Three - Part",
+    "lessonSection": "01",
+    "category": "Minutes"
+  },
+  {
+    "hiragana": "じゅうよんぷん",
+    "kanji": "十四分",
+    "english": "14 minutes",
+    "kanjiMeanings": "Ten - Four - Part",
+    "lessonSection": "01",
+    "category": "Minutes"
+  },
+  {
+    "hiragana": "じゅうごふん",
+    "kanji": "十五分",
+    "english": "15 minutes",
+    "kanjiMeanings": "Ten - Five - Part",
+    "lessonSection": "01",
+    "category": "Minutes"
+  },
+  {
+    "hiragana": "じゅうろっぷん",
+    "kanji": "十六分",
+    "english": "16 minutes",
+    "kanjiMeanings": "Ten - Six - Part",
+    "lessonSection": "01",
+    "category": "Minutes"
+  },
+  {
+    "hiragana": "じゅうななふん",
+    "kanji": "十七分",
+    "english": "17 minutes",
+    "kanjiMeanings": "Ten - Seven - Part",
+    "lessonSection": "01",
+    "category": "Minutes"
+  },
+  {
+    "hiragana": "じゅうはっぷん",
+    "kanji": "十八分",
+    "english": "18 minutes",
+    "kanjiMeanings": "Ten - Eight - Part",
+    "lessonSection": "01",
+    "category": "Minutes"
+  },
+  {
+    "hiragana": "じゅうきゅうふん",
+    "kanji": "十九分",
+    "english": "19 minutes",
+    "kanjiMeanings": "Ten - Nine - Part",
+    "lessonSection": "01",
+    "category": "Minutes"
+  },
+  {
+    "hiragana": "にじゅっぷん",
+    "kanji": "二十分",
+    "english": "20 minutes",
+    "kanjiMeanings": "Two - Ten - Part",
+    "lessonSection": "01",
+    "category": "Minutes"
+  },
+  {
+    "hiragana": "さんじゅっぷん",
+    "kanji": "三十分",
+    "english": "30 minutes",
+    "kanjiMeanings": "Three - Ten - Part",
+    "lessonSection": "01",
+    "category": "Minutes"
+  },
+  {
+    "hiragana": "これ",
+    "kanji": "",
+    "english": "this one",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Words_That_Point"
+  },
+  {
+    "hiragana": "それ",
+    "kanji": "",
+    "english": "that one",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Words_That_Point"
+  },
+  {
+    "hiragana": "あれ",
+    "kanji": "",
+    "english": "that one (over there)",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Words_That_Point"
+  },
+  {
+    "hiragana": "どれ",
+    "kanji": "",
+    "english": "which one",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Words_That_Point"
+  },
+  {
+    "hiragana": "この",
+    "kanji": "",
+    "english": "this ...",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Words_That_Point"
+  },
+  {
+    "hiragana": "その",
+    "kanji": "",
+    "english": "that ...",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Words_That_Point"
+  },
+  {
+    "hiragana": "あの",
+    "kanji": "",
+    "english": "that ... (over there)",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Words_That_Point"
+  },
+  {
+    "hiragana": "どの",
+    "kanji": "",
+    "english": "which ...",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Words_That_Point"
+  },
+  {
+    "hiragana": "ここ",
+    "kanji": "",
+    "english": "here",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Words_That_Point"
+  },
+  {
+    "hiragana": "そこ",
+    "kanji": "",
+    "english": "there",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Words_That_Point"
+  },
+  {
+    "hiragana": "あそこ",
+    "kanji": "",
+    "english": "over there",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Words_That_Point"
+  },
+  {
+    "hiragana": "どこ",
+    "kanji": "",
+    "english": "where",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Words_That_Point"
+  },
+  {
+    "hiragana": "だれ",
+    "kanji": "",
+    "english": "who",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Words_That_Point"
+  },
+  {
+    "hiragana": "おいしい",
+    "kanji": "",
+    "english": "delicious",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Food"
+  },
+  {
+    "hiragana": "さかな",
+    "kanji": "魚",
+    "english": "fish",
+    "kanjiMeanings": "Fish",
+    "lessonSection": "02",
+    "category": "Food"
+  },
+  {
+    "hiragana": "とんかつ",
+    "kanji": "",
+    "english": "pork cutlet",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Food"
+  },
+  {
+    "hiragana": "にく",
+    "kanji": "肉",
+    "english": "meat",
+    "kanjiMeanings": "Meat",
+    "lessonSection": "02",
+    "category": "Food"
+  },
+  {
+    "hiragana": "メニュー",
+    "kanji": "",
+    "english": "menu",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Food"
+  },
+  {
+    "hiragana": "やさい",
+    "kanji": "野菜",
+    "english": "vegetable",
+    "kanjiMeanings": "Field - Vegetable",
+    "lessonSection": "02",
+    "category": "Food"
+  },
+  {
+    "hiragana": "かさ",
+    "kanji": "傘",
+    "english": "umbrella",
+    "kanjiMeanings": "Umbrella",
+    "lessonSection": "02",
+    "category": "Things"
+  },
+  {
+    "hiragana": "かばん",
+    "kanji": "",
+    "english": "bag",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Things"
+  },
+  {
+    "hiragana": "くつ",
+    "kanji": "靴",
+    "english": "shoes",
+    "kanjiMeanings": "Shoes",
+    "lessonSection": "02",
+    "category": "Things"
+  },
+  {
+    "hiragana": "さいふ",
+    "kanji": "財布",
+    "english": "wallet",
+    "kanjiMeanings": "Wealth - Cloth",
+    "lessonSection": "02",
+    "category": "Things"
+  },
+  {
+    "hiragana": "ジーンズ",
+    "kanji": "",
+    "english": "jeans",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Things"
+  },
+  {
+    "hiragana": "じてんしゃ",
+    "kanji": "自転車",
+    "english": "bicycle",
+    "kanjiMeanings": "Self - Revolve - Car",
+    "lessonSection": "02",
+    "category": "Things"
+  },
+  {
+    "hiragana": "しんぶん",
+    "kanji": "新聞",
+    "english": "newspaper",
+    "kanjiMeanings": "New - Hear",
+    "lessonSection": "02",
+    "category": "Things"
+  },
+  {
+    "hiragana": "スマホ",
+    "kanji": "",
+    "english": "smartphone; mobile",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Things"
+  },
+  {
+    "hiragana": "Tシャツ",
+    "kanji": "",
+    "english": "T-shirt",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Things"
+  },
+  {
+    "hiragana": "とけい",
+    "kanji": "時計",
+    "english": "watch; clock",
+    "kanjiMeanings": "Time - Measure",
+    "lessonSection": "02",
+    "category": "Things"
+  },
+  {
+    "hiragana": "ノート",
+    "kanji": "",
+    "english": "notebook",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Things"
+  },
+  {
+    "hiragana": "ペン",
+    "kanji": "",
+    "english": "pen",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Things"
+  },
+  {
+    "hiragana": "ぼうし",
+    "kanji": "帽子",
+    "english": "hat; cap",
+    "kanjiMeanings": "Hat - Child",
+    "lessonSection": "02",
+    "category": "Things"
+  },
+  {
+    "hiragana": "ほん",
+    "kanji": "本",
+    "english": "book",
+    "kanjiMeanings": "Book",
+    "lessonSection": "02",
+    "category": "Things"
+  },
+  {
+    "hiragana": "ぎんこう",
+    "kanji": "銀行",
+    "english": "bank",
+    "kanjiMeanings": "Silver - Go",
+    "lessonSection": "02",
+    "category": "Places"
+  },
+  {
+    "hiragana": "コンビニ",
+    "kanji": "",
+    "english": "convenience store",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Places"
+  },
+  {
+    "hiragana": "トイレ",
+    "kanji": "",
+    "english": "toilet; restroom",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Places"
+  },
+  {
+    "hiragana": "としょかん",
+    "kanji": "図書館",
+    "english": "library",
+    "kanjiMeanings": "Diagram - Write - Public Building",
+    "lessonSection": "02",
+    "category": "Places"
+  },
+  {
+    "hiragana": "ゆうびんきょく",
+    "kanji": "郵便局",
+    "english": "post office",
+    "kanjiMeanings": "Mail - Convenience - Bureau",
+    "lessonSection": "02",
+    "category": "Places"
+  },
+  {
+    "hiragana": "イギリス",
+    "kanji": "",
+    "english": "Britain",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Countries"
+  },
+  {
+    "hiragana": "かんこく",
+    "kanji": "韓国",
+    "english": "Korea",
+    "kanjiMeanings": "Korea - Country",
+    "lessonSection": "02",
+    "category": "Countries"
+  },
+  {
+    "hiragana": "ちゅうごく",
+    "kanji": "中国",
+    "english": "China",
+    "kanjiMeanings": "Middle - Country",
+    "lessonSection": "02",
+    "category": "Countries"
+  },
+  {
+    "hiragana": "えいご",
+    "kanji": "",
+    "english": "English (language)",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Majors"
+  },
+  {
+    "hiragana": "けいざい",
+    "kanji": "",
+    "english": "economics",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Majors"
+  },
+  {
+    "hiragana": "コンピューター",
+    "kanji": "",
+    "english": "computer",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Majors"
+  },
+  {
+    "hiragana": "ビジネス",
+    "kanji": "",
+    "english": "business",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Majors"
+  },
+  {
+    "hiragana": "れきし",
+    "kanji": "歴史",
+    "english": "history",
+    "kanjiMeanings": "Continuation - History",
+    "lessonSection": "02",
+    "category": "Majors"
+  },
+  {
+    "hiragana": "おかあさん",
+    "kanji": "お母さん",
+    "english": "mother",
+    "kanjiMeanings": "お - Mother - さん",
+    "lessonSection": "02",
+    "category": "Family"
+  },
+  {
+    "hiragana": "おとうさん",
+    "kanji": "お父さん",
+    "english": "father",
+    "kanjiMeanings": "お - Father - さん",
+    "lessonSection": "02",
+    "category": "Family"
+  },
+  {
+    "hiragana": "いくら",
+    "kanji": "",
+    "english": "how much",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Money_Matters"
+  },
+  {
+    "hiragana": "〜えん",
+    "kanji": "円",
+    "english": "... yen",
+    "kanjiMeanings": "Yen",
+    "lessonSection": "02",
+    "category": "Money_Matters"
+  },
+  {
+    "hiragana": "たかい",
+    "kanji": "高い",
+    "english": "expensive; high",
+    "kanjiMeanings": "Tall - い",
+    "lessonSection": "02",
+    "category": "Money_Matters"
+  },
+  {
+    "hiragana": "いらっしゃいませ",
+    "kanji": "",
+    "english": "Welcome (to our store)",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Expressions"
+  },
+  {
+    "hiragana": "（〜を）おねがいします",
+    "kanji": "",
+    "english": "..., please",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Expressions"
+  },
+  {
+    "hiragana": "（〜を）ください",
+    "kanji": "",
+    "english": "Please give me ...",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Expressions"
+  },
+  {
+    "hiragana": "じゃあ",
+    "kanji": "",
+    "english": "then ...; if that is the case, ...",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Expressions"
+  },
+  {
+    "hiragana": "どうぞ",
+    "kanji": "",
+    "english": "Please.; Here it is.",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Expressions"
+  },
+  {
+    "hiragana": "どうも",
+    "kanji": "",
+    "english": "Thank you.",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Expressions"
+  },
+  {
+    "hiragana": "ひゃく",
+    "kanji": "百",
+    "english": "100",
+    "kanjiMeanings": "Hundred",
+    "lessonSection": "02",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "にひゃく",
+    "kanji": "二百",
+    "english": "200",
+    "kanjiMeanings": "Two - Hundred",
+    "lessonSection": "02",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "さんびゃく*",
+    "kanji": "三百",
+    "english": "300",
+    "kanjiMeanings": "Three - Hundred",
+    "lessonSection": "02",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "よんひゃく",
+    "kanji": "四百",
+    "english": "400",
+    "kanjiMeanings": "Four - Hundred",
+    "lessonSection": "02",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "ごひゃく",
+    "kanji": "五百",
+    "english": "500",
+    "kanjiMeanings": "Five - Hundred",
+    "lessonSection": "02",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "ろっぴゃく*",
+    "kanji": "六百",
+    "english": "600",
+    "kanjiMeanings": "Six - Hundred",
+    "lessonSection": "02",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "ななひゃく",
+    "kanji": "七百",
+    "english": "700",
+    "kanjiMeanings": "Seven - Hundred",
+    "lessonSection": "02",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "はっぴゃく*",
+    "kanji": "八百",
+    "english": "800",
+    "kanjiMeanings": "Eight - Hundred",
+    "lessonSection": "02",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "きゅうひゃく",
+    "kanji": "九百",
+    "english": "900",
+    "kanjiMeanings": "Nine - Hundred",
+    "lessonSection": "02",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "せん",
+    "kanji": "千",
+    "english": "1000",
+    "kanjiMeanings": "Thousand",
+    "lessonSection": "02",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "にせん",
+    "kanji": "二千",
+    "english": "2000",
+    "kanjiMeanings": "Two - Thousand",
+    "lessonSection": "02",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "さんぜん*",
+    "kanji": "三千",
+    "english": "3000",
+    "kanjiMeanings": "Three - Thousand",
+    "lessonSection": "02",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "よんせん",
+    "kanji": "四千",
+    "english": "4000",
+    "kanjiMeanings": "Four - Thousand",
+    "lessonSection": "02",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "ごせん",
+    "kanji": "五千",
+    "english": "5000",
+    "kanjiMeanings": "Five - Thousand",
+    "lessonSection": "02",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "ろくせん",
+    "kanji": "六千",
+    "english": "6000",
+    "kanjiMeanings": "Six - Thousand",
+    "lessonSection": "02",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "ななせん",
+    "kanji": "七千",
+    "english": "7000",
+    "kanjiMeanings": "Seven - Thousand",
+    "lessonSection": "02",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "はっせん*",
+    "kanji": "八千",
+    "english": "8000",
+    "kanjiMeanings": "Eight - Thousand",
+    "lessonSection": "02",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "きゅうせん",
+    "kanji": "九千",
+    "english": "9000",
+    "kanjiMeanings": "Nine - Thousand",
+    "lessonSection": "02",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "いちまん*",
+    "kanji": "一万",
+    "english": "10000",
+    "kanjiMeanings": "One - Ten Thousand",
+    "lessonSection": "02",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "にまん",
+    "kanji": "二万",
+    "english": "20000",
+    "kanjiMeanings": "Two - Ten Thousand",
+    "lessonSection": "02",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "さんまん",
+    "kanji": "三万",
+    "english": "30000",
+    "kanjiMeanings": "Three - Ten Thousand",
+    "lessonSection": "02",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "よんまん",
+    "kanji": "四万",
+    "english": "40000",
+    "kanjiMeanings": "Four - Ten Thousand",
+    "lessonSection": "02",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "ごまん",
+    "kanji": "五万",
+    "english": "50000",
+    "kanjiMeanings": "Five - Ten Thousand",
+    "lessonSection": "02",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "ろくまん",
+    "kanji": "六万",
+    "english": "60000",
+    "kanjiMeanings": "Six - Ten Thousand",
+    "lessonSection": "02",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "ななまん",
+    "kanji": "七万",
+    "english": "70000",
+    "kanjiMeanings": "Seven - Ten Thousand",
+    "lessonSection": "02",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "はちまん",
+    "kanji": "八万",
+    "english": "80000",
+    "kanjiMeanings": "Eight - Ten Thousand",
+    "lessonSection": "02",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "きゅうまん",
+    "kanji": "九万",
+    "english": "90000",
+    "kanjiMeanings": "Nine - Ten Thousand",
+    "lessonSection": "02",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "ほん",
+    "kanji": "",
+    "english": "book",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "こくばん",
+    "kanji": "",
+    "english": "blackboard",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "つくえ",
+    "kanji": "",
+    "english": "desk",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "けしゴム",
+    "kanji": "",
+    "english": "eraser",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "じしょ",
+    "kanji": "",
+    "english": "dictionary",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "えんぴつ",
+    "kanji": "",
+    "english": "pencil",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "でんき",
+    "kanji": "",
+    "english": "electricity; light",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "ドア",
+    "kanji": "",
+    "english": "door",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "カーテン",
+    "kanji": "",
+    "english": "curtain",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "まど",
+    "kanji": "",
+    "english": "window",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "いす",
+    "kanji": "",
+    "english": "chair",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "わかりましたか。",
+    "kanji": "",
+    "english": "Do you understand?",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "わかりました。",
+    "kanji": "",
+    "english": "I do understand./I understood.",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "わかりません。",
+    "kanji": "",
+    "english": "I don't understand./I don't know.",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "ゆっくり　いってください。",
+    "kanji": "",
+    "english": "Please say it slowly.",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "もういちど　いってください。",
+    "kanji": "",
+    "english": "Please say it again.",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "ちょっと　まってください。",
+    "kanji": "",
+    "english": "Please wait for a while.",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "きいてください。",
+    "kanji": "",
+    "english": "Please listen./Please ask.",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "１０ページを　みてください。",
+    "kanji": "",
+    "english": "Please look at page 10.",
+    "kanjiMeanings": "",
+    "lessonSection": "02",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "えいが",
+    "kanji": "映画",
+    "english": "movie",
+    "kanjiMeanings": "Reflect - Drawing",
+    "lessonSection": "03",
+    "category": "Entertainment_and_Sports Nouns"
+  },
+  {
+    "hiragana": "おんがく",
+    "kanji": "音楽",
+    "english": "music",
+    "kanjiMeanings": "Sound - Comfort",
+    "lessonSection": "03",
+    "category": "Entertainment_and_Sports Nouns"
+  },
+  {
+    "hiragana": "ざっし",
+    "kanji": "雑誌",
+    "english": "magazine",
+    "kanjiMeanings": "Random - Magazine",
+    "lessonSection": "03",
+    "category": "Entertainment_and_Sports Nouns"
+  },
+  {
+    "hiragana": "スポーツ",
+    "kanji": "",
+    "english": "sports",
+    "kanjiMeanings": "",
+    "lessonSection": "03",
+    "category": "Entertainment_and_Sports Nouns"
+  },
+  {
+    "hiragana": "デート",
+    "kanji": "",
+    "english": "date (romantic, not calendar)",
+    "kanjiMeanings": "",
+    "lessonSection": "03",
+    "category": "Entertainment_and_Sports Nouns"
+  },
+  {
+    "hiragana": "テニス",
+    "kanji": "",
+    "english": "tennis",
+    "kanjiMeanings": "",
+    "lessonSection": "03",
+    "category": "Entertainment_and_Sports Nouns"
+  },
+  {
+    "hiragana": "テレビ",
+    "kanji": "",
+    "english": "TV",
+    "kanjiMeanings": "",
+    "lessonSection": "03",
+    "category": "Entertainment_and_Sports Nouns"
+  },
+  {
+    "hiragana": "アイスクリーム",
+    "kanji": "",
+    "english": "ice cream",
+    "kanjiMeanings": "",
+    "lessonSection": "03",
+    "category": "Foods_and_Drinks Nouns"
+  },
+  {
+    "hiragana": "ハンバーガー",
+    "kanji": "",
+    "english": "hamburger",
+    "kanjiMeanings": "",
+    "lessonSection": "03",
+    "category": "Foods_and_Drinks Nouns"
+  },
+  {
+    "hiragana": "おさけ",
+    "kanji": "お酒",
+    "english": "sake; alcoholic drink",
+    "kanjiMeanings": "お - Alcohol",
+    "lessonSection": "03",
+    "category": "Foods_and_Drinks Nouns"
+  },
+  {
+    "hiragana": "おちゃ",
+    "kanji": "お茶",
+    "english": "green tea",
+    "kanjiMeanings": "お - Tea",
+    "lessonSection": "03",
+    "category": "Foods_and_Drinks Nouns"
+  },
+  {
+    "hiragana": "コーヒー",
+    "kanji": "",
+    "english": "coffee",
+    "kanjiMeanings": "",
+    "lessonSection": "03",
+    "category": "Foods_and_Drinks Nouns"
+  },
+  {
+    "hiragana": "みず",
+    "kanji": "水",
+    "english": "water",
+    "kanjiMeanings": "Water",
+    "lessonSection": "03",
+    "category": "Foods_and_Drinks Nouns"
+  },
+  {
+    "hiragana": "あさごはん",
+    "kanji": "朝ご飯",
+    "english": "breakfast",
+    "kanjiMeanings": "Morning - ご - Meal",
+    "lessonSection": "03",
+    "category": "Foods_and_Drinks Nouns"
+  },
+  {
+    "hiragana": "ひるごはん",
+    "kanji": "昼ご飯",
+    "english": "lunch",
+    "kanjiMeanings": "Noon - ご - Meal",
+    "lessonSection": "03",
+    "category": "Foods_and_Drinks Nouns"
+  },
+  {
+    "hiragana": "ばんごはん",
+    "kanji": "晩ご飯",
+    "english": "dinner",
+    "kanjiMeanings": "Night - ご - Meal",
+    "lessonSection": "03",
+    "category": "Foods_and_Drinks Nouns"
+  },
+  {
+    "hiragana": "いえ",
+    "kanji": "家",
+    "english": "home; house",
+    "kanjiMeanings": "House",
+    "lessonSection": "03",
+    "category": "Nouns Places"
+  },
+  {
+    "hiragana": "うち",
+    "kanji": "",
+    "english": "home; house; my place",
+    "kanjiMeanings": "",
+    "lessonSection": "03",
+    "category": "Nouns Places"
+  },
+  {
+    "hiragana": "がっこう",
+    "kanji": "学校",
+    "english": "school",
+    "kanjiMeanings": "Study - School",
+    "lessonSection": "03",
+    "category": "Nouns Places"
+  },
+  {
+    "hiragana": "カフェ",
+    "kanji": "",
+    "english": "cafe",
+    "kanjiMeanings": "",
+    "lessonSection": "03",
+    "category": "Nouns Places"
+  },
+  {
+    "hiragana": "あした",
+    "kanji": "明日",
+    "english": "tomorrow",
+    "kanjiMeanings": "Bright - Sun",
+    "lessonSection": "03",
+    "category": "Nouns Time"
+  },
+  {
+    "hiragana": "きょう",
+    "kanji": "今日",
+    "english": "today",
+    "kanjiMeanings": "Now - Sun",
+    "lessonSection": "03",
+    "category": "Nouns Time"
+  },
+  {
+    "hiragana": "あさ",
+    "kanji": "朝",
+    "english": "morning",
+    "kanjiMeanings": "Morning",
+    "lessonSection": "03",
+    "category": "Nouns Time"
+  },
+  {
+    "hiragana": "こんばん",
+    "kanji": "今晩",
+    "english": "tonight",
+    "kanjiMeanings": "Now - Night",
+    "lessonSection": "03",
+    "category": "Nouns Time"
+  },
+  {
+    "hiragana": "まいにち",
+    "kanji": "毎日",
+    "english": "every day",
+    "kanjiMeanings": "Every - Sun",
+    "lessonSection": "03",
+    "category": "Nouns Time"
+  },
+  {
+    "hiragana": "まいばん",
+    "kanji": "毎晩",
+    "english": "every night",
+    "kanjiMeanings": "Every - Night",
+    "lessonSection": "03",
+    "category": "Nouns Time"
+  },
+  {
+    "hiragana": "しゅうまつ",
+    "kanji": "週末",
+    "english": "weekend",
+    "kanjiMeanings": "Week - End",
+    "lessonSection": "03",
+    "category": "Nouns Time"
+  },
+  {
+    "hiragana": "どようび",
+    "kanji": "土曜日",
+    "english": "Saturday",
+    "kanjiMeanings": "Dirt - Weekday - Sun",
+    "lessonSection": "03",
+    "category": "Nouns Time"
+  },
+  {
+    "hiragana": "にちようび",
+    "kanji": "日曜日",
+    "english": "Sunday",
+    "kanjiMeanings": "SunWeekday - Sun",
+    "lessonSection": "03",
+    "category": "Nouns Time"
+  },
+  {
+    "hiragana": "いつ",
+    "kanji": "",
+    "english": "when",
+    "kanjiMeanings": "",
+    "lessonSection": "03",
+    "category": "Nouns Time"
+  },
+  {
+    "hiragana": "〜ごろ",
+    "kanji": "",
+    "english": "at about ...",
+    "kanjiMeanings": "",
+    "lessonSection": "03",
+    "category": "Nouns Time"
+  },
+  {
+    "hiragana": "いく",
+    "kanji": "行く",
+    "english": "to go (<i>destination</i> に/へ)",
+    "kanjiMeanings": "Go - く",
+    "lessonSection": "03",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "かえる",
+    "kanji": "帰る",
+    "english": "to go back; to return (<i>destination</i> に/へ)",
+    "kanjiMeanings": "Return - る",
+    "lessonSection": "03",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "きく",
+    "kanji": "聞く",
+    "english": "to listen; to hear (〜を); to ask (<i>person</i>&nbsp;に)",
+    "kanjiMeanings": "Hear - く",
+    "lessonSection": "03",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "のむ",
+    "kanji": "飲む",
+    "english": "to drink (〜を)",
+    "kanjiMeanings": "Drink - む",
+    "lessonSection": "03",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "はなす",
+    "kanji": "話す",
+    "english": "to speak; to talk (<i>language</i> を/で)",
+    "kanjiMeanings": "Talk - す",
+    "lessonSection": "03",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "よむ",
+    "kanji": "読む",
+    "english": "to read (〜を)",
+    "kanjiMeanings": "Read - む",
+    "lessonSection": "03",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "おきる",
+    "kanji": "起きる",
+    "english": "to get up",
+    "kanjiMeanings": "Wake Up - きる",
+    "lessonSection": "03",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "たべる",
+    "kanji": "食べる",
+    "english": "to eat (〜を)",
+    "kanjiMeanings": "Eat - べる",
+    "lessonSection": "03",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "ねる",
+    "kanji": "寝る",
+    "english": "to sleep; to go to sleep",
+    "kanjiMeanings": "Lie Down - る",
+    "lessonSection": "03",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "みる",
+    "kanji": "見る",
+    "english": "to see; to look at; to watch (〜を)",
+    "kanjiMeanings": "See - る",
+    "lessonSection": "03",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "くる",
+    "kanji": "来る",
+    "english": "to come (<i>destination</i> に/へ)",
+    "kanjiMeanings": "Come - る",
+    "lessonSection": "03",
+    "category": "Irregular_Verbs"
+  },
+  {
+    "hiragana": "する",
+    "kanji": "",
+    "english": "to do (〜を)",
+    "kanjiMeanings": "",
+    "lessonSection": "03",
+    "category": "Irregular_Verbs"
+  },
+  {
+    "hiragana": "べんきょうする",
+    "kanji": "勉強する",
+    "english": "to study (〜を)",
+    "kanjiMeanings": "Exertion - Strong - する",
+    "lessonSection": "03",
+    "category": "Irregular_Verbs"
+  },
+  {
+    "hiragana": "いい",
+    "kanji": "",
+    "english": "good",
+    "kanjiMeanings": "",
+    "lessonSection": "03",
+    "category": "Adjectives"
+  },
+  {
+    "hiragana": "はやい",
+    "kanji": "早い",
+    "english": "early",
+    "kanjiMeanings": "Early - い",
+    "lessonSection": "03",
+    "category": "Adjectives"
+  },
+  {
+    "hiragana": "あまり + negative",
+    "kanji": "",
+    "english": "not much",
+    "kanjiMeanings": "",
+    "lessonSection": "03",
+    "category": "Adverbs"
+  },
+  {
+    "hiragana": "ぜんぜん + negative",
+    "kanji": "全然",
+    "english": "not at all",
+    "kanjiMeanings": "All - Nature",
+    "lessonSection": "03",
+    "category": "Adverbs"
+  },
+  {
+    "hiragana": "たいてい",
+    "kanji": "",
+    "english": "usually",
+    "kanjiMeanings": "",
+    "lessonSection": "03",
+    "category": "Adverbs"
+  },
+  {
+    "hiragana": "ちょっと",
+    "kanji": "",
+    "english": "a little",
+    "kanjiMeanings": "",
+    "lessonSection": "03",
+    "category": "Adverbs"
+  },
+  {
+    "hiragana": "ときどき",
+    "kanji": "時々",
+    "english": "sometimes",
+    "kanjiMeanings": "Time - 々",
+    "lessonSection": "03",
+    "category": "Adverbs"
+  },
+  {
+    "hiragana": "よく",
+    "kanji": "",
+    "english": "often; much",
+    "kanjiMeanings": "",
+    "lessonSection": "03",
+    "category": "Adverbs"
+  },
+  {
+    "hiragana": "そうですね",
+    "kanji": "",
+    "english": "That's right.; Let me see.",
+    "kanjiMeanings": "",
+    "lessonSection": "03",
+    "category": "Expressions"
+  },
+  {
+    "hiragana": "でも",
+    "kanji": "",
+    "english": "but",
+    "kanjiMeanings": "",
+    "lessonSection": "03",
+    "category": "Expressions"
+  },
+  {
+    "hiragana": "どうですか",
+    "kanji": "",
+    "english": "How about ...?; How is ...?",
+    "kanjiMeanings": "",
+    "lessonSection": "03",
+    "category": "Expressions"
+  },
+  {
+    "hiragana": "ええ",
+    "kanji": "",
+    "english": "yes",
+    "kanjiMeanings": "",
+    "lessonSection": "03",
+    "category": "Expressions"
+  },
+  {
+    "hiragana": "ゲーム",
+    "kanji": "",
+    "english": "game",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Activities Nouns"
+  },
+  {
+    "hiragana": "アルバイト",
+    "kanji": "",
+    "english": "part-time job (more colloquially, バイト)",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Activities Nouns"
+  },
+  {
+    "hiragana": "かいもの",
+    "kanji": "買い物",
+    "english": "shopping",
+    "kanjiMeanings": "Buy - い - Thing",
+    "lessonSection": "04",
+    "category": "Activities Nouns"
+  },
+  {
+    "hiragana": "クラス",
+    "kanji": "",
+    "english": "class",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Activities Nouns"
+  },
+  {
+    "hiragana": "いぬ",
+    "kanji": "犬",
+    "english": "dog",
+    "kanjiMeanings": "Dog",
+    "lessonSection": "04",
+    "category": "Nouns People_and_Things"
+  },
+  {
+    "hiragana": "ねこ",
+    "kanji": "猫",
+    "english": "cat",
+    "kanjiMeanings": "Cat",
+    "lessonSection": "04",
+    "category": "Nouns People_and_Things"
+  },
+  {
+    "hiragana": "ひと",
+    "kanji": "人",
+    "english": "person",
+    "kanjiMeanings": "Person",
+    "lessonSection": "04",
+    "category": "Nouns People_and_Things"
+  },
+  {
+    "hiragana": "こども",
+    "kanji": "子供",
+    "english": "child",
+    "kanjiMeanings": "Child - Servant",
+    "lessonSection": "04",
+    "category": "Nouns People_and_Things"
+  },
+  {
+    "hiragana": "あなた",
+    "kanji": "",
+    "english": "you",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Nouns People_and_Things"
+  },
+  {
+    "hiragana": "いす",
+    "kanji": "",
+    "english": "chair",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Nouns People_and_Things"
+  },
+  {
+    "hiragana": "つくえ",
+    "kanji": "机",
+    "english": "desk",
+    "kanjiMeanings": "Desk",
+    "lessonSection": "04",
+    "category": "Nouns People_and_Things"
+  },
+  {
+    "hiragana": "しゃしん",
+    "kanji": "写真",
+    "english": "picture; photograph",
+    "kanjiMeanings": "Copy - Reality",
+    "lessonSection": "04",
+    "category": "Nouns People_and_Things"
+  },
+  {
+    "hiragana": "はな",
+    "kanji": "花",
+    "english": "flower",
+    "kanjiMeanings": "Flower",
+    "lessonSection": "04",
+    "category": "Nouns People_and_Things"
+  },
+  {
+    "hiragana": "レポート",
+    "kanji": "",
+    "english": "(term) paper",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Nouns People_and_Things"
+  },
+  {
+    "hiragana": "ごはん",
+    "kanji": "ご飯",
+    "english": "rice; meal",
+    "kanjiMeanings": "ご - Meal",
+    "lessonSection": "04",
+    "category": "Nouns People_and_Things"
+  },
+  {
+    "hiragana": "パン",
+    "kanji": "",
+    "english": "bread",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Nouns People_and_Things"
+  },
+  {
+    "hiragana": "おてら",
+    "kanji": "お寺",
+    "english": "temple",
+    "kanjiMeanings": "お - Temple",
+    "lessonSection": "04",
+    "category": "Nouns Places"
+  },
+  {
+    "hiragana": "こうえん",
+    "kanji": "公園",
+    "english": "park",
+    "kanjiMeanings": "Public - Garden",
+    "lessonSection": "04",
+    "category": "Nouns Places"
+  },
+  {
+    "hiragana": "スーパー",
+    "kanji": "",
+    "english": "supermarket",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Nouns Places"
+  },
+  {
+    "hiragana": "バスてい",
+    "kanji": "バス停",
+    "english": "bus stop",
+    "kanjiMeanings": "バス - Halt",
+    "lessonSection": "04",
+    "category": "Nouns Places"
+  },
+  {
+    "hiragana": "びょういん",
+    "kanji": "病院",
+    "english": "hospital",
+    "kanjiMeanings": "Sick - Institution",
+    "lessonSection": "04",
+    "category": "Nouns Places"
+  },
+  {
+    "hiragana": "ホテル",
+    "kanji": "",
+    "english": "hotel",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Nouns Places"
+  },
+  {
+    "hiragana": "ほんや",
+    "kanji": "本屋",
+    "english": "bookstore",
+    "kanjiMeanings": "Book - Roof",
+    "lessonSection": "04",
+    "category": "Nouns Places"
+  },
+  {
+    "hiragana": "まち",
+    "kanji": "町",
+    "english": "town; city",
+    "kanjiMeanings": "Town",
+    "lessonSection": "04",
+    "category": "Nouns Places"
+  },
+  {
+    "hiragana": "レストラン",
+    "kanji": "",
+    "english": "restaurant",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Nouns Places"
+  },
+  {
+    "hiragana": "きのう",
+    "kanji": "昨日",
+    "english": "yesterday",
+    "kanjiMeanings": "Previous - Sun",
+    "lessonSection": "04",
+    "category": "Nouns Time"
+  },
+  {
+    "hiragana": "〜じかん",
+    "kanji": "〜時間",
+    "english": "... hours",
+    "kanjiMeanings": "〜 - Time - Interval",
+    "lessonSection": "04",
+    "category": "Nouns Time"
+  },
+  {
+    "hiragana": "いちじかん",
+    "kanji": "一時間",
+    "english": "one hour",
+    "kanjiMeanings": "One - Time - Interval",
+    "lessonSection": "04",
+    "category": "Nouns Time"
+  },
+  {
+    "hiragana": "せんしゅう",
+    "kanji": "先週",
+    "english": "last week",
+    "kanjiMeanings": "Previous - Week",
+    "lessonSection": "04",
+    "category": "Nouns Time"
+  },
+  {
+    "hiragana": "とき",
+    "kanji": "時",
+    "english": "when ...; at the time of ... (〜の)",
+    "kanjiMeanings": "Time",
+    "lessonSection": "04",
+    "category": "Nouns Time"
+  },
+  {
+    "hiragana": "げつようび",
+    "kanji": "月曜日",
+    "english": "Monday",
+    "kanjiMeanings": "Moon - Weekday - Sun",
+    "lessonSection": "04",
+    "category": "Nouns Time"
+  },
+  {
+    "hiragana": "かようび",
+    "kanji": "火曜日",
+    "english": "Tuesday",
+    "kanjiMeanings": "Fire - Weekday - Sun",
+    "lessonSection": "04",
+    "category": "Nouns Time"
+  },
+  {
+    "hiragana": "すいようび",
+    "kanji": "水曜日",
+    "english": "Wednesday",
+    "kanjiMeanings": "Water - Weekday - Sun",
+    "lessonSection": "04",
+    "category": "Nouns Time"
+  },
+  {
+    "hiragana": "もくようび",
+    "kanji": "木曜日",
+    "english": "Thursday",
+    "kanjiMeanings": "Tree - Weekday - Sun",
+    "lessonSection": "04",
+    "category": "Nouns Time"
+  },
+  {
+    "hiragana": "きんようび",
+    "kanji": "金曜日",
+    "english": "Friday",
+    "kanjiMeanings": "Gold - Weekday - Sun",
+    "lessonSection": "04",
+    "category": "Nouns Time"
+  },
+  {
+    "hiragana": "あう",
+    "kanji": "会う",
+    "english": "to meet; to see (a person) (<i>person</i>&nbsp;に)",
+    "kanjiMeanings": "Meet - う",
+    "lessonSection": "04",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "ある",
+    "kanji": "",
+    "english": "there is ... (<i>place</i>&nbsp;に <i>thing</i>&nbsp;が)",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "かう",
+    "kanji": "買う",
+    "english": "to buy (〜を)",
+    "kanjiMeanings": "Buy - う",
+    "lessonSection": "04",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "かく",
+    "kanji": "書く",
+    "english": "to write (<i>person</i>&nbsp;に <i>thing</i>&nbsp;を)",
+    "kanjiMeanings": "Write - く",
+    "lessonSection": "04",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "とる",
+    "kanji": "撮る",
+    "english": "to take (a picture) (〜を)",
+    "kanjiMeanings": "Photograph - る",
+    "lessonSection": "04",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "まつ",
+    "kanji": "待つ",
+    "english": "to wait (〜を)",
+    "kanjiMeanings": "Wait - つ",
+    "lessonSection": "04",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "わかる",
+    "kanji": "",
+    "english": "to understand (〜が)",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "いる",
+    "kanji": "",
+    "english": "(a person) is in ...; stays at ... (<i>place </i>に <i>person</i>&nbsp;が)",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "〜ぐらい",
+    "kanji": "",
+    "english": "about (approximate measurement)",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "ごめんなさい",
+    "kanji": "",
+    "english": "I'm sorry.",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "それから",
+    "kanji": "",
+    "english": "and then",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "だから",
+    "kanji": "",
+    "english": "so; therefore",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "たくさん",
+    "kanji": "",
+    "english": "many; a lot",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "〜と",
+    "kanji": "",
+    "english": "together with (a person); and",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "どうして",
+    "kanji": "",
+    "english": "why",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "ひとりで",
+    "kanji": "一人で",
+    "english": "alone",
+    "kanjiMeanings": "One - Person - で",
+    "lessonSection": "04",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "もしもし",
+    "kanji": "",
+    "english": "Hello? (used on the phone)",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "みぎ",
+    "kanji": "右",
+    "english": "right (〜の)",
+    "kanjiMeanings": "Right",
+    "lessonSection": "04",
+    "category": "Location_Words"
+  },
+  {
+    "hiragana": "ひだり",
+    "kanji": "左",
+    "english": "left (〜の)",
+    "kanjiMeanings": "Left",
+    "lessonSection": "04",
+    "category": "Location_Words"
+  },
+  {
+    "hiragana": "まえ",
+    "kanji": "前",
+    "english": "front (〜の)",
+    "kanjiMeanings": "Front",
+    "lessonSection": "04",
+    "category": "Location_Words"
+  },
+  {
+    "hiragana": "うしろ",
+    "kanji": "後ろ",
+    "english": "back (〜の)",
+    "kanjiMeanings": "Behind - ろ",
+    "lessonSection": "04",
+    "category": "Location_Words"
+  },
+  {
+    "hiragana": "なか",
+    "kanji": "中",
+    "english": "inside (〜の)",
+    "kanjiMeanings": "Middle",
+    "lessonSection": "04",
+    "category": "Location_Words"
+  },
+  {
+    "hiragana": "うえ",
+    "kanji": "上",
+    "english": "on (〜の)",
+    "kanjiMeanings": "Above",
+    "lessonSection": "04",
+    "category": "Location_Words"
+  },
+  {
+    "hiragana": "した",
+    "kanji": "下",
+    "english": "under (〜の)",
+    "kanjiMeanings": "Below",
+    "lessonSection": "04",
+    "category": "Location_Words"
+  },
+  {
+    "hiragana": "ちかく",
+    "kanji": "近く",
+    "english": "near; nearby (〜の)",
+    "kanjiMeanings": "Near - く",
+    "lessonSection": "04",
+    "category": "Location_Words"
+  },
+  {
+    "hiragana": "となり",
+    "kanji": "隣",
+    "english": "next (〜の)",
+    "kanjiMeanings": "Neighbor",
+    "lessonSection": "04",
+    "category": "Location_Words"
+  },
+  {
+    "hiragana": "あいだ",
+    "kanji": "間",
+    "english": "between (AとBの)",
+    "kanjiMeanings": "Interval",
+    "lessonSection": "04",
+    "category": "Location_Words"
+  },
+  {
+    "hiragana": "げつようび",
+    "kanji": "月曜日",
+    "english": "Monday",
+    "kanjiMeanings": "Moon - Weekday - Sun",
+    "lessonSection": "04",
+    "category": "weekdays"
+  },
+  {
+    "hiragana": "かようび",
+    "kanji": "火曜日",
+    "english": "Tuesday",
+    "kanjiMeanings": "Fire - Weekday - Sun",
+    "lessonSection": "04",
+    "category": "weekdays"
+  },
+  {
+    "hiragana": "すいようび",
+    "kanji": "水曜日",
+    "english": "Wednesday",
+    "kanjiMeanings": "Water - Weekday - Sun",
+    "lessonSection": "04",
+    "category": "weekdays"
+  },
+  {
+    "hiragana": "もくようび",
+    "kanji": "木曜日",
+    "english": "Thursday",
+    "kanjiMeanings": "Tree - Weekday - Sun",
+    "lessonSection": "04",
+    "category": "weekdays"
+  },
+  {
+    "hiragana": "きんようび",
+    "kanji": "金曜日",
+    "english": "Friday",
+    "kanjiMeanings": "Gold - Weekday - Sun",
+    "lessonSection": "04",
+    "category": "weekdays"
+  },
+  {
+    "hiragana": "どようび",
+    "kanji": "土曜日",
+    "english": "Saturday",
+    "kanjiMeanings": "Dirt - Weekday - Sun",
+    "lessonSection": "04",
+    "category": "weekdays"
+  },
+  {
+    "hiragana": "にちようび",
+    "kanji": "日曜日",
+    "english": "Sunday",
+    "kanjiMeanings": "SunWeekday - Sun",
+    "lessonSection": "04",
+    "category": "weekdays"
+  },
+  {
+    "hiragana": "ついたち*",
+    "kanji": "一日",
+    "english": "day 1",
+    "kanjiMeanings": "One - Sun",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "ふつか*",
+    "kanji": "二日",
+    "english": "day 2",
+    "kanjiMeanings": "Two - Sun",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "みっか*",
+    "kanji": "三日",
+    "english": "day 3",
+    "kanjiMeanings": "Three - Sun",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "よっか*",
+    "kanji": "四日",
+    "english": "day 4",
+    "kanjiMeanings": "Four - Sun",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "いつか*",
+    "kanji": "五日",
+    "english": "day 5",
+    "kanjiMeanings": "Five - Sun",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "むいか*",
+    "kanji": "六日",
+    "english": "day 6",
+    "kanjiMeanings": "Six - Sun",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "なのか*",
+    "kanji": "七日",
+    "english": "day 7",
+    "kanjiMeanings": "Seven - Sun",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "ようか*",
+    "kanji": "八日",
+    "english": "day 8",
+    "kanjiMeanings": "Eight - Sun",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "ここのか*",
+    "kanji": "九日",
+    "english": "day 9",
+    "kanjiMeanings": "Nine - Sun",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "とおか*",
+    "kanji": "十日",
+    "english": "day 10",
+    "kanjiMeanings": "Ten - Sun",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "じゅういちにち",
+    "kanji": "十一日",
+    "english": "day 11",
+    "kanjiMeanings": "Ten - One - Sun",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "じゅうににち",
+    "kanji": "十二日",
+    "english": "day 12",
+    "kanjiMeanings": "Ten - Two - Sun",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "じゅうさんにち",
+    "kanji": "十三日",
+    "english": "day 13",
+    "kanjiMeanings": "Ten - Three - Sun",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "じゅうよっか*",
+    "kanji": "十四日",
+    "english": "day 14",
+    "kanjiMeanings": "Ten - Four - Sun",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "じゅうごにち",
+    "kanji": "十五日",
+    "english": "day 15",
+    "kanjiMeanings": "Ten - Five - Sun",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "〜にち",
+    "kanji": "〜日",
+    "english": "day ...",
+    "kanjiMeanings": "〜 - Sun",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "はつか*",
+    "kanji": "二十日・廿日",
+    "english": "day 20",
+    "kanjiMeanings": "Two - Ten - Sun・廿 - Sun",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "にじゅうよっか*",
+    "kanji": "二十四日",
+    "english": "day 24",
+    "kanjiMeanings": "Two - Ten - Four - Sun",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "いちがつ",
+    "kanji": "一月",
+    "english": "January",
+    "kanjiMeanings": "One - Moon",
+    "lessonSection": "04",
+    "category": "Months"
+  },
+  {
+    "hiragana": "にがつ",
+    "kanji": "二月",
+    "english": "February",
+    "kanjiMeanings": "Two - Moon",
+    "lessonSection": "04",
+    "category": "Months"
+  },
+  {
+    "hiragana": "さんがつ",
+    "kanji": "三月",
+    "english": "March",
+    "kanjiMeanings": "Three - Moon",
+    "lessonSection": "04",
+    "category": "Months"
+  },
+  {
+    "hiragana": "しがつ*",
+    "kanji": "四月",
+    "english": "April",
+    "kanjiMeanings": "Four - Moon",
+    "lessonSection": "04",
+    "category": "Months"
+  },
+  {
+    "hiragana": "ごがつ",
+    "kanji": "五月",
+    "english": "May",
+    "kanjiMeanings": "Five - Moon",
+    "lessonSection": "04",
+    "category": "Months"
+  },
+  {
+    "hiragana": "ろくがつ",
+    "kanji": "六月",
+    "english": "June",
+    "kanjiMeanings": "Six - Moon",
+    "lessonSection": "04",
+    "category": "Months"
+  },
+  {
+    "hiragana": "しちがつ*",
+    "kanji": "七月",
+    "english": "July",
+    "kanjiMeanings": "Seven - Moon",
+    "lessonSection": "04",
+    "category": "Months"
+  },
+  {
+    "hiragana": "はちがつ",
+    "kanji": "八月",
+    "english": "August",
+    "kanjiMeanings": "Eight - Moon",
+    "lessonSection": "04",
+    "category": "Months"
+  },
+  {
+    "hiragana": "くがつ*",
+    "kanji": "九月",
+    "english": "September",
+    "kanjiMeanings": "Nine - Moon",
+    "lessonSection": "04",
+    "category": "Months"
+  },
+  {
+    "hiragana": "じゅうがつ",
+    "kanji": "十月",
+    "english": "October",
+    "kanjiMeanings": "Ten - Moon",
+    "lessonSection": "04",
+    "category": "Months"
+  },
+  {
+    "hiragana": "じゅういちがつ",
+    "kanji": "十一月",
+    "english": "November",
+    "kanjiMeanings": "Ten - One - Moon",
+    "lessonSection": "04",
+    "category": "Months"
+  },
+  {
+    "hiragana": "じゅうにがつ",
+    "kanji": "十二月",
+    "english": "December",
+    "kanjiMeanings": "Ten - Two - Moon",
+    "lessonSection": "04",
+    "category": "Months"
+  },
+  {
+    "hiragana": "おととい",
+    "kanji": "",
+    "english": "the day before yesterday",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "きのう",
+    "kanji": "",
+    "english": "yesterday",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "せんしゅう",
+    "kanji": "",
+    "english": "last week",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "きょう",
+    "kanji": "今日",
+    "english": "today",
+    "kanjiMeanings": "Now - Sun",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "あした",
+    "kanji": "明日",
+    "english": "tomorrow",
+    "kanjiMeanings": "Bright - Sun",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "あさって",
+    "kanji": "",
+    "english": "the day after tomorrow",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "にしゅうかんまえ",
+    "kanji": "",
+    "english": "two weeks ago",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "せんしゅう",
+    "kanji": "先週",
+    "english": "last week",
+    "kanjiMeanings": "Previous - Week",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "こんしゅう",
+    "kanji": "",
+    "english": "this week",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "らいしゅう",
+    "kanji": "",
+    "english": "next week",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "さらいしゅう",
+    "kanji": "",
+    "english": "the week after next",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "にかげつまえ",
+    "kanji": "",
+    "english": "two months ago",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "せんげつ",
+    "kanji": "",
+    "english": "last month",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "こんげつ",
+    "kanji": "",
+    "english": "this month",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "らいげつ",
+    "kanji": "",
+    "english": "next month",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "さらいげつ",
+    "kanji": "",
+    "english": "the month after next",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "おととし",
+    "kanji": "",
+    "english": "the year before last",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "きょねん",
+    "kanji": "",
+    "english": "last year",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "ことし",
+    "kanji": "",
+    "english": "this year",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "らいねん",
+    "kanji": "",
+    "english": "next year",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "さらいねん",
+    "kanji": "",
+    "english": "the year after next",
+    "kanjiMeanings": "",
+    "lessonSection": "04",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "たべもの",
+    "kanji": "食べ物",
+    "english": "food",
+    "kanjiMeanings": "Eat - べ - Thing",
+    "lessonSection": "05",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "のみもの",
+    "kanji": "飲み物",
+    "english": "drink",
+    "kanjiMeanings": "Drink - み - Thing",
+    "lessonSection": "05",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "くだもの",
+    "kanji": "果物",
+    "english": "fruit",
+    "kanjiMeanings": "Fruit - Thing",
+    "lessonSection": "05",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "やすみ",
+    "kanji": "休み",
+    "english": "holiday; day off; absence",
+    "kanjiMeanings": "Rest - み",
+    "lessonSection": "05",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "りょこう",
+    "kanji": "旅行",
+    "english": "travel",
+    "kanjiMeanings": "Trip - Go",
+    "lessonSection": "05",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "うみ",
+    "kanji": "海",
+    "english": "sea",
+    "kanjiMeanings": "Sea",
+    "lessonSection": "05",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "サーフィン",
+    "kanji": "",
+    "english": "surfing",
+    "kanjiMeanings": "",
+    "lessonSection": "05",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "おみやげ",
+    "kanji": "お土産",
+    "english": "souvenir",
+    "kanjiMeanings": "お - Dirt - Give Birth",
+    "lessonSection": "05",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "バス",
+    "kanji": "",
+    "english": "bus",
+    "kanjiMeanings": "",
+    "lessonSection": "05",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "てんき",
+    "kanji": "天気",
+    "english": "weather",
+    "kanjiMeanings": "Heaven - Energy",
+    "lessonSection": "05",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "しゅくだい",
+    "kanji": "宿題",
+    "english": "homework",
+    "kanjiMeanings": "Lodge - Topic",
+    "lessonSection": "05",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "テスト",
+    "kanji": "",
+    "english": "test",
+    "kanjiMeanings": "",
+    "lessonSection": "05",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "たんじょうび",
+    "kanji": "誕生日",
+    "english": "birthday",
+    "kanjiMeanings": "Birth - Life - Sun",
+    "lessonSection": "05",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "へや",
+    "kanji": "部屋",
+    "english": "room",
+    "kanjiMeanings": "Part - Roof",
+    "lessonSection": "05",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "ぼく",
+    "kanji": "僕",
+    "english": "I (used by men)",
+    "kanjiMeanings": "I",
+    "lessonSection": "05",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "Lサイズ（エルサイズ）",
+    "kanji": "",
+    "english": "size L",
+    "kanjiMeanings": "",
+    "lessonSection": "05",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "あたらしい",
+    "kanji": "新しい",
+    "english": "new",
+    "kanjiMeanings": "New - しい",
+    "lessonSection": "05",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "ふるい",
+    "kanji": "古い",
+    "english": "old (thing - not used for people)",
+    "kanjiMeanings": "Old - い",
+    "lessonSection": "05",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "あつい",
+    "kanji": "暑い (weather) 熱い (thing)",
+    "english": "hot",
+    "kanjiMeanings": "Hot - い (weather)  - Heat - い (thing)",
+    "lessonSection": "05",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "さむい",
+    "kanji": "寒い",
+    "english": "cold (weather - not used for things)",
+    "kanjiMeanings": "Cold - い",
+    "lessonSection": "05",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "いそがしい",
+    "kanji": "忙しい",
+    "english": "busy (people/days)",
+    "kanjiMeanings": "Busy - しい",
+    "lessonSection": "05",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "おおきい",
+    "kanji": "大きい",
+    "english": "large",
+    "kanjiMeanings": "Big - きい",
+    "lessonSection": "05",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "ちいさい",
+    "kanji": "小さい",
+    "english": "small",
+    "kanjiMeanings": "Small - さい",
+    "lessonSection": "05",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "おもしろい",
+    "kanji": "面白い",
+    "english": "interesting; funny",
+    "kanjiMeanings": "Face - White - い",
+    "lessonSection": "05",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "つまらない",
+    "kanji": "",
+    "english": "boring",
+    "kanjiMeanings": "",
+    "lessonSection": "05",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "やさしい",
+    "kanji": "",
+    "english": "easy (problem); kind (person)",
+    "kanjiMeanings": "",
+    "lessonSection": "05",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "むずかしい",
+    "kanji": "難しい",
+    "english": "difficult",
+    "kanjiMeanings": "Difficult - しい",
+    "lessonSection": "05",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "かっこいい",
+    "kanji": "",
+    "english": "good-looking (conjugates like いい)",
+    "kanjiMeanings": "",
+    "lessonSection": "05",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "こわい",
+    "kanji": "怖い",
+    "english": "frightening",
+    "kanjiMeanings": "Scary - い",
+    "lessonSection": "05",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "たのしい",
+    "kanji": "楽しい",
+    "english": "fun",
+    "kanjiMeanings": "Comfort - しい",
+    "lessonSection": "05",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "やすい",
+    "kanji": "安い",
+    "english": "inexpensive; cheap (thing)",
+    "kanjiMeanings": "Relax - い",
+    "lessonSection": "05",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "すき（な）",
+    "kanji": "好き",
+    "english": "fond of; to like (〜が)",
+    "kanjiMeanings": "Like - き",
+    "lessonSection": "05",
+    "category": "な-adjectives"
+  },
+  {
+    "hiragana": "きらい（な）",
+    "kanji": "嫌い",
+    "english": "disgusted with; to dislike (〜が)",
+    "kanjiMeanings": "Dislike - い",
+    "lessonSection": "05",
+    "category": "な-adjectives"
+  },
+  {
+    "hiragana": "だいすき（な）",
+    "kanji": "大好き",
+    "english": "very fond of; to love (〜が)",
+    "kanjiMeanings": "Big - Like - き",
+    "lessonSection": "05",
+    "category": "な-adjectives"
+  },
+  {
+    "hiragana": "だいきらい（な）",
+    "kanji": "大嫌い",
+    "english": "to hate (〜が)",
+    "kanjiMeanings": "Big - Dislike - い",
+    "lessonSection": "05",
+    "category": "な-adjectives"
+  },
+  {
+    "hiragana": "きれい（な）",
+    "kanji": "",
+    "english": "beautiful; clean",
+    "kanjiMeanings": "",
+    "lessonSection": "05",
+    "category": "な-adjectives"
+  },
+  {
+    "hiragana": "げんき（な）",
+    "kanji": "元気",
+    "english": "healthy; energetic",
+    "kanjiMeanings": "Origin - Energy",
+    "lessonSection": "05",
+    "category": "な-adjectives"
+  },
+  {
+    "hiragana": "しずか（な）",
+    "kanji": "静か",
+    "english": "quiet",
+    "kanjiMeanings": "Quiet - か",
+    "lessonSection": "05",
+    "category": "な-adjectives"
+  },
+  {
+    "hiragana": "にぎやか（な）",
+    "kanji": "",
+    "english": "lively",
+    "kanjiMeanings": "",
+    "lessonSection": "05",
+    "category": "な-adjectives"
+  },
+  {
+    "hiragana": "ひま（な）",
+    "kanji": "暇",
+    "english": "not busy; free (time)",
+    "kanjiMeanings": "Spare Time",
+    "lessonSection": "05",
+    "category": "な-adjectives"
+  },
+  {
+    "hiragana": "およぐ",
+    "kanji": "泳ぐ",
+    "english": "to swim",
+    "kanjiMeanings": "Swim - ぐ",
+    "lessonSection": "05",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "きく",
+    "kanji": "聞く",
+    "english": "to listen; to hear (〜を); to ask (<i>person</i>&nbsp;に)",
+    "kanjiMeanings": "Hear - く",
+    "lessonSection": "05",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "のる",
+    "kanji": "乗る",
+    "english": "to ride; to board (〜に)",
+    "kanjiMeanings": "Ride - る",
+    "lessonSection": "05",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "やる",
+    "kanji": "",
+    "english": "to do; to perform (〜を)",
+    "kanjiMeanings": "",
+    "lessonSection": "05",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "でかける",
+    "kanji": "出かける",
+    "english": "to go out",
+    "kanjiMeanings": "Exit - かける",
+    "lessonSection": "05",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "いっしょに",
+    "kanji": "一緒に",
+    "english": "together",
+    "kanjiMeanings": "One - Together - に",
+    "lessonSection": "05",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "すごく",
+    "kanji": "",
+    "english": "extremely",
+    "kanjiMeanings": "",
+    "lessonSection": "05",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "だいじょうぶ",
+    "kanji": "大丈夫",
+    "english": "It's okay; Not to worry; Everything is under control.",
+    "kanjiMeanings": "Big - Height - Husband",
+    "lessonSection": "05",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "とても",
+    "kanji": "",
+    "english": "very",
+    "kanjiMeanings": "",
+    "lessonSection": "05",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "どんな",
+    "kanji": "",
+    "english": "what kind of ...",
+    "kanjiMeanings": "",
+    "lessonSection": "05",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "〜まい",
+    "kanji": "〜枚",
+    "english": "[counter for flat objects]",
+    "kanjiMeanings": "〜 - Flat Objects Counter",
+    "lessonSection": "05",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "かんじ",
+    "kanji": "漢字",
+    "english": "kanji; Chinese character",
+    "kanjiMeanings": "Chinese - Letter",
+    "lessonSection": "06",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "きょうかしょ",
+    "kanji": "教科書",
+    "english": "textbook",
+    "kanjiMeanings": "Teach - Course - Write",
+    "lessonSection": "06",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "ページ",
+    "kanji": "",
+    "english": "page",
+    "kanjiMeanings": "",
+    "lessonSection": "06",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "つぎ",
+    "kanji": "次",
+    "english": "next",
+    "kanjiMeanings": "Next",
+    "lessonSection": "06",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "おかね",
+    "kanji": "お金",
+    "english": "money",
+    "kanjiMeanings": "お - Gold",
+    "lessonSection": "06",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "にもつ",
+    "kanji": "荷物",
+    "english": "baggage",
+    "kanjiMeanings": "Luggage - Thing",
+    "lessonSection": "06",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "パソコン",
+    "kanji": "",
+    "english": "personal computer",
+    "kanjiMeanings": "",
+    "lessonSection": "06",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "シャワー",
+    "kanji": "",
+    "english": "shower",
+    "kanjiMeanings": "",
+    "lessonSection": "06",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "エアコン",
+    "kanji": "",
+    "english": "air conditioner",
+    "kanjiMeanings": "",
+    "lessonSection": "06",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "でんき",
+    "kanji": "電気",
+    "english": "electricity; light",
+    "kanjiMeanings": "Electricity - Energy",
+    "lessonSection": "06",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "まど",
+    "kanji": "窓",
+    "english": "window",
+    "kanjiMeanings": "Window",
+    "lessonSection": "06",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "でんしゃ",
+    "kanji": "電車",
+    "english": "train",
+    "kanjiMeanings": "Electricity - Car",
+    "lessonSection": "06",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "くに",
+    "kanji": "国",
+    "english": "country; place of origin",
+    "kanjiMeanings": "Country",
+    "lessonSection": "06",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "こんしゅう",
+    "kanji": "今週",
+    "english": "this week",
+    "kanjiMeanings": "Now - Week",
+    "lessonSection": "06",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "らいしゅう",
+    "kanji": "来週",
+    "english": "next week",
+    "kanjiMeanings": "Come - Week",
+    "lessonSection": "06",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "らいねん",
+    "kanji": "来年",
+    "english": "next year",
+    "kanjiMeanings": "Come - Year",
+    "lessonSection": "06",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "よる",
+    "kanji": "夜",
+    "english": "night",
+    "kanjiMeanings": "Night",
+    "lessonSection": "06",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "たいへん（な）",
+    "kanji": "大変",
+    "english": "tough (situation)",
+    "kanjiMeanings": "Big - Change",
+    "lessonSection": "06",
+    "category": "な-adjectives"
+  },
+  {
+    "hiragana": "あそぶ",
+    "kanji": "遊ぶ",
+    "english": "to play; to spend time pleasantly",
+    "kanjiMeanings": "Play - ぶ",
+    "lessonSection": "06",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "いそぐ",
+    "kanji": "急ぐ",
+    "english": "to hurry",
+    "kanjiMeanings": "Hurry - ぐ",
+    "lessonSection": "06",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "かえす",
+    "kanji": "返す",
+    "english": "to return (a thing) (<i>person</i>&nbsp;に <i>thing</i>&nbsp;を)",
+    "kanjiMeanings": "Return - す",
+    "lessonSection": "06",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "けす",
+    "kanji": "消す",
+    "english": "to turn off; to erase (〜を)",
+    "kanjiMeanings": "Extinguish - す",
+    "lessonSection": "06",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "しぬ",
+    "kanji": "死ぬ",
+    "english": "to die",
+    "kanjiMeanings": "Death - ぬ",
+    "lessonSection": "06",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "すわる",
+    "kanji": "座る",
+    "english": "to sit down (<i>seat</i>&nbsp;に)",
+    "kanjiMeanings": "Sit - る",
+    "lessonSection": "06",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "たつ",
+    "kanji": "立つ",
+    "english": "to stand up",
+    "kanjiMeanings": "Stand - つ",
+    "lessonSection": "06",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "たばこをすう",
+    "kanji": "たばこを吸う",
+    "english": "to smoke",
+    "kanjiMeanings": "たばこを - Suck - う",
+    "lessonSection": "06",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "つかう",
+    "kanji": "使う",
+    "english": "to use (〜を)",
+    "kanjiMeanings": "Use - う",
+    "lessonSection": "06",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "てつだう",
+    "kanji": "手伝う",
+    "english": "to help (<i>person</i>/<i>task</i>&nbsp;を)",
+    "kanjiMeanings": "Hand - Transmit - う",
+    "lessonSection": "06",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "はいる",
+    "kanji": "入る",
+    "english": "to enter (〜に)",
+    "kanjiMeanings": "Enter - る",
+    "lessonSection": "06",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "もつ",
+    "kanji": "持つ",
+    "english": "to carry; to hold (〜を)",
+    "kanjiMeanings": "Hold - つ",
+    "lessonSection": "06",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "やすむ",
+    "kanji": "休む",
+    "english": "(1) to be absent (from ...) (〜を)<div>(2) to rest</div>",
+    "kanjiMeanings": "Rest - む",
+    "lessonSection": "06",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "あける",
+    "kanji": "開ける",
+    "english": "to open (something) (〜を)",
+    "kanjiMeanings": "Open - ける",
+    "lessonSection": "06",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "しめる",
+    "kanji": "閉める",
+    "english": "to close (something) (〜を)",
+    "kanjiMeanings": "Closed - める",
+    "lessonSection": "06",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "おしえる",
+    "kanji": "教える",
+    "english": "to teach; to instruct (person に thing を)",
+    "kanjiMeanings": "Teach - える",
+    "lessonSection": "06",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "わすれる",
+    "kanji": "忘れる",
+    "english": "to forget; to leave behind (〜を)",
+    "kanjiMeanings": "Forget - れる",
+    "lessonSection": "06",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "おりる",
+    "kanji": "降りる",
+    "english": "to get off (〜を)",
+    "kanjiMeanings": "Descend - りる",
+    "lessonSection": "06",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "かりる",
+    "kanji": "借りる",
+    "english": "to borrow (person に thing を)",
+    "kanjiMeanings": "Borrow - りる",
+    "lessonSection": "06",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "シャワーをあびる",
+    "kanji": "シャワーを浴びる",
+    "english": "to take a shower",
+    "kanjiMeanings": "シャワーを - Bathe - びる",
+    "lessonSection": "06",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "つける",
+    "kanji": "",
+    "english": "to turn on (〜を)",
+    "kanjiMeanings": "",
+    "lessonSection": "06",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "でんわする",
+    "kanji": "電話する",
+    "english": "to call (〜に)",
+    "kanjiMeanings": "Electricity - Talk - する",
+    "lessonSection": "06",
+    "category": "Irregular_Verbs"
+  },
+  {
+    "hiragana": "つれてくる",
+    "kanji": "連れてくる",
+    "english": "to bring (a person) (〜を)",
+    "kanjiMeanings": "Take Along - れてくる",
+    "lessonSection": "06",
+    "category": "Irregular_Verbs"
+  },
+  {
+    "hiragana": "もってくる",
+    "kanji": "持ってくる",
+    "english": "to bring (a thing) (〜を)",
+    "kanjiMeanings": "Hold - ってくる",
+    "lessonSection": "06",
+    "category": "Irregular_Verbs"
+  },
+  {
+    "hiragana": "あとで",
+    "kanji": "後で",
+    "english": "later on",
+    "kanjiMeanings": "Behind - で",
+    "lessonSection": "06",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "すぐ",
+    "kanji": "",
+    "english": "right away",
+    "kanjiMeanings": "",
+    "lessonSection": "06",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "ゆっくり",
+    "kanji": "",
+    "english": "slowly; leisurely; unhurriedly",
+    "kanjiMeanings": "",
+    "lessonSection": "06",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "けっこうです",
+    "kanji": "結構です",
+    "english": "That would be fine.; That wouldn't be necessary.",
+    "kanjiMeanings": "Bind - Set Up - です",
+    "lessonSection": "06",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "ほんとうですか",
+    "kanji": "本当ですか",
+    "english": "Really?",
+    "kanjiMeanings": "Book - Correct - ですか",
+    "lessonSection": "06",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "ひだりにまがる",
+    "kanji": "",
+    "english": "turn left",
+    "kanjiMeanings": "",
+    "lessonSection": "06",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "みぎにまがる",
+    "kanji": "",
+    "english": "turn right",
+    "kanjiMeanings": "",
+    "lessonSection": "06",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "まっすぐいく",
+    "kanji": "",
+    "english": "go straight",
+    "kanjiMeanings": "",
+    "lessonSection": "06",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "みちをわたる",
+    "kanji": "",
+    "english": "cross the street",
+    "kanjiMeanings": "",
+    "lessonSection": "06",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "ふたつめのかどをひだりにまがる",
+    "kanji": "",
+    "english": "turn left at the second corner",
+    "kanjiMeanings": "",
+    "lessonSection": "06",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "ひとつめのしんごうをみぎにまがる",
+    "kanji": "",
+    "english": "turn right at the first traffic light",
+    "kanjiMeanings": "",
+    "lessonSection": "06",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "みちのひだりがわ",
+    "kanji": "",
+    "english": "left side of the street",
+    "kanjiMeanings": "",
+    "lessonSection": "06",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "みちのみぎがわ",
+    "kanji": "",
+    "english": "right side of the street",
+    "kanjiMeanings": "",
+    "lessonSection": "06",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "きた",
+    "kanji": "",
+    "english": "north",
+    "kanjiMeanings": "",
+    "lessonSection": "06",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "にし",
+    "kanji": "",
+    "english": "west",
+    "kanjiMeanings": "",
+    "lessonSection": "06",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "ひがし",
+    "kanji": "",
+    "english": "east",
+    "kanjiMeanings": "",
+    "lessonSection": "06",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "みなみ",
+    "kanji": "",
+    "english": "south",
+    "kanjiMeanings": "",
+    "lessonSection": "06",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "かぞく",
+    "kanji": "家族",
+    "english": "family",
+    "kanjiMeanings": "House - Tribe",
+    "lessonSection": "07",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "おじいさん",
+    "kanji": "",
+    "english": "grandfather; old man",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "おばあさん",
+    "kanji": "",
+    "english": "grandmother; old woman",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "おにいさん",
+    "kanji": "お兄さん",
+    "english": "older brother",
+    "kanjiMeanings": "お - Older Brother - さん",
+    "lessonSection": "07",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "おねえさん",
+    "kanji": "お姉さん",
+    "english": "older sister",
+    "kanjiMeanings": "お - Older Sister - さん",
+    "lessonSection": "07",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "ちち",
+    "kanji": "父",
+    "english": "(my) father",
+    "kanjiMeanings": "Father",
+    "lessonSection": "07",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "はは",
+    "kanji": "母",
+    "english": "(my) mother",
+    "kanjiMeanings": "Mother",
+    "lessonSection": "07",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "あに",
+    "kanji": "兄",
+    "english": "(my) older brother",
+    "kanjiMeanings": "Older Brother",
+    "lessonSection": "07",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "あね",
+    "kanji": "姉",
+    "english": "(my) older sister",
+    "kanjiMeanings": "Older Sister",
+    "lessonSection": "07",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "いもうと",
+    "kanji": "妹",
+    "english": "younger sister",
+    "kanjiMeanings": "Younger Sister",
+    "lessonSection": "07",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "おとうと",
+    "kanji": "弟",
+    "english": "younger brother",
+    "kanjiMeanings": "Younger Brother",
+    "lessonSection": "07",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "きょうだい",
+    "kanji": "兄弟",
+    "english": "brothers and sisters",
+    "kanjiMeanings": "Older Brother - Younger Brother",
+    "lessonSection": "07",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "おとこのひと",
+    "kanji": "男の人",
+    "english": "man",
+    "kanjiMeanings": "Man - の - Person",
+    "lessonSection": "07",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "おんなのひと",
+    "kanji": "女の人",
+    "english": "woman",
+    "kanjiMeanings": "Woman - の - Person",
+    "lessonSection": "07",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "かいしゃ",
+    "kanji": "会社",
+    "english": "company",
+    "kanjiMeanings": "Meet - Company",
+    "lessonSection": "07",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "しょくどう",
+    "kanji": "食堂",
+    "english": "cafeteria; dining commons",
+    "kanjiMeanings": "Eat - Hall",
+    "lessonSection": "07",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "デパート",
+    "kanji": "",
+    "english": "department store",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "かみ",
+    "kanji": "髪",
+    "english": "hair",
+    "kanjiMeanings": "Hair",
+    "lessonSection": "07",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "くち",
+    "kanji": "口",
+    "english": "mouth",
+    "kanjiMeanings": "Mouth",
+    "lessonSection": "07",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "め",
+    "kanji": "目",
+    "english": "eye",
+    "kanjiMeanings": "Eye",
+    "lessonSection": "07",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "めがね",
+    "kanji": "眼鏡",
+    "english": "glasses",
+    "kanjiMeanings": "Eyeball - Mirror",
+    "lessonSection": "07",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "うた",
+    "kanji": "歌",
+    "english": "song",
+    "kanjiMeanings": "Song",
+    "lessonSection": "07",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "サークル",
+    "kanji": "",
+    "english": "club activity",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "くるま",
+    "kanji": "車",
+    "english": "car",
+    "kanjiMeanings": "Car",
+    "lessonSection": "07",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "ながい",
+    "kanji": "長い",
+    "english": "long",
+    "kanjiMeanings": "Long - い",
+    "lessonSection": "07",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "みじかい",
+    "kanji": "短い",
+    "english": "short (length)",
+    "kanjiMeanings": "Short - い",
+    "lessonSection": "07",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "はやい",
+    "kanji": "速い",
+    "english": "fast",
+    "kanjiMeanings": "Fast - い",
+    "lessonSection": "07",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "せがたかい",
+    "kanji": "背が高い",
+    "english": "tall (stature)",
+    "kanjiMeanings": "Back - が - Tall - い",
+    "lessonSection": "07",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "せがひくい",
+    "kanji": "背が低い",
+    "english": "short (stature)",
+    "kanjiMeanings": "Back - が - Low - い",
+    "lessonSection": "07",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "あたまがいい",
+    "kanji": "頭がいい",
+    "english": "bright; smart; clever (conjugates like いい)",
+    "kanjiMeanings": "Head - がいい",
+    "lessonSection": "07",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "かわいい",
+    "kanji": "",
+    "english": "cute",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "しんせつ（な）",
+    "kanji": "親切",
+    "english": "kind",
+    "kanjiMeanings": "Parent - Cut",
+    "lessonSection": "07",
+    "category": "な-adjectives"
+  },
+  {
+    "hiragana": "べんり（な）",
+    "kanji": "便利",
+    "english": "convenient",
+    "kanjiMeanings": "Convenience - Profit",
+    "lessonSection": "07",
+    "category": "な-adjectives"
+  },
+  {
+    "hiragana": "うたう",
+    "kanji": "歌う",
+    "english": "to sing (〜を)",
+    "kanjiMeanings": "Song - う",
+    "lessonSection": "07",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "かぶる",
+    "kanji": "",
+    "english": "to put on (a hat) (〜を)",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "はく",
+    "kanji": "",
+    "english": "to put on (items below your waist) (〜を)",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "しる",
+    "kanji": "知る",
+    "english": "to get to know (〜を)",
+    "kanjiMeanings": "Know - る",
+    "lessonSection": "07",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "しっています",
+    "kanji": "知っています",
+    "english": "I know",
+    "kanjiMeanings": "Know - っています",
+    "lessonSection": "07",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "しりません",
+    "kanji": "知りません",
+    "english": "I do not know",
+    "kanjiMeanings": "Know - りません",
+    "lessonSection": "07",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "すむ",
+    "kanji": "住む",
+    "english": "to live (〜にすんでいます)",
+    "kanjiMeanings": "Dwelling - む",
+    "lessonSection": "07",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "はたらく",
+    "kanji": "働く",
+    "english": "to work",
+    "kanjiMeanings": "Work - く",
+    "lessonSection": "07",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "ふとる",
+    "kanji": "太る",
+    "english": "to gain weight",
+    "kanjiMeanings": "Fat - る",
+    "lessonSection": "07",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "ふとっています",
+    "kanji": "太っています",
+    "english": "to be on the heavy side; overweight",
+    "kanjiMeanings": "Fat - っています",
+    "lessonSection": "07",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "（めがねを）かける",
+    "kanji": "",
+    "english": "to put on (glasses)",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "きる",
+    "kanji": "着る",
+    "english": "to put on (clothes above your waist) (〜を)",
+    "kanjiMeanings": "Wear - る",
+    "lessonSection": "07",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "やせる",
+    "kanji": "",
+    "english": "to lose weight",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "やせています",
+    "kanji": "",
+    "english": "to be thin",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "けっこんする",
+    "kanji": "結婚する",
+    "english": "to get married (〜と)",
+    "kanjiMeanings": "Bind - Marriage - する",
+    "lessonSection": "07",
+    "category": "Irregular_Verbs"
+  },
+  {
+    "hiragana": "〜が",
+    "kanji": "",
+    "english": "..., but",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "なにも + negative",
+    "kanji": "何も",
+    "english": "not ... anything",
+    "kanjiMeanings": "What - も",
+    "lessonSection": "07",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "〜にん",
+    "kanji": "〜人",
+    "english": "[counter for people]",
+    "kanjiMeanings": "〜 - Person",
+    "lessonSection": "07",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "ひとり",
+    "kanji": "一人",
+    "english": "one person",
+    "kanjiMeanings": "One - Person",
+    "lessonSection": "07",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "ふたり",
+    "kanji": "二人",
+    "english": "two people",
+    "kanjiMeanings": "Two - Person",
+    "lessonSection": "07",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "べつに + negative",
+    "kanji": "別に",
+    "english": "nothing in particular",
+    "kanjiMeanings": "Separate - に",
+    "lessonSection": "07",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "もちろん",
+    "kanji": "",
+    "english": "of course",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "よかったら",
+    "kanji": "",
+    "english": "if you like",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "ひとり*",
+    "kanji": "一人",
+    "english": "1 Person/alone",
+    "kanjiMeanings": "One - Person",
+    "lessonSection": "07",
+    "category": "counting_people"
+  },
+  {
+    "hiragana": "ふたり*",
+    "kanji": "二人",
+    "english": "2 Persons/couple",
+    "kanjiMeanings": "Two - Person",
+    "lessonSection": "07",
+    "category": "counting_people"
+  },
+  {
+    "hiragana": "さんにん",
+    "kanji": "三人",
+    "english": "3 Persons",
+    "kanjiMeanings": "Three - Person",
+    "lessonSection": "07",
+    "category": "counting_people"
+  },
+  {
+    "hiragana": "よにん*",
+    "kanji": "四人",
+    "english": "4 Persons",
+    "kanjiMeanings": "Four - Person",
+    "lessonSection": "07",
+    "category": "counting_people"
+  },
+  {
+    "hiragana": "ごにん",
+    "kanji": "五人",
+    "english": "5 Persons",
+    "kanjiMeanings": "Five - Person",
+    "lessonSection": "07",
+    "category": "counting_people"
+  },
+  {
+    "hiragana": "ろくにん",
+    "kanji": "六人",
+    "english": "6 Persons",
+    "kanjiMeanings": "Six - Person",
+    "lessonSection": "07",
+    "category": "counting_people"
+  },
+  {
+    "hiragana": "しちにん*・ななにん",
+    "kanji": "七人",
+    "english": "7 Persons",
+    "kanjiMeanings": "Seven - Person",
+    "lessonSection": "07",
+    "category": "counting_people"
+  },
+  {
+    "hiragana": "はちにん",
+    "kanji": "八人",
+    "english": "8 Persons",
+    "kanjiMeanings": "Eight - Person",
+    "lessonSection": "07",
+    "category": "counting_people"
+  },
+  {
+    "hiragana": "きゅうにん",
+    "kanji": "九人",
+    "english": "9 Persons",
+    "kanjiMeanings": "Nine - Person",
+    "lessonSection": "07",
+    "category": "counting_people"
+  },
+  {
+    "hiragana": "じゅうにん",
+    "kanji": "十人",
+    "english": "10 Persons",
+    "kanjiMeanings": "Ten - Person",
+    "lessonSection": "07",
+    "category": "counting_people"
+  },
+  {
+    "hiragana": "かみ",
+    "kanji": "",
+    "english": "hair",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "くち",
+    "kanji": "",
+    "english": "mouth",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "め",
+    "kanji": "",
+    "english": "eye",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "はな",
+    "kanji": "",
+    "english": "nose",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "ゆび",
+    "kanji": "",
+    "english": "finger",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "は",
+    "kanji": "",
+    "english": "tooth",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "まゆげ",
+    "kanji": "",
+    "english": "eyebrows",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "みみ",
+    "kanji": "",
+    "english": "ear",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "て",
+    "kanji": "",
+    "english": "hand",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "くび",
+    "kanji": "",
+    "english": "neck",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "あたま",
+    "kanji": "",
+    "english": "head",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "せなか",
+    "kanji": "",
+    "english": "back",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "おしり",
+    "kanji": "",
+    "english": "buttocks",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "かお",
+    "kanji": "",
+    "english": "face",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "かた",
+    "kanji": "",
+    "english": "shoulder",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "むね",
+    "kanji": "",
+    "english": "breast",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "おなか",
+    "kanji": "",
+    "english": "stomach",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "あし",
+    "kanji": "",
+    "english": "leg; foot",
+    "kanjiMeanings": "",
+    "lessonSection": "07",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "はれ",
+    "kanji": "晴れ",
+    "english": "sunny weather",
+    "kanjiMeanings": "Clear Up - れ",
+    "lessonSection": "08",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "あめ",
+    "kanji": "雨",
+    "english": "rain",
+    "kanjiMeanings": "Rain",
+    "lessonSection": "08",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "くもり",
+    "kanji": "曇り",
+    "english": "cloudy weather",
+    "kanjiMeanings": "Cloudy - り",
+    "lessonSection": "08",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "ゆき",
+    "kanji": "雪",
+    "english": "snow",
+    "kanjiMeanings": "Snow",
+    "lessonSection": "08",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "てんきよほう",
+    "kanji": "天気予報",
+    "english": "weather forecast",
+    "kanjiMeanings": "Heaven - Energy - Beforehand - News",
+    "lessonSection": "08",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "きおん",
+    "kanji": "気温",
+    "english": "temperature (weather - not used for things)",
+    "kanjiMeanings": "Energy - Warm",
+    "lessonSection": "08",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "なつ",
+    "kanji": "夏",
+    "english": "summer",
+    "kanjiMeanings": "Summer",
+    "lessonSection": "08",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "ふゆ",
+    "kanji": "冬",
+    "english": "winter",
+    "kanjiMeanings": "Winter",
+    "lessonSection": "08",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "けさ",
+    "kanji": "今朝",
+    "english": "this morning",
+    "kanjiMeanings": "Now - Morning",
+    "lessonSection": "08",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "あさって",
+    "kanji": "",
+    "english": "the day after tomorrow",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "まいしゅう",
+    "kanji": "毎週",
+    "english": "every week",
+    "kanjiMeanings": "Every - Week",
+    "lessonSection": "08",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "こんげつ",
+    "kanji": "今月",
+    "english": "this month",
+    "kanjiMeanings": "Now - Moon",
+    "lessonSection": "08",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "らいげつ",
+    "kanji": "来月",
+    "english": "next month",
+    "kanjiMeanings": "Come - Moon",
+    "lessonSection": "08",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "かいしゃいん",
+    "kanji": "会社員",
+    "english": "office worker",
+    "kanjiMeanings": "Meet - Company - Member",
+    "lessonSection": "08",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "しごと",
+    "kanji": "仕事",
+    "english": "job; work; occupation",
+    "kanjiMeanings": "Doing - Action",
+    "lessonSection": "08",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "カメラ",
+    "kanji": "",
+    "english": "camera",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "カラオケ",
+    "kanji": "",
+    "english": "karaoke",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "ところ",
+    "kanji": "所",
+    "english": "place",
+    "kanjiMeanings": "Place",
+    "lessonSection": "08",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "トマト",
+    "kanji": "",
+    "english": "tomato",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "はし",
+    "kanji": "",
+    "english": "chopsticks",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "パーティー",
+    "kanji": "",
+    "english": "party",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "バーベキュー",
+    "kanji": "",
+    "english": "barbecue",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "ホームステイ",
+    "kanji": "",
+    "english": "homestay; living with a local family",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "おふろ",
+    "kanji": "お風呂",
+    "english": "bath",
+    "kanjiMeanings": "お - Wind - Bath",
+    "lessonSection": "08",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "スペイン",
+    "kanji": "",
+    "english": "Spain",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "なにか",
+    "kanji": "何か",
+    "english": "something",
+    "kanjiMeanings": "What - か",
+    "lessonSection": "08",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "じょうず（な）",
+    "kanji": "上手",
+    "english": "skillful; good at ... (〜が)",
+    "kanjiMeanings": "Above - Hand",
+    "lessonSection": "08",
+    "category": "な-adjectives"
+  },
+  {
+    "hiragana": "へた（な）",
+    "kanji": "下手",
+    "english": "clumsy; poor at ... (〜が)",
+    "kanjiMeanings": "Below - Hand",
+    "lessonSection": "08",
+    "category": "な-adjectives"
+  },
+  {
+    "hiragana": "ゆうめい（な）",
+    "kanji": "有名",
+    "english": "famous",
+    "kanjiMeanings": "Have - Name",
+    "lessonSection": "08",
+    "category": "な-adjectives"
+  },
+  {
+    "hiragana": "あらう",
+    "kanji": "洗う",
+    "english": "to wash (〜を)",
+    "kanjiMeanings": "Wash - う",
+    "lessonSection": "08",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "いう",
+    "kanji": "言う",
+    "english": "to say",
+    "kanjiMeanings": "Say - う",
+    "lessonSection": "08",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "いる",
+    "kanji": "",
+    "english": "to need (〜が)",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "おそくなる",
+    "kanji": "遅くなる",
+    "english": "to be late",
+    "kanjiMeanings": "Slow - くなる",
+    "lessonSection": "08",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "おふろにはいる",
+    "kanji": "お風呂に入る",
+    "english": "to take a bath",
+    "kanjiMeanings": "お - Wind - Bath - に - Enter - る",
+    "lessonSection": "08",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "おもう",
+    "kanji": "思う",
+    "english": "to think",
+    "kanjiMeanings": "Think - う",
+    "lessonSection": "08",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "きる",
+    "kanji": "切る",
+    "english": "to cut (〜を)",
+    "kanjiMeanings": "Cut - る",
+    "lessonSection": "08",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "つくる",
+    "kanji": "作る",
+    "english": "to make (〜を)",
+    "kanjiMeanings": "Make - る",
+    "lessonSection": "08",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "（あめ／ゆきが）ふる",
+    "kanji": "（雨／雪が）降る",
+    "english": "(rain/snow) falls",
+    "kanjiMeanings": "（ - Rain - ／ - Snow - が） - Descend - る",
+    "lessonSection": "08",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "もっていく",
+    "kanji": "持っていく",
+    "english": "to take (a thing) (〜を)",
+    "kanjiMeanings": "Hold - っていく",
+    "lessonSection": "08",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "すてる",
+    "kanji": "捨てる",
+    "english": "to throw away (〜を)",
+    "kanjiMeanings": "Throw Away - てる",
+    "lessonSection": "08",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "はじめる",
+    "kanji": "始める",
+    "english": "to begin (〜を)",
+    "kanjiMeanings": "Begin - める",
+    "lessonSection": "08",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "うんてんする",
+    "kanji": "運転する",
+    "english": "to drive (〜を)",
+    "kanjiMeanings": "Carry - Revolve - する",
+    "lessonSection": "08",
+    "category": "Irregular_Verbs"
+  },
+  {
+    "hiragana": "せんたくする",
+    "kanji": "洗濯する",
+    "english": "to do laundry (〜を)",
+    "kanjiMeanings": "Wash - Wash - する",
+    "lessonSection": "08",
+    "category": "Irregular_Verbs"
+  },
+  {
+    "hiragana": "そうじする",
+    "kanji": "掃除する",
+    "english": "to clean (〜を)",
+    "kanjiMeanings": "Sweep - Exclude - する",
+    "lessonSection": "08",
+    "category": "Irregular_Verbs"
+  },
+  {
+    "hiragana": "りょうりする",
+    "kanji": "料理する",
+    "english": "to cook",
+    "kanjiMeanings": "Fee - Reason - する",
+    "lessonSection": "08",
+    "category": "Irregular_Verbs"
+  },
+  {
+    "hiragana": "うん",
+    "kanji": "",
+    "english": "uh-huh; yes",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "ううん",
+    "kanji": "",
+    "english": "uh-uh; no",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "いつも",
+    "kanji": "",
+    "english": "always",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "おそく",
+    "kanji": "遅く",
+    "english": "(do something) late",
+    "kanjiMeanings": "Slow - く",
+    "lessonSection": "08",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "かんぱい",
+    "kanji": "乾杯",
+    "english": "Cheers! (a toast)",
+    "kanjiMeanings": "Dry - Cup Of Liquid",
+    "lessonSection": "08",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "みんなで",
+    "kanji": "",
+    "english": "all (of the people) together",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "ざんねん（ですね）",
+    "kanji": "残念（ですね）",
+    "english": "That's too bad.",
+    "kanjiMeanings": "Remainder - Thought - （ですね）",
+    "lessonSection": "08",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "まだ + negative",
+    "kanji": "",
+    "english": "not ... yet",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "〜について",
+    "kanji": "",
+    "english": "about ...; concerning ...",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "〜ど",
+    "kanji": "〜度",
+    "english": "... degrees (temperature)",
+    "kanjiMeanings": "〜 - Degrees",
+    "lessonSection": "08",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "どう",
+    "kanji": "",
+    "english": "how",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "ごはん",
+    "kanji": "ご飯",
+    "english": "white rice",
+    "kanjiMeanings": "ご - Meal",
+    "lessonSection": "08",
+    "category": "foods"
+  },
+  {
+    "hiragana": "おかず",
+    "kanji": "",
+    "english": "a couple of dishes",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "foods"
+  },
+  {
+    "hiragana": "みそしる",
+    "kanji": "みそ汁",
+    "english": "soup",
+    "kanjiMeanings": "みそ - Soup",
+    "lessonSection": "08",
+    "category": "foods"
+  },
+  {
+    "hiragana": "カレーライス",
+    "kanji": "",
+    "english": "Curry with rice",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "foods"
+  },
+  {
+    "hiragana": "おにぎり",
+    "kanji": "",
+    "english": "Rice balls",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "foods"
+  },
+  {
+    "hiragana": "ラーメン",
+    "kanji": "",
+    "english": "ramen noodels",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "foods"
+  },
+  {
+    "hiragana": "うどん",
+    "kanji": "",
+    "english": "udon noodels",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "foods"
+  },
+  {
+    "hiragana": "パスタ",
+    "kanji": "",
+    "english": "pasta",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "foods"
+  },
+  {
+    "hiragana": "ぎょうざ",
+    "kanji": "",
+    "english": "dumplings",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "foods"
+  },
+  {
+    "hiragana": "ぎゅうどん",
+    "kanji": "牛丼",
+    "english": "beef rice bowl",
+    "kanjiMeanings": "Cow - Rice Bowl",
+    "lessonSection": "08",
+    "category": "foods"
+  },
+  {
+    "hiragana": "ハンバーグ",
+    "kanji": "",
+    "english": "hamburger steak",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "foods"
+  },
+  {
+    "hiragana": "さしみ",
+    "kanji": "",
+    "english": "raw seafood",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "foods"
+  },
+  {
+    "hiragana": "おこのみやき",
+    "kanji": "お好み焼き",
+    "english": "savory pancake",
+    "kanjiMeanings": "お - Like - み - Bake - き",
+    "lessonSection": "08",
+    "category": "foods"
+  },
+  {
+    "hiragana": "いちご",
+    "kanji": "",
+    "english": "strawberry",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "supermarket"
+  },
+  {
+    "hiragana": "すいか",
+    "kanji": "",
+    "english": "watermelon",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "supermarket"
+  },
+  {
+    "hiragana": "みかん",
+    "kanji": "",
+    "english": "mandarin orange",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "supermarket"
+  },
+  {
+    "hiragana": "りんご",
+    "kanji": "",
+    "english": "apple",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "supermarket"
+  },
+  {
+    "hiragana": "もも",
+    "kanji": "",
+    "english": "peach",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "supermarket"
+  },
+  {
+    "hiragana": "ぶどう",
+    "kanji": "",
+    "english": "grape",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "supermarket"
+  },
+  {
+    "hiragana": "にんじん",
+    "kanji": "",
+    "english": "carrot",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "supermarket"
+  },
+  {
+    "hiragana": "たまねぎ",
+    "kanji": "",
+    "english": "onion",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "supermarket"
+  },
+  {
+    "hiragana": "じゃがいも",
+    "kanji": "",
+    "english": "potato",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "supermarket"
+  },
+  {
+    "hiragana": "なす",
+    "kanji": "",
+    "english": "eggplant",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "supermarket"
+  },
+  {
+    "hiragana": "きゅうり",
+    "kanji": "",
+    "english": "cucumber",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "supermarket"
+  },
+  {
+    "hiragana": "キャベツ",
+    "kanji": "",
+    "english": "cabbage",
+    "kanjiMeanings": "",
+    "lessonSection": "08",
+    "category": "supermarket"
+  },
+  {
+    "hiragana": "ぎゅうにく",
+    "kanji": "牛肉",
+    "english": "beef",
+    "kanjiMeanings": "Cow - Meat",
+    "lessonSection": "08",
+    "category": "supermarket"
+  },
+  {
+    "hiragana": "ぶたにく",
+    "kanji": "豚肉",
+    "english": "pork",
+    "kanjiMeanings": "Pork - Meat",
+    "lessonSection": "08",
+    "category": "supermarket"
+  },
+  {
+    "hiragana": "とりにく",
+    "kanji": "鶏肉",
+    "english": "chicken",
+    "kanjiMeanings": "Chicken - Meat",
+    "lessonSection": "08",
+    "category": "supermarket"
+  },
+  {
+    "hiragana": "たんご",
+    "kanji": "単語",
+    "english": "word; vocabulary",
+    "kanjiMeanings": "Simple - Language",
+    "lessonSection": "09",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "さくぶん",
+    "kanji": "作文",
+    "english": "essay; composition",
+    "kanjiMeanings": "Make - Writing",
+    "lessonSection": "09",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "しけん",
+    "kanji": "試験",
+    "english": "exam",
+    "kanjiMeanings": "Try - Test",
+    "lessonSection": "09",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "てがみ",
+    "kanji": "手紙",
+    "english": "letter",
+    "kanjiMeanings": "Hand - Paper",
+    "lessonSection": "09",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "メール",
+    "kanji": "",
+    "english": "e-mail",
+    "kanjiMeanings": "",
+    "lessonSection": "09",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "ギター",
+    "kanji": "",
+    "english": "guitar",
+    "kanjiMeanings": "",
+    "lessonSection": "09",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "ピアノ",
+    "kanji": "",
+    "english": "piano",
+    "kanjiMeanings": "",
+    "lessonSection": "09",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "コンサート",
+    "kanji": "",
+    "english": "concert",
+    "kanjiMeanings": "",
+    "lessonSection": "09",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "チケット",
+    "kanji": "",
+    "english": "ticket",
+    "kanjiMeanings": "",
+    "lessonSection": "09",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "かぶき",
+    "kanji": "歌舞伎",
+    "english": "Kabuki; traditional Japanese theatrical art",
+    "kanjiMeanings": "Song - Dance - Deed",
+    "lessonSection": "09",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "スキー",
+    "kanji": "",
+    "english": "ski",
+    "kanjiMeanings": "",
+    "lessonSection": "09",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "おべんとう",
+    "kanji": "お弁当",
+    "english": "boxed lunch",
+    "kanjiMeanings": "お - Dialect - Correct",
+    "lessonSection": "09",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "ピザ",
+    "kanji": "",
+    "english": "pizza",
+    "kanjiMeanings": "",
+    "lessonSection": "09",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "びょうき",
+    "kanji": "病気",
+    "english": "illness; sickness",
+    "kanjiMeanings": "Sick - Energy",
+    "lessonSection": "09",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "くすり",
+    "kanji": "薬",
+    "english": "medicine",
+    "kanjiMeanings": "Medicine",
+    "lessonSection": "09",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "いいこ",
+    "kanji": "いい子",
+    "english": "good child",
+    "kanjiMeanings": "いい - Child",
+    "lessonSection": "09",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "いろ",
+    "kanji": "色",
+    "english": "color",
+    "kanjiMeanings": "Color",
+    "lessonSection": "09",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "こんど",
+    "kanji": "今度",
+    "english": "near future",
+    "kanjiMeanings": "Now - Degrees",
+    "lessonSection": "09",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "せんげつ",
+    "kanji": "先月",
+    "english": "last month",
+    "kanjiMeanings": "Previous - Moon",
+    "lessonSection": "09",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "きょねん",
+    "kanji": "去年",
+    "english": "last year",
+    "kanjiMeanings": "Past - Year",
+    "lessonSection": "09",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "あおい",
+    "kanji": "青い",
+    "english": "blue",
+    "kanjiMeanings": "Blue - い",
+    "lessonSection": "09",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "あかい",
+    "kanji": "赤い",
+    "english": "red",
+    "kanjiMeanings": "Red - い",
+    "lessonSection": "09",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "くろい",
+    "kanji": "黒い",
+    "english": "black",
+    "kanjiMeanings": "Black - い",
+    "lessonSection": "09",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "しろい",
+    "kanji": "白い",
+    "english": "white",
+    "kanjiMeanings": "White - い",
+    "lessonSection": "09",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "さびしい",
+    "kanji": "寂しい",
+    "english": "lonely",
+    "kanjiMeanings": "Lonely - しい",
+    "lessonSection": "09",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "わかい",
+    "kanji": "若い",
+    "english": "young",
+    "kanjiMeanings": "Young - い",
+    "lessonSection": "09",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "いじわる（な）",
+    "kanji": "意地悪",
+    "english": "mean-spirited",
+    "kanjiMeanings": "Idea - Earth - Bad",
+    "lessonSection": "09",
+    "category": "な-adjectives"
+  },
+  {
+    "hiragana": "おどる",
+    "kanji": "踊る",
+    "english": "to dance",
+    "kanjiMeanings": "Dance - る",
+    "lessonSection": "09",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "おわる",
+    "kanji": "終わる",
+    "english": "(something) ends (〜が)",
+    "kanjiMeanings": "End - わる",
+    "lessonSection": "09",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "くすりをのむ",
+    "kanji": "薬を飲む",
+    "english": "to take medicine",
+    "kanjiMeanings": "Medicine - を - Drink - む",
+    "lessonSection": "09",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "にんきがある",
+    "kanji": "人気がある",
+    "english": "to be popular",
+    "kanjiMeanings": "Person - Energy - がある",
+    "lessonSection": "09",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "はじまる",
+    "kanji": "始まる",
+    "english": "(something) begins (〜が)",
+    "kanjiMeanings": "Begin - まる",
+    "lessonSection": "09",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "ひく",
+    "kanji": "弾く",
+    "english": "to play (a string instrument or piano) (〜を)",
+    "kanjiMeanings": "Bullet - く",
+    "lessonSection": "09",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "もらう",
+    "kanji": "",
+    "english": "to get (from somebody) (<i>person</i> に <i>thing</i> を)",
+    "kanjiMeanings": "",
+    "lessonSection": "09",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "おぼえる",
+    "kanji": "覚える",
+    "english": "to memorize (〜を)",
+    "kanjiMeanings": "Memorize - える",
+    "lessonSection": "09",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "でる",
+    "kanji": "出る",
+    "english": "(1) to appear; to attend (〜に)<div>(2) to exit (〜を)</div>",
+    "kanjiMeanings": "Exit - る",
+    "lessonSection": "09",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "うんどうする",
+    "kanji": "運動する",
+    "english": "to exercise",
+    "kanjiMeanings": "Carry - Move - する",
+    "lessonSection": "09",
+    "category": "Irregular_Verbs"
+  },
+  {
+    "hiragana": "さんぽする",
+    "kanji": "散歩する",
+    "english": "to take a walk",
+    "kanjiMeanings": "Scatter - Walk - する",
+    "lessonSection": "09",
+    "category": "Irregular_Verbs"
+  },
+  {
+    "hiragana": "そう",
+    "kanji": "",
+    "english": "(I think) so",
+    "kanjiMeanings": "",
+    "lessonSection": "09",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "〜から",
+    "kanji": "",
+    "english": "from ...",
+    "kanjiMeanings": "",
+    "lessonSection": "09",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "〜まで",
+    "kanji": "",
+    "english": "to (a place/a time)",
+    "kanjiMeanings": "",
+    "lessonSection": "09",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "ぜひ",
+    "kanji": "是非",
+    "english": "by all means",
+    "kanjiMeanings": "Absolutely - Injustice",
+    "lessonSection": "09",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "ところで",
+    "kanji": "",
+    "english": "by the way",
+    "kanjiMeanings": "",
+    "lessonSection": "09",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "みんな",
+    "kanji": "",
+    "english": "all",
+    "kanjiMeanings": "",
+    "lessonSection": "09",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "もう",
+    "kanji": "",
+    "english": "already",
+    "kanjiMeanings": "",
+    "lessonSection": "09",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "ひとつ",
+    "kanji": "一つ",
+    "english": "one - counter for small objects",
+    "kanjiMeanings": "One - つ",
+    "lessonSection": "09",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "ふたつ",
+    "kanji": "二つ",
+    "english": "two - counter for small objects",
+    "kanjiMeanings": "Two - つ",
+    "lessonSection": "09",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "みっつ",
+    "kanji": "三つ",
+    "english": "three - counter for small objects",
+    "kanjiMeanings": "Three - つ",
+    "lessonSection": "09",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "よっつ",
+    "kanji": "四つ",
+    "english": "four - counter for small objects",
+    "kanjiMeanings": "Four - つ",
+    "lessonSection": "09",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "いつつ",
+    "kanji": "五つ",
+    "english": "five - counter for small objects",
+    "kanjiMeanings": "Five - つ",
+    "lessonSection": "09",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "むっつ",
+    "kanji": "六つ",
+    "english": "six - counter for small objects",
+    "kanjiMeanings": "Six - つ",
+    "lessonSection": "09",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "ななつ",
+    "kanji": "七つ",
+    "english": "seven - counter for small objects",
+    "kanjiMeanings": "Seven - つ",
+    "lessonSection": "09",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "やっつ",
+    "kanji": "八つ",
+    "english": "eight - counter for small objects",
+    "kanjiMeanings": "Eight - つ",
+    "lessonSection": "09",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "ここのつ",
+    "kanji": "九つ",
+    "english": "nine - counter for small objects",
+    "kanjiMeanings": "Nine - つ",
+    "lessonSection": "09",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "とお",
+    "kanji": "十",
+    "english": "ten - counter for small objects",
+    "kanjiMeanings": "Ten",
+    "lessonSection": "09",
+    "category": "Numbers"
+  },
+  {
+    "hiragana": "くろい",
+    "kanji": "",
+    "english": "black",
+    "kanjiMeanings": "",
+    "lessonSection": "09",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "しろい",
+    "kanji": "",
+    "english": "white",
+    "kanjiMeanings": "",
+    "lessonSection": "09",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "あかい",
+    "kanji": "",
+    "english": "red",
+    "kanjiMeanings": "",
+    "lessonSection": "09",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "あおい",
+    "kanji": "",
+    "english": "blue",
+    "kanjiMeanings": "",
+    "lessonSection": "09",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "きいろい",
+    "kanji": "",
+    "english": "yellow",
+    "kanjiMeanings": "",
+    "lessonSection": "09",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "ちゃいろい",
+    "kanji": "",
+    "english": "brown",
+    "kanjiMeanings": "",
+    "lessonSection": "09",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "みどり／グリーン",
+    "kanji": "",
+    "english": "green",
+    "kanjiMeanings": "",
+    "lessonSection": "09",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "こんいろ",
+    "kanji": "",
+    "english": "navy blue",
+    "kanjiMeanings": "",
+    "lessonSection": "09",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "みずいろ",
+    "kanji": "",
+    "english": "light blue",
+    "kanjiMeanings": "",
+    "lessonSection": "09",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "ぎんいろ／シルバー",
+    "kanji": "",
+    "english": "silver",
+    "kanjiMeanings": "",
+    "lessonSection": "09",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "オレンジ",
+    "kanji": "",
+    "english": "orange",
+    "kanjiMeanings": "",
+    "lessonSection": "09",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "むらさき",
+    "kanji": "",
+    "english": "purple",
+    "kanjiMeanings": "",
+    "lessonSection": "09",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "はいいろ／グレー",
+    "kanji": "",
+    "english": "gray",
+    "kanjiMeanings": "",
+    "lessonSection": "09",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "きんいろ／ゴールド",
+    "kanji": "",
+    "english": "gold",
+    "kanjiMeanings": "",
+    "lessonSection": "09",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "ピンク",
+    "kanji": "",
+    "english": "pink",
+    "kanjiMeanings": "",
+    "lessonSection": "09",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "ベージュ",
+    "kanji": "",
+    "english": "beige",
+    "kanjiMeanings": "",
+    "lessonSection": "09",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "かおがあおいですね。",
+    "kanji": "",
+    "english": "You look pale.",
+    "kanjiMeanings": "",
+    "lessonSection": "09",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "しろくろのしゃしん",
+    "kanji": "",
+    "english": "black and white picture",
+    "kanjiMeanings": "",
+    "lessonSection": "09",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "あおしんごう",
+    "kanji": "",
+    "english": "green light",
+    "kanjiMeanings": "",
+    "lessonSection": "09",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "きせつ",
+    "kanji": "季節",
+    "english": "season",
+    "kanjiMeanings": "Seasons - Season",
+    "lessonSection": "10",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "はる",
+    "kanji": "春",
+    "english": "spring",
+    "kanjiMeanings": "Spring",
+    "lessonSection": "10",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "あき",
+    "kanji": "秋",
+    "english": "fall",
+    "kanjiMeanings": "Autumn",
+    "lessonSection": "10",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "ぎゅうにゅう",
+    "kanji": "牛乳",
+    "english": "milk",
+    "kanjiMeanings": "Cow - Milk",
+    "lessonSection": "10",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "ケーキ",
+    "kanji": "",
+    "english": "cake",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "すし",
+    "kanji": "",
+    "english": "sushi",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "てんぷら",
+    "kanji": "天ぷら",
+    "english": "tempura",
+    "kanjiMeanings": "Heaven - ぷら",
+    "lessonSection": "10",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "りんご",
+    "kanji": "",
+    "english": "apple",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "りょうり",
+    "kanji": "料理",
+    "english": "cuisine",
+    "kanjiMeanings": "Fee - Reason",
+    "lessonSection": "10",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "サッカー",
+    "kanji": "",
+    "english": "soccer",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "やきゅう",
+    "kanji": "野球",
+    "english": "baseball",
+    "kanjiMeanings": "Field - Sphere",
+    "lessonSection": "10",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "いしゃ",
+    "kanji": "医者",
+    "english": "doctor",
+    "kanjiMeanings": "Medicine - Someone",
+    "lessonSection": "10",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "おかねもち",
+    "kanji": "お金持ち",
+    "english": "rich person",
+    "kanjiMeanings": "お - Gold - Hold - ち",
+    "lessonSection": "10",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "ゆうめいじん",
+    "kanji": "有名人",
+    "english": "celebrity",
+    "kanjiMeanings": "Have - Name - Person",
+    "lessonSection": "10",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "かお",
+    "kanji": "顔",
+    "english": "face",
+    "kanjiMeanings": "Face",
+    "lessonSection": "10",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "としうえ",
+    "kanji": "年上",
+    "english": "someone older",
+    "kanjiMeanings": "Year - Above",
+    "lessonSection": "10",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "えき",
+    "kanji": "駅",
+    "english": "station",
+    "kanjiMeanings": "Station",
+    "lessonSection": "10",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "しんかんせん",
+    "kanji": "新幹線",
+    "english": "Shinkansen; \"Bullet Train\"",
+    "kanjiMeanings": "New - Tree Trunk - Line",
+    "lessonSection": "10",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "ちかてつ",
+    "kanji": "地下鉄",
+    "english": "subway",
+    "kanjiMeanings": "Earth - Below - Iron",
+    "lessonSection": "10",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "ふね",
+    "kanji": "船",
+    "english": "ship; boat",
+    "kanjiMeanings": "Boat",
+    "lessonSection": "10",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "ひこうき",
+    "kanji": "飛行機",
+    "english": "airplane",
+    "kanjiMeanings": "Fly - Go - Machine",
+    "lessonSection": "10",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "よやく",
+    "kanji": "予約",
+    "english": "reservation",
+    "kanjiMeanings": "Beforehand - Promise",
+    "lessonSection": "10",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "ツアー",
+    "kanji": "",
+    "english": "tour",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "どうぶつえん",
+    "kanji": "動物園",
+    "english": "zoo",
+    "kanjiMeanings": "Move - Thing - Garden",
+    "lessonSection": "10",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "じかん",
+    "kanji": "時間",
+    "english": "time",
+    "kanjiMeanings": "Time - Interval",
+    "lessonSection": "10",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "せかい",
+    "kanji": "世界",
+    "english": "world",
+    "kanjiMeanings": "World - World",
+    "lessonSection": "10",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "びよういん",
+    "kanji": "美容院",
+    "english": "beauty parlor",
+    "kanjiMeanings": "Beauty - Form - Institution",
+    "lessonSection": "10",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "てぶくろ",
+    "kanji": "手袋",
+    "english": "gloves",
+    "kanjiMeanings": "Hand - Sack",
+    "lessonSection": "10",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "せいかつ",
+    "kanji": "生活",
+    "english": "life; living",
+    "kanjiMeanings": "Life - Lively",
+    "lessonSection": "10",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "ことし",
+    "kanji": "今年",
+    "english": "this year",
+    "kanjiMeanings": "Now - Year",
+    "lessonSection": "10",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "あたたかい",
+    "kanji": "暖かい",
+    "english": "warm",
+    "kanjiMeanings": "Warm - かい",
+    "lessonSection": "10",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "すずしい",
+    "kanji": "涼しい",
+    "english": "cool (weather - not used for things)",
+    "kanjiMeanings": "Cool - しい",
+    "lessonSection": "10",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "つめたい",
+    "kanji": "冷たい",
+    "english": "cold (things/people)",
+    "kanjiMeanings": "Cool - たい",
+    "lessonSection": "10",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "おそい",
+    "kanji": "遅い",
+    "english": "slow; late",
+    "kanjiMeanings": "Slow - い",
+    "lessonSection": "10",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "ねむい",
+    "kanji": "眠い",
+    "english": "sleepy",
+    "kanjiMeanings": "Sleep - い",
+    "lessonSection": "10",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "かんたん（な）",
+    "kanji": "簡単",
+    "english": "easy; simple",
+    "kanjiMeanings": "Simplicity - Simple",
+    "lessonSection": "10",
+    "category": "な-adjectives"
+  },
+  {
+    "hiragana": "かかる",
+    "kanji": "",
+    "english": "to take (amount of time/money) (<i>no particle</i>)",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "とまる",
+    "kanji": "泊まる",
+    "english": "to stay (at a hotel, etc.) (〜に)",
+    "kanjiMeanings": "Overnight - まる",
+    "lessonSection": "10",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "なる",
+    "kanji": "",
+    "english": "to become",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "きめる",
+    "kanji": "決める",
+    "english": "to decide (〜を)",
+    "kanjiMeanings": "Decide - める",
+    "lessonSection": "10",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "ごろごろする",
+    "kanji": "",
+    "english": "to chill out at home; to stay home and do nothing",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Irregular_Verbs"
+  },
+  {
+    "hiragana": "りょこうする",
+    "kanji": "旅行する",
+    "english": "to travel",
+    "kanjiMeanings": "Trip - Go - する",
+    "lessonSection": "10",
+    "category": "Irregular_Verbs"
+  },
+  {
+    "hiragana": "れんしゅうする",
+    "kanji": "練習する",
+    "english": "to practice (〜を)",
+    "kanjiMeanings": "Practice - Learn - する",
+    "lessonSection": "10",
+    "category": "Irregular_Verbs"
+  },
+  {
+    "hiragana": "いちばん",
+    "kanji": "一番",
+    "english": "best",
+    "kanjiMeanings": "One - Number In A Series",
+    "lessonSection": "10",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "どっち／どちら",
+    "kanji": "",
+    "english": "which",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "はやく",
+    "kanji": "早く／速く",
+    "english": "(do something) early; fast",
+    "kanjiMeanings": "Early - く／ - Fast - く",
+    "lessonSection": "10",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "あるいて",
+    "kanji": "歩いて",
+    "english": "on foot",
+    "kanjiMeanings": "Walk - いて",
+    "lessonSection": "10",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "〜で",
+    "kanji": "",
+    "english": "by (means of transportation); with (a tool)",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "どうやって",
+    "kanji": "",
+    "english": "how; by what means",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "どのぐらい",
+    "kanji": "",
+    "english": "how much; how long",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "〜しゅうかん",
+    "kanji": "〜週間",
+    "english": "for ... weeks",
+    "kanjiMeanings": "〜 - Week - Interval",
+    "lessonSection": "10",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "〜かげつ",
+    "kanji": "〜か月",
+    "english": "for ... months",
+    "kanjiMeanings": "〜か - Moon",
+    "lessonSection": "10",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "〜ねん",
+    "kanji": "〜年",
+    "english": "... years",
+    "kanjiMeanings": "〜 - Year",
+    "lessonSection": "10",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "このごろ",
+    "kanji": "",
+    "english": "these days",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "〜ご",
+    "kanji": "〜後",
+    "english": "in ... time; after ...",
+    "kanjiMeanings": "〜 - Behind",
+    "lessonSection": "10",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "〜か〜",
+    "kanji": "",
+    "english": "or",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "ふつう",
+    "kanji": "",
+    "english": "local (train)",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "きゅうこう",
+    "kanji": "",
+    "english": "express (train)",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "とっきゅう",
+    "kanji": "",
+    "english": "super express (train)",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "〜いき",
+    "kanji": "",
+    "english": "bound for ...",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "〜ほうめん",
+    "kanji": "",
+    "english": "serving ... areas",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "じょうしゃけん",
+    "kanji": "",
+    "english": "(boarding) ticket",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "ていきけん",
+    "kanji": "",
+    "english": "commuter's pass",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "がくわり",
+    "kanji": "",
+    "english": "student discount",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "していせき",
+    "kanji": "",
+    "english": "reserved seat",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "こうつうけいアイシーカード",
+    "kanji": "",
+    "english": "rechargeable card such as Suica, Icoca, Pasmo, etc.",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "じゆうせき",
+    "kanji": "",
+    "english": "general admission seat",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "いちごうしゃ",
+    "kanji": "",
+    "english": "Car No. 1",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "おうふく",
+    "kanji": "",
+    "english": "round trip",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "かたみち",
+    "kanji": "",
+    "english": "one way",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "〜ばんせん",
+    "kanji": "",
+    "english": "track number ...",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "きっぷうりば",
+    "kanji": "",
+    "english": "ticket vending area",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "かいさつ",
+    "kanji": "",
+    "english": "gate",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "ホーム",
+    "kanji": "",
+    "english": "platform",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "ばいてん",
+    "kanji": "",
+    "english": "shop; stand",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "でぐち",
+    "kanji": "",
+    "english": "exit",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "いりぐち",
+    "kanji": "",
+    "english": "entrance",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "かいだん",
+    "kanji": "",
+    "english": "stairs",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "のりかえ",
+    "kanji": "",
+    "english": "transfer",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "つぎは〜",
+    "kanji": "",
+    "english": "next (stop), ...",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "せんぱつ",
+    "kanji": "",
+    "english": "departing first",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "じはつ",
+    "kanji": "",
+    "english": "departing second",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "しゅうでん",
+    "kanji": "",
+    "english": "last train",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "まもなくはっしゃします。",
+    "kanji": "",
+    "english": "We will be leaving soon.",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "でんしゃがまいります。",
+    "kanji": "",
+    "english": "A train is arriving.",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "つぎは〜にとまります。",
+    "kanji": "",
+    "english": "Next (we'll stop at) ...",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "ドアがしまります。ごちゅういください。",
+    "kanji": "",
+    "english": "The doors are closing. Please be careful.",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "このでんしゃはあきはばらにとまりますか。",
+    "kanji": "",
+    "english": "Does this train stop at Akihabara?",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "しゅうでんはなんじですか。",
+    "kanji": "",
+    "english": "What time is the last train?",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "とうきょうまでのしていせきをいちまいおねがいします。",
+    "kanji": "",
+    "english": "One reserved ticket to Tokyo, please.",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "がくわりがつかえますか。",
+    "kanji": "",
+    "english": "Can I get a student discount?",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "かまくらいきのでんしゃはどれですか。",
+    "kanji": "",
+    "english": "Which one is the train bound for Kamakura?",
+    "kanjiMeanings": "",
+    "lessonSection": "10",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "がいこく",
+    "kanji": "外国",
+    "english": "foreign country",
+    "kanjiMeanings": "Outside - Country",
+    "lessonSection": "11",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "オーストラリア",
+    "kanji": "",
+    "english": "Australia",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "かわ",
+    "kanji": "川",
+    "english": "river",
+    "kanjiMeanings": "River",
+    "lessonSection": "11",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "おんせん",
+    "kanji": "温泉",
+    "english": "spa; hot spring",
+    "kanjiMeanings": "Warm - Spring",
+    "lessonSection": "11",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "つり",
+    "kanji": "",
+    "english": "fishing",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "みずうみ",
+    "kanji": "湖",
+    "english": "lake",
+    "kanjiMeanings": "Lake",
+    "lessonSection": "11",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "やま",
+    "kanji": "山",
+    "english": "mountain",
+    "kanjiMeanings": "Mountain",
+    "lessonSection": "11",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "キャンプ",
+    "kanji": "",
+    "english": "camp",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "ドライブ",
+    "kanji": "",
+    "english": "drive",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "じんじゃ",
+    "kanji": "神社",
+    "english": "shrine",
+    "kanjiMeanings": "God - Company",
+    "lessonSection": "11",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "びじゅつかん",
+    "kanji": "美術館",
+    "english": "art museum",
+    "kanjiMeanings": "Beauty - Art - Public Building",
+    "lessonSection": "11",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "しゃちょう",
+    "kanji": "社長",
+    "english": "president of a company",
+    "kanjiMeanings": "Company - Long",
+    "lessonSection": "11",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "かしゅ",
+    "kanji": "歌手",
+    "english": "singer",
+    "kanjiMeanings": "Song - Hand",
+    "lessonSection": "11",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "ルームメイト",
+    "kanji": "",
+    "english": "roommate",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "ホストファミリー",
+    "kanji": "",
+    "english": "host family",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "しょうらい",
+    "kanji": "将来",
+    "english": "future",
+    "kanjiMeanings": "Commander - Come",
+    "lessonSection": "11",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "ゆめ",
+    "kanji": "夢",
+    "english": "dream",
+    "kanjiMeanings": "Dream",
+    "lessonSection": "11",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "おまつり",
+    "kanji": "お祭り",
+    "english": "festival",
+    "kanjiMeanings": "お - Festival - り",
+    "lessonSection": "11",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "おしょうがつ",
+    "kanji": "お正月",
+    "english": "New Year's",
+    "kanjiMeanings": "お - Correct - Moon",
+    "lessonSection": "11",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "おかし",
+    "kanji": "お菓子",
+    "english": "snack; sweets",
+    "kanjiMeanings": "お - Cake - Child",
+    "lessonSection": "11",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "ビール",
+    "kanji": "",
+    "english": "beer",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "おもちゃ",
+    "kanji": "",
+    "english": "toy",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "こんがっき",
+    "kanji": "今学期",
+    "english": "this semester",
+    "kanjiMeanings": "Now - Study - Period Of Time",
+    "lessonSection": "11",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "らいがっき",
+    "kanji": "来学期",
+    "english": "next semester",
+    "kanjiMeanings": "Come - Study - Period Of Time",
+    "lessonSection": "11",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "じゅぎょう",
+    "kanji": "授業",
+    "english": "class",
+    "kanjiMeanings": "Instruct - Business",
+    "lessonSection": "11",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "こちら",
+    "kanji": "",
+    "english": "this person (polite)",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "うそをつく",
+    "kanji": "",
+    "english": "to tell a lie",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "おなかがすく",
+    "kanji": "",
+    "english": "to become hungry",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "かう",
+    "kanji": "飼う",
+    "english": "to own (a pet) (〜を)",
+    "kanjiMeanings": "Domesticate - う",
+    "lessonSection": "11",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "サボる",
+    "kanji": "",
+    "english": "to cut (classes) (〜を)",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "とる",
+    "kanji": "取る",
+    "english": "to take (a class); to get (a grade) (〜を)",
+    "kanjiMeanings": "Take - る",
+    "lessonSection": "11",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "ならう",
+    "kanji": "習う",
+    "english": "to learn (〜を)",
+    "kanjiMeanings": "Learn - う",
+    "lessonSection": "11",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "のぼる",
+    "kanji": "登る",
+    "english": "to climb (<i>place</i>&nbsp;に)",
+    "kanjiMeanings": "Climb - る",
+    "lessonSection": "11",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "はしる",
+    "kanji": "走る",
+    "english": "to run",
+    "kanjiMeanings": "Run - る",
+    "lessonSection": "11",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "つかれる",
+    "kanji": "疲れる",
+    "english": "to get tired",
+    "kanjiMeanings": "Exhausted - れる",
+    "lessonSection": "11",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "やめる",
+    "kanji": "",
+    "english": "to quit (〜を)",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "けんかする",
+    "kanji": "",
+    "english": "to have a fight; to quarrel",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Irregular_Verbs"
+  },
+  {
+    "hiragana": "しょうかいする",
+    "kanji": "紹介する",
+    "english": "to introduce (<i>person </i>に <i>person </i>を)",
+    "kanjiMeanings": "Introduce - Jammed In - する",
+    "lessonSection": "11",
+    "category": "Irregular_Verbs"
+  },
+  {
+    "hiragana": "ダイエットする",
+    "kanji": "",
+    "english": "to go on a diet",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Irregular_Verbs"
+  },
+  {
+    "hiragana": "ちこくする",
+    "kanji": "遅刻する",
+    "english": "to be late (for an appointment) (〜に)",
+    "kanjiMeanings": "Slow - Carve - する",
+    "lessonSection": "11",
+    "category": "Irregular_Verbs"
+  },
+  {
+    "hiragana": "りゅうがくする",
+    "kanji": "留学する",
+    "english": "to study abroad (<i>place</i>&nbsp;に)",
+    "kanjiMeanings": "Detain - Study - する",
+    "lessonSection": "11",
+    "category": "Irregular_Verbs"
+  },
+  {
+    "hiragana": "しゅっしん",
+    "kanji": "出身",
+    "english": "coming from (<i>place</i>&nbsp;の)",
+    "kanjiMeanings": "Exit - Somebody",
+    "lessonSection": "11",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "ひさしぶり",
+    "kanji": "久しぶり",
+    "english": "it has been a long time",
+    "kanjiMeanings": "Long Time - しぶり",
+    "lessonSection": "11",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "まあまあ",
+    "kanji": "",
+    "english": "okay; so-so",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "もっと",
+    "kanji": "",
+    "english": "more",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "あと",
+    "kanji": "後",
+    "english": "after (an event) (<i>event</i>&nbsp;の)",
+    "kanjiMeanings": "Behind",
+    "lessonSection": "11",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "そして",
+    "kanji": "",
+    "english": "and then",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "〜だけ",
+    "kanji": "",
+    "english": "just ...; only ...",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "〜てん",
+    "kanji": "〜点",
+    "english": "... points",
+    "kanjiMeanings": "〜 - Point",
+    "lessonSection": "11",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "しょくぎょう",
+    "kanji": "職業",
+    "english": "Occupations",
+    "kanjiMeanings": "Employment - Business",
+    "lessonSection": "11",
+    "category": "Occupations"
+  },
+  {
+    "hiragana": "さっか",
+    "kanji": "作家",
+    "english": "writer",
+    "kanjiMeanings": "Make - House",
+    "lessonSection": "11",
+    "category": "Occupations"
+  },
+  {
+    "hiragana": "ジャーナリスト",
+    "kanji": "",
+    "english": "journalist",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Occupations"
+  },
+  {
+    "hiragana": "けいさつかん",
+    "kanji": "警察官",
+    "english": "police officer",
+    "kanjiMeanings": "Warn - Guess - Government",
+    "lessonSection": "11",
+    "category": "Occupations"
+  },
+  {
+    "hiragana": "しょうぼうし",
+    "kanji": "消防士",
+    "english": "firefighter",
+    "kanjiMeanings": "Extinguish - Prevent - Samurai",
+    "lessonSection": "11",
+    "category": "Occupations"
+  },
+  {
+    "hiragana": "きょうし",
+    "kanji": "教師",
+    "english": "schoolteacher",
+    "kanjiMeanings": "Teach - Teacher",
+    "lessonSection": "11",
+    "category": "Occupations"
+  },
+  {
+    "hiragana": "けんきゅうしゃ",
+    "kanji": "研究者",
+    "english": "researcher",
+    "kanjiMeanings": "Sharpen - Research - Someone",
+    "lessonSection": "11",
+    "category": "Occupations"
+  },
+  {
+    "hiragana": "うちゅうひこうし",
+    "kanji": "宇宙飛行士",
+    "english": "astronaut",
+    "kanjiMeanings": "Outer Space - Midair - Fly - Go - Samurai",
+    "lessonSection": "11",
+    "category": "Occupations"
+  },
+  {
+    "hiragana": "スポーツせんしゅ",
+    "kanji": "スポーツ選手",
+    "english": "athlete",
+    "kanjiMeanings": "スポーツ - Choose - Hand",
+    "lessonSection": "11",
+    "category": "Occupations"
+  },
+  {
+    "hiragana": "だいとうりょう",
+    "kanji": "大統領",
+    "english": "president of a country",
+    "kanjiMeanings": "Big - Unite - Territory",
+    "lessonSection": "11",
+    "category": "Occupations"
+  },
+  {
+    "hiragana": "はいゆう",
+    "kanji": "俳優",
+    "english": "actor; actress",
+    "kanjiMeanings": "Haiku - Superior",
+    "lessonSection": "11",
+    "category": "Occupations"
+  },
+  {
+    "hiragana": "かんごし",
+    "kanji": "看護師",
+    "english": "nurse",
+    "kanjiMeanings": "Watch Over - Defend - Teacher",
+    "lessonSection": "11",
+    "category": "Occupations"
+  },
+  {
+    "hiragana": "シェフ",
+    "kanji": "",
+    "english": "chef",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Occupations"
+  },
+  {
+    "hiragana": "まんがか",
+    "kanji": "漫画家",
+    "english": "cartoonist",
+    "kanjiMeanings": "Manga - Drawing - House",
+    "lessonSection": "11",
+    "category": "Occupations"
+  },
+  {
+    "hiragana": "どちらでもいいです。",
+    "kanji": "",
+    "english": "Both are fine.",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "おなじです。",
+    "kanji": "",
+    "english": "Same thing.",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "だいたいおなじです。",
+    "kanji": "",
+    "english": "More or less the same.",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "ちょっとちがいます。",
+    "kanji": "",
+    "english": "A little different.",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "つかえません。",
+    "kanji": "",
+    "english": "Can't use it.",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "だめです。",
+    "kanji": "",
+    "english": "No good.",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "てをあげてください。",
+    "kanji": "",
+    "english": "Raise your hand.",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "よんできてください。",
+    "kanji": "",
+    "english": "Read it before coming to class.",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "しゅくだいをだしてください。",
+    "kanji": "",
+    "english": "Hand in the homework.",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "１０ページをひらいてください。",
+    "kanji": "",
+    "english": "Open the book to page 10.",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "きょうかしょをとじてください。",
+    "kanji": "",
+    "english": "Close the textbook.",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "となりのひとにきいてください。",
+    "kanji": "",
+    "english": "Ask the person sitting next to you.",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "やめてください。",
+    "kanji": "",
+    "english": "Please stop.",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "きょうはこれでおわります。",
+    "kanji": "",
+    "english": "That's it for today.",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "しめきり",
+    "kanji": "",
+    "english": "deadline",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "れんしゅう",
+    "kanji": "",
+    "english": "exercise",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "いみ",
+    "kanji": "",
+    "english": "meaning",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "はつおん",
+    "kanji": "",
+    "english": "pronunciation",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "ぶんぽう",
+    "kanji": "",
+    "english": "grammar",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "しつもん",
+    "kanji": "",
+    "english": "question",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "こたえ",
+    "kanji": "",
+    "english": "answer",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "れい",
+    "kanji": "",
+    "english": "example",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "かっこ",
+    "kanji": "",
+    "english": "( ) (parentheses)",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "まる",
+    "kanji": "",
+    "english": "○ (correct)",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "ばつ",
+    "kanji": "",
+    "english": "☓ (wrong)",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "くだけたいいかた",
+    "kanji": "",
+    "english": "colloquial expression",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "かたいいいかた",
+    "kanji": "",
+    "english": "bookish expression",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "ていねいないいかた",
+    "kanji": "",
+    "english": "polite expression",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "ほうげん",
+    "kanji": "",
+    "english": "dialect",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "きょうつうご",
+    "kanji": "",
+    "english": "common language",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "たとえば",
+    "kanji": "",
+    "english": "for example",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "ほかに",
+    "kanji": "",
+    "english": "anything else",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "〜ばん",
+    "kanji": "",
+    "english": "number ...",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "〜ぎょうめ",
+    "kanji": "",
+    "english": "line number ...",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "ふたりずつ",
+    "kanji": "",
+    "english": "two people each",
+    "kanjiMeanings": "",
+    "lessonSection": "11",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "おなか",
+    "kanji": "",
+    "english": "stomach",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "あし",
+    "kanji": "足",
+    "english": "leg; foot",
+    "kanjiMeanings": "Foot",
+    "lessonSection": "12",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "のど",
+    "kanji": "",
+    "english": "throat",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "は",
+    "kanji": "歯",
+    "english": "tooth",
+    "kanjiMeanings": "Tooth",
+    "lessonSection": "12",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "インフルエンザ",
+    "kanji": "",
+    "english": "influenza",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "かぜ",
+    "kanji": "風邪",
+    "english": "cold",
+    "kanjiMeanings": "Wind - Wicked",
+    "lessonSection": "12",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "せき",
+    "kanji": "",
+    "english": "cough",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "ふつかよい",
+    "kanji": "二日酔い",
+    "english": "hangover",
+    "kanjiMeanings": "Two - Sun - Drunk - い",
+    "lessonSection": "12",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "ホームシック",
+    "kanji": "",
+    "english": "homesickness",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "アレルギー",
+    "kanji": "",
+    "english": "allergy",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "ジュース",
+    "kanji": "",
+    "english": "juice",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "たまご",
+    "kanji": "卵",
+    "english": "egg",
+    "kanjiMeanings": "Egg",
+    "lessonSection": "12",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "ふく",
+    "kanji": "服",
+    "english": "clothes",
+    "kanjiMeanings": "Clothes",
+    "lessonSection": "12",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "もの",
+    "kanji": "物",
+    "english": "thing (concrete object)",
+    "kanjiMeanings": "Thing",
+    "lessonSection": "12",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "プレゼント",
+    "kanji": "",
+    "english": "present",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "きっぷ",
+    "kanji": "切符",
+    "english": "train ticket",
+    "kanjiMeanings": "Cut - Token",
+    "lessonSection": "12",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "〜だい",
+    "kanji": "〜代",
+    "english": "charge; fee",
+    "kanjiMeanings": "〜 - Substitute",
+    "lessonSection": "12",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "ようじ",
+    "kanji": "用事",
+    "english": "business to take care of",
+    "kanjiMeanings": "Task - Action",
+    "lessonSection": "12",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "おてあらい",
+    "kanji": "お手洗い",
+    "english": "restroom",
+    "kanjiMeanings": "お - Hand - Wash - い",
+    "lessonSection": "12",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "しあい",
+    "kanji": "試合",
+    "english": "match; game",
+    "kanjiMeanings": "Try - Suit",
+    "lessonSection": "12",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "せいじ",
+    "kanji": "政治",
+    "english": "politics",
+    "kanjiMeanings": "Politics - Cure",
+    "lessonSection": "12",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "せいせき",
+    "kanji": "成績",
+    "english": "grade (on a test, etc.)",
+    "kanjiMeanings": "Become - Exploits",
+    "lessonSection": "12",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "かのじょ",
+    "kanji": "彼女",
+    "english": "she; girlfriend",
+    "kanjiMeanings": "He - Woman",
+    "lessonSection": "12",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "かれ",
+    "kanji": "彼",
+    "english": "he; boyfriend",
+    "kanjiMeanings": "He",
+    "lessonSection": "12",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "かれし",
+    "kanji": "彼氏",
+    "english": "boyfriend",
+    "kanjiMeanings": "He - Family Name",
+    "lessonSection": "12",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "いみ",
+    "kanji": "意味",
+    "english": "meaning",
+    "kanjiMeanings": "Idea - Flavor",
+    "lessonSection": "12",
+    "category": "Nouns"
+  },
+  {
+    "hiragana": "せまい",
+    "kanji": "狭い",
+    "english": "narrow; not spacious",
+    "kanjiMeanings": "Narrow - い",
+    "lessonSection": "12",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "ひろい",
+    "kanji": "広い",
+    "english": "wide; spacious",
+    "kanjiMeanings": "Wide - い",
+    "lessonSection": "12",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "わるい",
+    "kanji": "悪い",
+    "english": "bad",
+    "kanjiMeanings": "Bad - い",
+    "lessonSection": "12",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "いたい",
+    "kanji": "痛い",
+    "english": "hurt; painful",
+    "kanjiMeanings": "Pain - い",
+    "lessonSection": "12",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "あまい",
+    "kanji": "甘い",
+    "english": "sweet",
+    "kanjiMeanings": "Sweet - い",
+    "lessonSection": "12",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "おおい",
+    "kanji": "多い",
+    "english": "there are many ...",
+    "kanjiMeanings": "Many - い",
+    "lessonSection": "12",
+    "category": "い-adjectives"
+  },
+  {
+    "hiragana": "すてき（な）",
+    "kanji": "素敵",
+    "english": "nice",
+    "kanjiMeanings": "Element - Enemy",
+    "lessonSection": "12",
+    "category": "な-adjectives"
+  },
+  {
+    "hiragana": "あるく",
+    "kanji": "歩く",
+    "english": "to walk",
+    "kanjiMeanings": "Walk - く",
+    "lessonSection": "12",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "かぜをひく",
+    "kanji": "風邪をひく",
+    "english": "to catch a cold",
+    "kanjiMeanings": "Wind - Wicked - をひく",
+    "lessonSection": "12",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "ねつがある",
+    "kanji": "熱がある",
+    "english": "to have a fever",
+    "kanjiMeanings": "Heat - がある",
+    "lessonSection": "12",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "のどがかわく",
+    "kanji": "喉が渇く",
+    "english": "to become thirsty",
+    "kanjiMeanings": "喉が - Thirst - く",
+    "lessonSection": "12",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "はらう",
+    "kanji": "払う",
+    "english": "to pay (〜を)",
+    "kanjiMeanings": "Pay - う",
+    "lessonSection": "12",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "なくす",
+    "kanji": "",
+    "english": "to lose (〜を)",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "きょうみがある",
+    "kanji": "興味がある",
+    "english": "to be interested (in ...) (<i>topic </i>に)",
+    "kanjiMeanings": "Interest - Flavor - がある",
+    "lessonSection": "12",
+    "category": "U-verbs"
+  },
+  {
+    "hiragana": "せきがでる",
+    "kanji": "せきが出る",
+    "english": "to cough",
+    "kanjiMeanings": "せきが - Exit - る",
+    "lessonSection": "12",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "わかれる",
+    "kanji": "別れる",
+    "english": "to break up; to separate (<i>person</i>&nbsp;と)",
+    "kanjiMeanings": "Separate - れる",
+    "lessonSection": "12",
+    "category": "Ru-verbs"
+  },
+  {
+    "hiragana": "きんちょうする",
+    "kanji": "緊張する",
+    "english": "to get nervous",
+    "kanjiMeanings": "Tense - Stretch - する",
+    "lessonSection": "12",
+    "category": "Irregular_Verbs"
+  },
+  {
+    "hiragana": "しんぱいする",
+    "kanji": "心配する",
+    "english": "to worry",
+    "kanjiMeanings": "Heart - Distribute - する",
+    "lessonSection": "12",
+    "category": "Irregular_Verbs"
+  },
+  {
+    "hiragana": "おだいじに",
+    "kanji": "お大事に",
+    "english": "Get well soon.",
+    "kanjiMeanings": "お - Big - Action - に",
+    "lessonSection": "12",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "げんきがない",
+    "kanji": "元気がない",
+    "english": "don't look well",
+    "kanjiMeanings": "Origin - Energy - がない",
+    "lessonSection": "12",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "できるだけ",
+    "kanji": "",
+    "english": "as much as possible",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "たぶん",
+    "kanji": "多分",
+    "english": "probably; maybe",
+    "kanjiMeanings": "Many - Part",
+    "lessonSection": "12",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "もうすぐ",
+    "kanji": "",
+    "english": "very soon; in a few moments/days",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "はじめて",
+    "kanji": "初めて",
+    "english": "for the first time",
+    "kanjiMeanings": "First - めて",
+    "lessonSection": "12",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "にさんにち",
+    "kanji": "二三日",
+    "english": "for two to three days",
+    "kanjiMeanings": "Two - Three - Sun",
+    "lessonSection": "12",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "それに",
+    "kanji": "",
+    "english": "moreover, ...",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "おなじ",
+    "kanji": "同じ",
+    "english": "same",
+    "kanjiMeanings": "Same - じ",
+    "lessonSection": "12",
+    "category": "Adverbs_and_Other_Expressions"
+  },
+  {
+    "hiragana": "げりです。",
+    "kanji": "",
+    "english": "I have diarrhea.",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "べんぴです。",
+    "kanji": "",
+    "english": "I am constipated.",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "せいりです。",
+    "kanji": "",
+    "english": "I have my period.",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "かふんしょうです。",
+    "kanji": "",
+    "english": "I have hay fever.",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "（〜に）アレルギーがあります。",
+    "kanji": "",
+    "english": "I have an allergy to ...",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "むしばがあります。",
+    "kanji": "",
+    "english": "I have a bad tooth.",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "くしゃみがでます。",
+    "kanji": "",
+    "english": "I sneeze.",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "はなみずがでます。",
+    "kanji": "",
+    "english": "I have a runny nose.",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "せなかがかゆいです。",
+    "kanji": "",
+    "english": "My back itches.",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "はっしんがあります。",
+    "kanji": "",
+    "english": "I have rashes.",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "めまいがします。",
+    "kanji": "",
+    "english": "I feel dizzy.",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "はきました。",
+    "kanji": "",
+    "english": "I threw up.",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "きぶんがわるいです。",
+    "kanji": "",
+    "english": "I am not feeling well.",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "やけどをしました。",
+    "kanji": "",
+    "english": "I burned myself.",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "あしをこっせつしました。",
+    "kanji": "",
+    "english": "I broke my leg.",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "けがをしました。",
+    "kanji": "",
+    "english": "I hurt myself.",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "ないか",
+    "kanji": "",
+    "english": "physician",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "ひふか",
+    "kanji": "",
+    "english": "dermatologist",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "げか",
+    "kanji": "",
+    "english": "surgeon",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "さんふじんか",
+    "kanji": "",
+    "english": "obsterician and gynecologist",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "せいけいげか",
+    "kanji": "",
+    "english": "orthopedic surgeon",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "がんか（めいしゃ）",
+    "kanji": "",
+    "english": "ophthalmologist",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "しか（はいしゃ）",
+    "kanji": "",
+    "english": "dentist",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "じびか",
+    "kanji": "",
+    "english": "otorhinolaryngologist; ENT doctor",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "こうせいぶっしつ",
+    "kanji": "",
+    "english": "antibiotic",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "レントゲン",
+    "kanji": "",
+    "english": "X-ray",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "しゅじゅつ",
+    "kanji": "",
+    "english": "operation",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "ちゅうしゃ",
+    "kanji": "",
+    "english": "injection",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "たいおんけい",
+    "kanji": "",
+    "english": "thermometer",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Useful_Expressions"
+  },
+  {
+    "hiragana": "てんてき",
+    "kanji": "",
+    "english": "intravenous feeding",
+    "kanjiMeanings": "",
+    "lessonSection": "12",
+    "category": "Useful_Expressions"
+  }
+]

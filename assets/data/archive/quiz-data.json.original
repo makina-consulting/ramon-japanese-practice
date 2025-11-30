@@ -1,0 +1,136 @@
+{
+  "verbs": {
+    "to eat (taberu)": {
+      "chapter": 1,
+      "type": "verb",
+      "polite": {
+        "present affirmative": "たべます",
+        "present negative": "たべません",
+        "past affirmative": "たべました",
+        "past negative": "たべませんでした"
+      },
+      "plain": {
+        "present affirmative": "たべる",
+        "present negative": "たべない",
+        "past affirmative": "たべた",
+        "past negative": "たべなかった"
+      },
+      "te": "たべて",
+      "tai": {
+        "present affirmative": "たべたい",
+        "present negative": "たべたくない",
+        "past affirmative": "たべたかった",
+        "past negative": "たべたくなかった"
+      }
+    },
+    "to speak (hanasu)": {
+      "chapter": 2,
+      "type": "verb",
+      "polite": {
+        "present affirmative": "はなします",
+        "present negative": "はなしません",
+        "past affirmative": "はなしました",
+        "past negative": "はなしませんでした"
+      },
+      "plain": {
+        "present affirmative": "はなす",
+        "present negative": "はなさない",
+        "past affirmative": "はなした",
+        "past negative": "はなさなかった"
+      },
+      "te": "はなして",
+      "tai": {
+        "present affirmative": "はなしたい",
+        "present negative": "はなしたくない",
+        "past affirmative": "はなしたかった",
+        "past negative": "はなしたくなかった"
+      }
+    }
+  },
+  "iAdjectives": {
+    "hot (atsui)": {
+      "chapter": 3,
+      "type": "i-adjective",
+      "polite": {
+        "present affirmative": "あついです",
+        "present negative": "あつくないです",
+        "past affirmative": "あつかったです",
+        "past negative": "あつくなかったです"
+      },
+      "plain": {
+        "present affirmative": "あつい",
+        "present negative": "あつくない",
+        "past affirmative": "あつかった",
+        "past negative": "あつくなかった"
+      }
+    }
+  },
+  "naAdjectives": {
+    "quiet (shizuka)": {
+      "chapter": 4,
+      "type": "na-adjective",
+      "polite": {
+        "present affirmative": "しずかです",
+        "present negative": "しずかではありません",
+        "past affirmative": "しずかでした",
+        "past negative": "しずかではありませんでした"
+      },
+      "plain": {
+        "present affirmative": "しずかだ",
+        "present negative": "しずかではない",
+        "past affirmative": "しずかだった",
+        "past negative": "しずかではなかった"
+      }
+    }
+  },
+  "taiForm": {
+    "want to eat (tabetai)": {
+      "chapter": 5,
+      "type": "tai-form",
+      "polite": {
+        "present affirmative": "たべたいです",
+        "present negative": "たべたくないです",
+        "past affirmative": "たべたかったです",
+        "past negative": "たべたくなかったです"
+      },
+      "plain": {
+        "present affirmative": "たべたい",
+        "present negative": "たべたくない",
+        "past affirmative": "たべたかった",
+        "past negative": "たべたくなかった"
+      }
+    }
+  },
+  "vocabulary": {
+    "book (hon)": {
+      "chapter": 1,
+      "type": "noun",
+      "translation": "ほん"
+    },
+    "student (gakusei)": {
+      "chapter": 1,
+      "type": "noun",
+      "translation": "がくせい"
+    },
+    "car (kuruma)": {
+      "chapter": 2,
+      "type": "noun",
+      "translation": "くるま"
+    },
+    "cat (neko)": {
+      "chapter": 2,
+      "type": "noun",
+      "translation": "ねこ"
+    },
+    "dog (inu)": {
+      "chapter": 3,
+      "type": "noun",
+      "translation": "いぬ"
+    },
+    "station (eki)": {
+      "chapter": 3,
+      "type": "noun",
+      "translation": "えき"
+    }
+  }
+}

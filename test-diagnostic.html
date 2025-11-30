@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Diagnostic Test</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #1e1e2e;
+            color: #e0e0e0;
+        }
+        h1 { color: #4a9eff; }
+        .test-section {
+            background: rgba(255,255,255,0.05);
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            border: 1px solid rgba(74, 158, 255, 0.2);
+        }
+        .success { color: #4CAF50; }
+        .error { color: #f44336; }
+        pre {
+            background: #000;
+            padding: 10px;
+            border-radius: 5px;
+            overflow-x: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>🔍 Japanese Quiz Diagnostic Test</h1>
+    
+    <div class="test-section">
+        <h2>Test 1: Fetch vocab.json</h2>
+        <div id="test1">Testing...</div>
+    </div>
+    
+    <div class="test-section">
+        <h2>Test 2: Load ES6 Modules</h2>
+        <div id="test2">Testing...</div>
+    </div>
+    
+    <div class="test-section">
+        <h2>Test 3: Parse JSON Data</h2>
+        <div id="test3">Testing...</div>
+    </div>
+    
+    <div class="test-section">
+        <h2>Console Errors (if any)</h2>
+        <div id="console-errors">No errors captured yet</div>
+    </div>
+
+    <script>
+        // Capture console errors
+        const consoleErrors = [];
+        const originalError = console.error;
+        console.error = function(...args) {
+            consoleErrors.push(args.join(' '));
+            originalError.apply(console, args);
+            document.getElementById('console-errors').innerHTML = 
+                '<pre class="error">' + consoleErrors.join('\n') + '</pre>';
+        };
+
+        // Test 1: Fetch vocab.json
+        async function test1() {
+            const div = document.getElementById('test1');
+            try {
+                const response = await fetch('vocab.json');
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                const data = await response.json();
+                div.innerHTML = `<span class="success">✅ SUCCESS</span><br>
+                    Loaded ${data.length} vocabulary entries<br>
+                    First entry: ${data[0].hiragana} = ${data[0].english}`;
+                return data;
+            } catch (error) {
+                div.innerHTML = `<span class="error">❌ FAILED</span><br>
+                    Error: ${error.message}`;
+                console.error('Test 1 failed:', error);
+                return null;
+            }
+        }
+
+        // Test 2: Load ES6 modules
+        async function test2() {
+            const div = document.getElementById('test2');
+            try {
+                const module = await import('./config.js');
+                div.innerHTML = `<span class="success">✅ SUCCESS</span><br>
+                    ES6 modules are working<br>
+                    Config loaded: totalQuestions = ${module.config.totalQuestions}`;
+            } catch (error) {
+                div.innerHTML = `<span class="error">❌ FAILED</span><br>
+                    Error: ${error.message}<br>
+                    <small>This might be a CORS issue or module loading problem</small>`;
+                console.error('Test 2 failed:', error);
+            }
+        }
+
+        // Test 3: Parse JSON data
+        async function test3(data) {
+            const div = document.getElementById('test3');
+            if (!data) {
+                div.innerHTML = `<span class="error">⚠️ SKIPPED</span><br>
+                    Cannot test - vocab data not loaded`;
+                return;
+            }
+            
+            try {
+                // Check data structure
+                const sample = data[0];
+                const requiredFields = ['hiragana', 'kanji', 'english', 'kanjiMeanings', 'lessonSection', 'category'];
+                const hasAllFields = requiredFields.every(field => field in sample);
+                
+                if (hasAllFields) {
+                    div.innerHTML = `<span class="success">✅ SUCCESS</span><br>
+                        Data structure is correct<br>
+                        Sample: <pre>${JSON.stringify(sample, null, 2)}</pre>`;
+                } else {
+                    div.innerHTML = `<span class="error">❌ FAILED</span><br>
+                        Missing fields in data structure`;
+                }
+            } catch (error) {
+                div.innerHTML = `<span class="error">❌ FAILED</span><br>
+                    Error: ${error.message}`;
+                console.error('Test 3 failed:', error);
+            }
+        }
+
+        // Run all tests
+        async function runTests() {
+            const data = await test1();
+            await test2();
+            await test3(data);
+        }
+
+        runTests();
+    </script>
+</body>
+</html>

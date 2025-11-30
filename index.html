@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ラモンの稽古帳</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>ラモンの稽古帳</h1>
+        
+        <div class="controls">
+            <button id="filterBtn" class="control-btn">📚 Filter Lessons</button>
+            <button id="startBtn" class="control-btn">Start Quiz</button>
+            <button id="startConjugationBtn" class="control-btn conjugation-btn">Start Conjugation</button>
+            <button id="resetBtn" class="control-btn">Reset</button>
+            <button id="settingsBtn" class="glossy-button">⚙️ Settings</button>
+        </div>
+
+        <div class="stats">
+            <div class="stat-item">
+                <span class="stat-label">Score:</span>
+                <span id="score" class="stat-value">0</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-label">Question:</span>
+                <span id="questionNumber" class="stat-value">0/0</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-label">Available Words:</span>
+                <span id="availableWords" class="stat-value">1076</span>
+            </div>
+        </div>
+
+        <div id="quizCard" class="quiz-card">
+            <div id="questionText" class="question-text">Click "Start Quiz" to begin!</div>
+            <div id="kanjiDisplay" class="kanji-display"></div>
+            <div id="answerArea" class="answer-area"></div>
+        </div>
+
+        <div class="result-message" id="resultMessage"></div>
+    </div>
+
+    <!-- Filter Modal -->
+    <div id="filterModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>📚 Filter Vocabulary</h2>
+                <span class="close">&times;</span>
+            </div>
+            
+            <div class="filter-section">
+                <h3>Lessons (Genki 1)</h3>
+                <div class="filter-tabs">
+                    <button class="tab-btn active" data-tab="lessons">By Lesson</button>
+                    <button class="tab-btn" data-tab="categories">By Category</button>
+                </div>
+                
+                <div id="lessonsTab" class="tab-content active">
+                    <div class="filter-controls">
+                        <button id="selectAllLessons" class="filter-control-btn">Select All</button>
+                        <button id="deselectAllLessons" class="filter-control-btn">Deselect All</button>
+                    </div>
+                    <div id="lessonCheckboxes" class="checkbox-grid"></div>
+                </div>
+                
+                <div id="categoriesTab" class="tab-content">
+                    <div class="filter-controls">
+                        <button id="selectAllCategories" class="filter-control-btn">Select All</button>
+                        <button id="deselectAllCategories" class="filter-control-btn">Deselect All</button>
+                    </div>
+                    <div id="categoryCheckboxes" class="checkbox-grid"></div>
+                </div>
+            </div>
+            
+            <div class="modal-footer">
+                <button id="applyFilter" class="apply-btn">Apply Filter</button>
+            </div>
+        </div>
+    </div>
+
+    <script type="module" src="assets/js/app.js"></script>
+
+<div id="settingsModal" class="modal">
+    <div class="modal-content">
+        <div class="modal-header">
+            <h2>⚙️ Settings / 設定</h2>
+            <span class="close" id="closeSettingsBtn">&times;</span>
+        </div>
+        <div class="modal-body">
+            <div class="setting-item">
+                <h3>Quiz Direction / クイズの方向</h3>
+                <div class="setting-options">
+                    <label class="radio-option">
+                        <input type="radio" name="quizDirection" value="ja-en" checked>
+                        <span>日本語 → English</span>
+                        <p class="option-description">Question in Japanese, answers in English</p>
+                    </label>
+                    <label class="radio-option">
+                        <input type="radio" name="quizDirection" value="en-ja">
+                        <span>English → 日本語</span>
+                        <p class="option-description">Question in English, answers in Japanese</p>
+                    </label>
+                </div>
+            </div>
+        </div>
+        <div class="modal-footer">
+            <button class="glossy-button" id="saveSettingsBtn">Save Settings</button>
+        </div>
+    </div>
+</div>
+</body>
+</html>
